@@ -253,64 +253,64 @@ local game_difficulty_by_num = {
     [ 3 ] = "gd_master"
 }
 
-function add_new_escape_100()     add_new_lc( 9100, 0,   "На Забытый хутор",        "info_way100a" ) end
-function add_new_agroprom_101()   add_new_lc( 9101, 1,   "На Забытый хутор",        "info_way101a" ) end
-function add_new_yantar_102()     add_new_lc( 9102, 2,   "На Янтарь",               "info_way102a" ) end
+function add_new_escape_100()     add_new_lc( 9100, 0,   "На Забутий хутір",        "info_way100a" ) end
+function add_new_agroprom_101()   add_new_lc( 9101, 1,   "На Забутий хутір",        "info_way101a" ) end
+function add_new_yantar_102()     add_new_lc( 9102, 2,   "На Янтар",               "info_way102a" ) end
 function add_new_agroprom_103()   add_new_lc( 9103, 3,   "На Агропром",             "info_way103a" ) end
-function add_new_ros_red_104()    add_new_lc( 9104, 4,   "В Рыжий лес",             "info_way104a" ) end
-function add_new_rostok_105()     add_new_lc( 9105, 5,   "В Рыжий лес",             "info_way105a" ) end
-function add_new_radar_106()      add_new_lc( 9106, 6,   "В Рыжий лес",             "info_way106a" ) end
-function add_new_darkvalley_107() add_new_lc( 9107, 7,   "В Тёмную долину",         "info_way107a" ) end
+function add_new_ros_red_104()    add_new_lc( 9104, 4,   "У Рудий ліс",             "info_way104a" ) end
+function add_new_rostok_105()     add_new_lc( 9105, 5,   "У Рудий ліс",             "info_way105a" ) end
+function add_new_radar_106()      add_new_lc( 9106, 6,   "У Рудий ліс",             "info_way106a" ) end
+function add_new_darkvalley_107() add_new_lc( 9107, 7,   "В Темну долину",         "info_way107a" ) end
 function add_new_yantar_108()     add_new_lc( 9108, 8,   "В зону \"Тесла\"",        "info_way108a" ) end
 function add_new_radar_109()      add_new_lc( 9109, 9,   "В подземную лабораторию", "info_way109a" ) end
-function add_new_mil_110()        add_new_lc( 9110, 10,  "В Туманную чащу",         "info_way110a" ) end
-function add_new_darkvalley_111() add_new_lc( 9111, 11,  "В Туманную чащу",         "info_way111a" ) end
+function add_new_mil_110()        add_new_lc( 9110, 10,  "У Туманну хащу",         "info_way110a" ) end
+function add_new_darkvalley_111() add_new_lc( 9111, 11,  "У Туманну хащу",         "info_way111a" ) end
 function add_new_esc_dar_112()    add_new_lc( 9112, 12,  "В Кишку",                 "info_way112a" ) end
-function add_new_military()       add_new_lc( 592,  67,  "На Склады",               "info_way113a" ) end
-function add_new_rostok()         add_new_lc( 594,  70,  "На Дикую территорию",     "info_way114a" ) end
-function add_new_garbage_116()    add_new_lc( 9116, 16,  "На Свалку",               "info_way116a" ) end
-function add_new_darkvalley_117() add_new_lc( 9117, 17,  "В Тёмную долину",         "info_way117a" ) end
-function add_new_x18_x16_118()    add_new_lc( 9118, 31,  "В лабораторию Х-16"                      ) end
-function add_new_x16_x18_119()    add_new_lc( 9119, 31,  "В лабораторию Х-18"                      ) end
-function add_new_x10_130()        add_new_lc( 9130, 30,  "В лабораторию Х-12",      "info_way130a" ) end
-function add_new_x16_131()        add_new_lc( 9131, 31,  "В лабораторию Х-16",      "info_way131a" ) end
-function add_new_aver_gar_135()   add_new_lc( 9135, 35,  "На свалку",               "info_way135a" ) end
-function add_new_aver_td_136()    add_new_lc( 9136, 36,  "В Тёмную долину",         "info_way136a" ) end
-function add_new_aver_mil_137()   add_new_lc( 9137, 37,  "На Склады",               "info_way137a" ) end
-function add_new_gar_aver_151()   add_new_lc( 9151, 51,  "В туманную чащу",         "info_way151a" ) end
+function add_new_military()       add_new_lc( 592,  67,  "На Склади",               "info_way113a" ) end
+function add_new_rostok()         add_new_lc( 594,  70,  "На Дику територію",     "info_way114a" ) end
+function add_new_garbage_116()    add_new_lc( 9116, 16,  "На Звалище",               "info_way116a" ) end
+function add_new_darkvalley_117() add_new_lc( 9117, 17,  "В Темну долину",         "info_way117a" ) end
+function add_new_x18_x16_118()    add_new_lc( 9118, 31,  "В лабораторію Х-16"                      ) end
+function add_new_x16_x18_119()    add_new_lc( 9119, 31,  "В лабораторію Х-18"                      ) end
+function add_new_x10_130()        add_new_lc( 9130, 30,  "В лабораторію Х-12",      "info_way130a" ) end
+function add_new_x16_131()        add_new_lc( 9131, 31,  "В лабораторію Х-16",      "info_way131a" ) end
+function add_new_aver_gar_135()   add_new_lc( 9135, 35,  "На Звалище",               "info_way135a" ) end
+function add_new_aver_td_136()    add_new_lc( 9136, 36,  "В Темну долину",         "info_way136a" ) end
+function add_new_aver_mil_137()   add_new_lc( 9137, 37,  "На Склади",               "info_way137a" ) end
+function add_new_gar_aver_151()   add_new_lc( 9151, 51,  "У Туманну хащу",         "info_way151a" ) end
 function add_new_mil_gen_154()    add_new_lc( 9154, 54,  "В зону \"Тесла\"",        "info_way154a" ) end
-function add_new_gen_mil_191()    add_new_lc( 9191, 91,  "На Склады",               "info_way191a" ) end
+function add_new_gen_mil_191()    add_new_lc( 9191, 91,  "На Склади",               "info_way191a" ) end
 function add_new_lim_gen_165()    add_new_lc( 9165, 65,  "В зону \"Тесла\"",        "info_way165a" ) end
-function add_new_gen_lim_190()    add_new_lc( 9190, 90,  "В Лиманск",               "info_way190a" ) end
+function add_new_gen_lim_190()    add_new_lc( 9190, 90,  "В Лиманськ",               "info_way190a" ) end
 function add_new_lost_marsh_166() add_new_lc( 9166, 66,  "На Болота",               "info_way166a" ) end
-function add_new_dead_bun_167()   add_new_lc( 9167, 67,  "В лабораторию Х-12"                      ) end
-function add_new_bun_dead_170()   add_new_lc( 9170, 70,  "В Иваньковский райцентр"                 ) end
-function add_new_red_ros_172()    add_new_lc( 9172, 72,  "На Дикую территорию",     "info_way172a" ) end
-function add_new_red_yan_173()    add_new_lc( 9173, 73,  "На Янтарь",               "info_way173a" ) end
-function add_new_red_mil_174()    add_new_lc( 9174, 74,  "На Склады",               "info_way174a" ) end
+function add_new_dead_bun_167()   add_new_lc( 9167, 67,  "В лабораторію Х-12"                      ) end
+function add_new_bun_dead_170()   add_new_lc( 9170, 70,  "В Іваньківський райцентр"                 ) end
+function add_new_red_ros_172()    add_new_lc( 9172, 72,  "На Дику територію",     "info_way172a" ) end
+function add_new_red_yan_173()    add_new_lc( 9173, 73,  "На Янтар",               "info_way173a" ) end
+function add_new_red_mil_174()    add_new_lc( 9174, 74,  "На Склади",               "info_way174a" ) end
 function add_new_lost_agr_176()   add_new_lc( 9176, 76,  "На Агропром",             "info_way176a" ) end
 function add_new_esc_marsh_178()  add_new_lc( 9178, 78,  "На Болота",               "info_way178a" ) end
 function add_new_marsh_esc_179()  add_new_lc( 9179, 79,  "На Кордон",               "info_way179a" ) end
-function add_new_marsh_lost_180() add_new_lc( 9180, 80,  "На Забытый хутор",        "info_way180a" ) end
+function add_new_marsh_lost_180() add_new_lc( 9180, 80,  "На Забутий хутір",        "info_way180a" ) end
 function add_new_marsh_agr_181()  add_new_lc( 9181, 81,  "На Агропром",             "info_way181b" ) end
 function add_new_lost_esc_182()   add_new_lc( 9182, 82,  "На Кордон",               "info_way182a" ) end
 function add_new_agr_marsh_183()  add_new_lc( 9183, 83,  "На Болота",               "info_way183a" ) end
-function add_new_gar_lv_184()     add_new_lc( 9184, 84,  "На Забытый хутор",        "info_way184a" ) end
-function add_new_lv_gar_185()     add_new_lc( 9185, 85,  "На Свалку",               "info_way185a" ) end
-function add_new_warlab_186()     add_new_lc( 9186, 86,  "В лабораторию Х6",        "info_way186a" ) end
-function add_new_x8_187()         add_new_lc( 9187, 87,  "В лабораторию X8"                        ) end
-function add_new_x8_192()         add_new_lc( 9192, 92,  "В лабораторию Х6"                        ) end
-function add_new_red_196()        add_new_lc( 9196, 137, "В Рыжий лес"                             ) end
-function add_new_lim_197()        add_new_lc( 9197, 138, "В Лиманск"                               ) end
+function add_new_gar_lv_184()     add_new_lc( 9184, 84,  "На Забутий хутір",        "info_way184a" ) end
+function add_new_lv_gar_185()     add_new_lc( 9185, 85,  "На Звалище",               "info_way185a" ) end
+function add_new_warlab_186()     add_new_lc( 9186, 86,  "В лабораторію Х6",        "info_way186a" ) end
+function add_new_x8_187()         add_new_lc( 9187, 87,  "В лабораторію X8"                        ) end
+function add_new_x8_192()         add_new_lc( 9192, 92,  "В лабораторію Х6"                        ) end
+function add_new_red_196()        add_new_lc( 9196, 137, "У Рудий ліс"                             ) end
+function add_new_lim_197()        add_new_lc( 9197, 138, "В Лиманськ"                               ) end
 function add_new_hos_dsc_256()    add_new_lc( 9256, 878, "В Кишку"                                 ) end
 
 function add_new_military_01()
-    add_new_lc( 1008, 68, "На Склады" )
+    add_new_lc( 1008, 68, "На Склади" )
     mike.add_spots_bar_mil()
 end
 
 function add_new_dsc_199()
-    add_new_lc( 9199, 141, "В Тёмную долину", "info_way199a" )
+    add_new_lc( 9199, 141, "В Темну долину", "info_way199a" )
     mike.add_spots_dv_k()
 end
 
@@ -1261,8 +1261,8 @@ function add_kont_leshyi()
     if not has_alife_info( "leshyi_umer2" ) then
         sak_dialog.spawn_m_cont( 2 )
         send_tip(
-            "Напали твари, еле убежал! Пришлось бросить контейнер. Не доходя до свинофермы, справа от дороги, возле пня",
-            "Записка Лешего", 11, 20, "death", "sak", "red"
+            "Напали тварюки, ледве втік! Довелося кинути контейнер. Не доходячи до свиноферми, праворуч від дороги, біля пня",
+            "Записка Лісовика", 11, 20, "death", "sak", "red"
         )
         db.actor:give_info_portion( "leshyi_umer2" )
     end
@@ -1270,8 +1270,8 @@ end
 
 function add_garmonika_letter()
     send_tip(
-        "Под кожухом губной гармошки находится листок с непонятным текстом!",
-        "Записка в гармошке", 5, 15, "g_g", "sak", "yellow"
+        "Під кожухом губної гармошки знаходиться листок з незрозумілим текстом!",
+        "Записка в гармошці", 5, 15, "g_g", "sak", "yellow"
     )
     local a = lua_random( 1, 10 )
     db.actor:give_info_portion( "garmonika_letter" .. a )
@@ -1279,8 +1279,8 @@ end
 
 function info_gen_mil_group()
     send_tip(
-        "Так-с... Вояки, скелеты, один в ботанском скафандре... Наверно та самая группа, что вышла с Кордона с Призраком...",
-        "Группа военных и учёных", 5, 15, "g_g", "sak", "yellow"
+        "Так-с... Вояки, скелети, один у ботанському скафандрі... Напевно та сама група, що вийшла з Кордона з Привидом...",
+        "Група військових та вчених", 5, 15, "g_g", "sak", "yellow"
     )
     db.actor:give_info_portion( "gen_mil_group_info" )
     add_gen_mil_items()
@@ -1288,15 +1288,15 @@ end
 
 function info_korovan()
     send_tip(
-        "Так так... Ящички военные, видимо с оружием... Посмотрим...",
-        "Ящики каравана", 5, 15, "g_g", "sak", "yellow"
+        "Так так... Ящики військові, мабуть зі зброєю... Подивимося...",
+        "Ящики каравану", 5, 15, "g_g", "sak", "yellow"
     )
 end
 
 function info_val_zaval()
     send_tip(
-        "Так! Тут же не пролезть! Хотя... Если пару, а ещё лучше, четырех, мужиков попросить подсобить. Вроде раскидать можно.",
-        "Вход завален!", 5, 15, "g_g", "sak", "yellow"
+        "Так! Тут же не пролізти! Хоча... Якщо пару, а ще краще, чотирьох, мужиків попросити допомогти. Тоді начебто і розкидати все це можна.",
+        "Вхід завалений!", 5, 15, "g_g", "sak", "yellow"
     )
 end
 
@@ -1362,9 +1362,9 @@ end
 
 function add_scarman_pda()
     local points = {
-         62.94,  11.36,  52.87, 3336,  32520,  "на Забытом хуторе, сарай там ещё какой-то прямо над оврагом.",
-        -94.02, -2.18, -230.80,  271, 115646,  "где-то на свалке заброшенной техники.",
-        -12.10,  0.63,  297.45,  187, 265404,  "на Кордоне, где-то на фермах."
+         62.94,  11.36,  52.87, 3336,  32520,  "на Забутому хуторі, сарай там ще якийсь прямо над яром.",
+        -94.02, -2.18, -230.80,  271, 115646,  "десь на Звалищі занедбаної техніки.",
+        -12.10,  0.63,  297.45,  187, 265404,  "на Кордоні, десь на фермах."
     }
     local rand = ( amk_vars.r_treas_items or 1 )
     amk.spawn_item( "scarman_pda",
@@ -1525,7 +1525,7 @@ end
 function yan_ghost_pda()
     db.actor:give_info_portion( "yan_provodnik_spawn" )
     db.actor:give_info_portion( "pseudo_ghost" )
-    sak.send_tip( "Это не Призрак!", "Воспоминание", 0, 20, "g_g", "rememb", "yellow" )
+    sak.send_tip( "Це не привид!", "Спогад", 0, 20, "g_g", "rememb", "yellow" )
     local self = level.main_input_receiver()
     if self then
     self:GetHolder():start_stop_menu( self, true )
@@ -1648,7 +1648,7 @@ function docent_x10docs_time_start()
 end
 
 function time_docent_x10docs()
-    send_tip( "Меченный, подходи, есть мысли.", "Сообщение от Доцента", 11, 20, "ecolog", "sak", "green" )
+    send_tip( "Мічений, підходь, є думки.", "Повідомлення від Доцента", 11, 20, "ecolog", "sak", "green" )
     db.actor:give_info_portion( "docent_x10docs_1_1faze" )
 end
 
@@ -1657,7 +1657,7 @@ function docent_x10harddisc_time_start()
 end
 
 function time_docent_x10harddisc()
-    send_tip( "Меченный, подходи, есть мысли.", "Сообщение от Доцента", 11, 20, "ecolog", "sak", "green" )
+    send_tip( "Мічений, підходь, є думки.", "Повідомлення від Доцента", 11, 20, "ecolog", "sak", "green" )
     db.actor:give_info_portion( "docent_x10docs_4faze" )
 end
 
@@ -1765,120 +1765,120 @@ end
 
 function info_received()
     send_tip(
-        "Найдена информация о новом пути!", "Новый путь",
+        "Знайдено інформацію про новий шлях!", "Новий шлях",
         2, 10, "nlc", "pda_news", "sky_blue"
     )
 end
 
 function info_amk_received()
     send_tip(
-        "Найден новый рецепт!", "Найдена информация",
+        "Знайдено новий рецепт!", "Знайдено інформацію",
         2, 10, "artmod", "pda_news", "sky_blue"
     )
 end
 
 function info_strelok_pda()
     send_tip(
-        "В КПК Стрелка предупреждение о фальшивости МОНОЛИТА", "Остановись",
+        "У КПК Стрільця попередження про фальшивість МОНОЛІТУ", "Зупинися",
         2, 20, "g_g", "pda_news", "red"
     )
 end
 
 function info_artmod()
     send_tip(
-        "Найден рецепт преобразования артефакта!", "Новый артмод",
+        "Знайдено рецепт перетворення артефакту!", "Новий артмод",
         5, 10, "artmod", "pda_news", "pink"
     )
 end
 
 function info_code()
     send_tip(
-        "Обнаружена кодовая комбинация блокированной двери!", "Получен код",
+        "Виявлено кодову комбінацію блокованих дверей!", "Отримано код",
         2, 10, "code", "pda_news", "pink"
     )
 end
 
 function info_doktor()
     send_tip(
-        "Странные записи, странного человека. Харон. Кто это?",
-        "Записная книжка Харона",
+        "Дивні записи, дивної людини. Харон. Хто це?",
+        "Записна книжка Харона",
         0, 10, "teleport", "pda_news", "sky_blue"
     )
 end
 
 function info_teleport()
     send_tip(
-        "Телепорт настроен и активирован!", "Телепорт готов",
+        "Телепорт налаштований та активований!", "Телепорт готовий",
         2, 10, "teleport", "sak", "sky_blue"
     )
 end
 
 function mar_zone_tips()
     send_tip(
-        "Сталкер! Стой и не двигайся! Сейчас к тебе подойдут...", "Внимание!",
+        "Сталкер! Стій і не рухайся! Зараз до тебе підійдуть...", "Увага!",
         0, 10, "default", "sak", "red"
     )
 end
 
 function gar_zone_tips()
     send_tip(
-        "Э! Подойди к знаку и не махай стволом, побазарим...", "Внимание!",
+        "Е! Підійди до знаку і не махай стволом, побазаримо...", "Увага!",
         0, 10, "default", "sak", "red"
     )
 end
 
 function gar_zone_2tips()
     send_tip(
-        "Ты чё, не вкурил?! К знаку иди и стой! Завалим, в натуре...", "Внимание!",
+        "Ти шо, не вкурив?! До знаку йди і стій! Завалимо, в натурі...", "Увага!",
         0, 10, "default", "sak", "red"
     )
 end
 
 function info_no_matches()
     send_tip(
-        "Спичек-то нет! Развести огонь не удалось", "Пламя",
+        "Сірників-то немає! Розвести вогонь не вдалося", "Полум'я",
         0, 5, "g_g", "pda_news", "red"
     )
 end
 
 function info_no_battery()
     send_tip(
-        "Прибор не работат. Нет питания. Нужен заряженный аккумулятор.", "Измеритель",
+        "Прилад не працює. Немає живлення. Потрібен заряджений акумулятор.", "Вимірювач",
         0, 5, "g_g", "pda_news", "red"
     )
 end
 
 function info_no_module()
     send_tip(
-        "Что менять-то? Ломать не стоит, мало ли...", "Гармонизатор излучателя",
+        "Що міняти? Ломати не варто, мало що м...", "Гармонізатор випромінювача",
         0, 5, "g_g", "pda_news", "red"
     )
 end
 
 function rad_outfit_in_tip()
     send_tip(
-        "Зафиксировано аномальное воздействие...", "Датчик костюма",
+        "Зафіксовано аномальний вплив...", "Датчик костюма",
         3, 5, "pribor", "pda_news", "red"
     )
 end
 
 function rad_outfit_out_tip()
     send_tip(
-        "Защитное покрытие нормализовано...", "Датчик костюма",
+        "Захисне покриття нормалізоване...", "Датчик костюма",
         3, 5, "pribor", "pda_news", "green"
     )
 end
 
 function info_not_ready()
     send_tip(
-        "Идёт обработка данных, ждите...", "Измеритель",
+        "Йде обробка даних, чекайте...", "Вимірювач",
         0, 5, "pribor", "pda_news", "red"
     )
 end
 
 function info_rep_box()
     send_tip(
-        "Нечем ремонтировать! Нет подготовленных ремкомплектов", "Ремонт",
+        "Ні чим ремонтувати! Немає підготовлених ремкомплектів", "Ремонт",
         0, 5, "g_g", "pda_news", "red"
     )
 end
@@ -1889,8 +1889,8 @@ function info_klava()
         and not has_alife_info( "klava_feik_found1" )
     then
         send_tip(
-            "Странная вещица. Похожа на КПК, только не работает, сзади на корпусе гравировка - {Вергас-08}",
-            "Сломанная клавиатура", 2, 10, "g_g", "pda_news", "sky_blue"
+            "Дивна річ. Схожа на КПК, тільки не працює, ззаду на корпусі гравіювання - {Вергас-08}",
+            "Зламана клавіатура", 2, 10, "g_g", "pda_news", "sky_blue"
         )
         db.actor:give_info_portion( "klava_feik_found1" )
         db.actor:disable_info_portion( "klava_feik_found" )
@@ -2413,8 +2413,8 @@ function check_used_item( obj )
             end
             if act:has_info( "have_tools_in" ) and ( nlc_vars.tools == nil or nlc_vars.tools ~= 1 ) then
                 sak.send_tip(
-                    "Значит инструмент не работает... \\nИли дело вовсе не в этом? \\nОшиблись наёмники, не для оружия он предназначен. Я теперь знаю для чего...",
-                    "Как же так?!", 5, 15, "g_g", "sak", "yellow"
+                    "Значить інструмент не працює...... \\nЧи справа зовсім не в цьому? \\nПомилилися найманці, не для зброї він призначений. Я тепер знаю для чого...",
+                    "Як же так?!", 5, 15, "g_g", "sak", "yellow"
                 )
                 nlc_vars.tools = 1
             end
@@ -2426,8 +2426,8 @@ function check_used_item( obj )
             end
             if nlc_vars.tools_in == nil or nlc_vars.tools_in ~= 1 then
                 sak.send_tip(
-                    "У меня же нет инструмента... \\nНо почему я могу взять оружие без него?! \\nЗначит, что-то всё-таки не так со мной. И не нужен мне никакой инструмент...",
-                    "Как же так?!", 8, 15, "g_g", "sak", "yellow"
+                    "У мене ж немає інструменту... \\nАле чому я можу взяти зброю без нього?! \\nЗначить, щось все-таки не так зі мною. І не потрібен мені ніякий інструмент...",
+                    "Як же так?!", 8, 15, "g_g", "sak", "yellow"
                 )
                 nlc_vars.tools_in = 1
             end
@@ -2452,8 +2452,8 @@ function check_used_item( obj )
     then
         statys_psy = 0
         send_tip(
-            "Цикл измерения прерван! Повторите измерение!",
-            "Статус измерителя", 1, 10, "pribor", "pda_news", "red"
+            "Цикл виміру перервано! Повторіть вимір!",
+            "Статус вимірювача", 1, 10, "pribor", "pda_news", "red"
         )
     --------------------------------------------------------------------------------------------------
     elseif lvl == "l07_military" then
@@ -2486,8 +2486,8 @@ function check_used_item( obj )
         if sect == "letter_for_borov" then
             info = "info_letter_for_borov"
             send_tip(
-                "Мой заместитель, Иванцов, что-то пронюхал.", 
-                "Письмо Борову", 1, 10, "dolg", "pda_news", "sky_blue"
+                "Мій заступник, Іванцов, щось пронюхав.", 
+                "Письмо Кабану", 1, 10, "dolg", "pda_news", "sky_blue"
             )
             misc.release_obj( obj, 'sak.script:check_used_item_release')
         elseif sect == "wpn_vintorez_m1" and not act:has_info( "agr_vintorez_sherstyk_done" ) then
@@ -2530,7 +2530,7 @@ function check_used_item( obj )
         and not act:has_info( "labx10_docs1" .. rand .. "_info" )
     then
         info = "labx10_docs1" .. rand .. "_info"
-        send_tip( "Приказы, хм... Какие-то коды... Посмотрим.", "Документы", 2, 10, "g_g", "no", "sky_blue" )
+        send_tip( "Накази, хм... Якісь коди... Подивимося.", "Документи", 2, 10, "g_g", "no", "sky_blue" )
     end
     --------------------------------------------------------------------------------------------------
     if act == nil or info == nil or act:has_info( info ) then return end
@@ -2558,7 +2558,7 @@ function marsh_zapiska()
             r = r - 1
             if r == 0 then
                 send_tip(
-                    "Клочки бумаги, исписанные листочки, может, что-то интересное?",
+                    "Клаптики паперу, списані листочки, може щось цікаве?",
                     "Записки", 2, 10, "g_g", "no", "sky_blue"
                 )
                 db.actor:give_info_portion( "marsh_zapiska_" .. i )
@@ -2896,8 +2896,8 @@ function add_scanner_artefact()
     if has_alife_info( "mar_military_post_ecolog_have" ) then
         if gvid == 3003 then
             sak.send_tip(
-                "Начато сканирование по программе.",
-                "Прибор установлен правильно", 3, 20, "ecolog", "sak", "green"
+                "Почато сканування за програмою.",
+                "Прилад встановлено правильно", 3, 20, "ecolog", "sak", "green"
             )
             mike.timer_lim_scaner()
         end
@@ -2922,8 +2922,8 @@ end
 
 function info_pribor()
     send_tip(
-        "Блок мониторинга установлен и функционирует.",
-        "Прибор", 2, 10, "g_g", "no", "sky_blue"
+        "Блок моніторингу встановлений та функціонує.",
+        "Прилад", 2, 10, "g_g", "no", "sky_blue"
     )
 end
 
@@ -3027,8 +3027,8 @@ end
 
 function upgrade_start_end()
     send_tip(
-        "Меченный, подходи, вроде получилось.",
-        "Сообщение от Демьяна", 11, 20, "ecolog", "sak", "green"
+        "Мічений, підходь, начебто вийшло.",
+        "Повідомлення від Дем'яна", 11, 20, "ecolog", "sak", "green"
     )
     db.actor:give_info_portion( "upgrade_start_done" )
 end
@@ -3046,8 +3046,8 @@ function yan_izm_psy1_start( obj_id )
     if obj == nil or obj:parent() ~= nil then return end
     timers.start_timer( "yan_izm_psy1", lua_random( 60, 120 ), "sak.yan_izm_psy1_end()" )
     send_tip(
-        "Начато измерение напряженности пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     sak_spawn.add_yan_izm1_monsters()
@@ -3055,7 +3055,7 @@ end
 
 function yan_izm_psy1_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "yan_izm_1faze" )
         db.actor:give_info_portion( "remove_yan_izm_spot1" )
         statys_psy = 0
@@ -3071,8 +3071,8 @@ function yan_izm_psy2_start( obj_id )
     if obj == nil or obj:parent() ~= nil then return end
     timers.start_timer( "yan_izm_psy2", lua_random( 60, 120 ), "sak.yan_izm_psy2_end()" )
     send_tip(
-        "Начато измерение напряжённости пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     sak_spawn.add_yan_izm2_monsters()
@@ -3080,7 +3080,7 @@ end
 
 function yan_izm_psy2_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "yan_izm_2faze" )
         db.actor:give_info_portion( "remove_yan_izm_spot2" )
         statys_psy = 0
@@ -3096,8 +3096,8 @@ function yan_izm_psy3_start( obj_id )
     if obj == nil or obj:parent() ~= nil then return end
     timers.start_timer( "yan_izm_psy3", lua_random( 60, 120 ), "sak.yan_izm_psy3_end()" )
     send_tip(
-        "Начато измерение напряжённости пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     --add_yan_izm3_monsters()
@@ -3105,7 +3105,7 @@ end
 
 function yan_izm_psy3_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "yan_izm_3faze" )
         db.actor:give_info_portion( "remove_yan_izm_spot3" )
         statys_psy = 0
@@ -3115,8 +3115,8 @@ end
 function rad_izm_psy1()
     timers.start_timer( "rad_izm_psy1", lua_random( 60, 120 ), "sak.rad_izm_psy1_end()" )
     send_tip(
-        "Начато измерение напряжённости пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     --add_rad_izm1_monsters()
@@ -3124,7 +3124,7 @@ end
 
 function rad_izm_psy1_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "rad_izm_1faze" )
         db.actor:give_info_portion( "remove_rad_izm_spot1" )
         statys_psy = 0
@@ -3134,8 +3134,8 @@ end
 function rad_izm_psy2()
     timers.start_timer( "rad_izm_psy2", lua_random( 60, 120 ), "sak.rad_izm_psy2_end()" )
     send_tip(
-        "Начато измерение напряжённости пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     --add_rad_izm2_monsters()
@@ -3143,7 +3143,7 @@ end
 
 function rad_izm_psy2_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "rad_izm_2faze" )
         db.actor:give_info_portion( "remove_rad_izm_spot2" )
         statys_psy = 0
@@ -3153,8 +3153,8 @@ end
 function rad_izm_psy3()
     timers.start_timer( "rad_izm_psy3", lua_random( 60, 120 ), "sak.rad_izm_psy3_end()" )
     send_tip(
-        "Начато измерение напряжённости пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     --add_rad_izm3_monsters()
@@ -3162,7 +3162,7 @@ end
 
 function rad_izm_psy3_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "rad_izm_3faze" )
         db.actor:give_info_portion( "remove_rad_izm_spot3" )
         statys_psy = 0
@@ -3281,8 +3281,8 @@ function sak.discharge_accum( flag, quiet )
         else
             if arts_operate == true then
                 send_tip(
-                    "Аккумуляторная батарея разряжена",
-                    "Аккумулятор", 2, 10, "pribor", "pda_news", "red"
+                    "Акумуляторна батарея розряджена",
+                    "Акумулятор", 2, 10, "pribor", "pda_news", "red"
                 )
                 nvd_params.disable_NVD()
                 arts_operate               = false
@@ -3536,8 +3536,8 @@ function klyk_med_psy1_start( obj_id )
     if obj == nil or obj:parent() ~= nil then return end
     timers.start_timer( "klyk_med_psy1", lua_random( 60, 120 ), "sak.klyk_med_psy1_end()" )
     send_tip(
-        "Начато измерение напряжённости пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     sak_spawn.add_klyk_med1_monsters()
@@ -3545,7 +3545,7 @@ end
 
 function klyk_med_psy1_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "agr_klyk_1faze" )
         db.actor:give_info_portion( "agr_remove_klyk_med_spot1" )
         statys_psy = 0
@@ -3561,8 +3561,8 @@ function klyk_med_psy2_start( obj_id )
     if obj == nil or obj:parent() ~= nil then return end
     timers.start_timer( "klyk_med_psy2", lua_random( 60, 120 ), "sak.klyk_med_psy2_end()" )
     send_tip(
-        "Начато измерение напряжённости пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     sak_spawn.add_klyk_med2_monsters()
@@ -3570,7 +3570,7 @@ end
 
 function klyk_med_psy2_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "agr_klyk_2faze" )
         db.actor:give_info_portion( "agr_remove_klyk_med_spot2" )
         statys_psy = 0
@@ -3586,8 +3586,8 @@ function klyk_med_psy3_start( obj_id )
     if obj == nil or obj:parent() ~= nil then return end
     timers.start_timer( "klyk_med_psy3", lua_random( 60, 120 ), "sak.klyk_med_psy3_end()" )
     send_tip(
-        "Начато измерение напряжённости пси-поля, до завершения цикла прибор не поднимать!",
-        "Статус измерителя", 2, 10, "pribor", "pda_news", "green"
+        "Почато вимірювання напруженості псі-поля, до завершення циклу прилад не піднімати!",
+        "Статус вимірювача", 2, 10, "pribor", "pda_news", "green"
     )
     statys_psy = 1
     sak_spawn.add_klyk_med3_monsters()
@@ -3595,7 +3595,7 @@ end
 
 function klyk_med_psy3_end()
     if statys_psy == 1 then
-        send_tip( "Цикл измерения завершён", "Статус измерителя", 2, 10, "pribor", "pda_news", "green" )
+        send_tip( "Цикл вимірювання завершено", "Статус вимірювача", 2, 10, "pribor", "pda_news", "green" )
         db.actor:give_info_portion( "agr_klyk_3faze" )
         db.actor:give_info_portion( "agr_remove_klyk_med_spot3" )
         statys_psy = 0
@@ -4419,22 +4419,22 @@ function repair_box_repair( obj )
                     snd_obj:play_no_feedback( db.actor, sound_object.s2d, 0, vector(), 1.0 )
                 end
                 send_tip(
-                        "Оружие отремонтировано на %c[255,0,255,0]" .. tostring( math.ceil( rep_percent * 100 ) ) .. "%",
+                        "Зброя відремонтована на %c[255,0,255,0]" .. tostring( math.ceil( rep_percent * 100 ) ) .. "%",
                         nil, 12, 5, "g_g", "no", "green"
                     )
                 xr_statistic.add_pts( "stalkerkills", game.translate_string( "st_pda_weapon_repairs" ), 1, 0 )
                 timers.start_timer( "time_rep", 13, "sak.restore_weap()" )
             elseif ( slot_1 and slot_1:condition() <0.87 ) or ( slot_2 and slot_2:condition() < 0.87 ) then
-                send_tip( "Слишком сильное повреждение оружия!", nil, 2, 5, "g_g", "no", "red" )
+                send_tip( "Занадто сильне пошкодження зброї!", nil, 2, 5, "g_g", "no", "red" )
                 misc.spawn_to( obj:section() .. "_feik", actor )
             else
-                send_tip( "Оружие не нуждается в починке!", nil, 2, 5, "g_g", "no", "green" )
+                send_tip( "Зброя не потребує ремонту!", nil, 2, 5, "g_g", "no", "green" )
                 misc.spawn_to( obj:section() .. "_feik", actor )
             end
         elseif obj and obj:section() == "repair_itemoutfit" then
             if armor then
                 if str_in_tab( armor:section(), { "bandit_veteran_", "bandit_master_" } ) then
-                    send_tip( "Для кожаного плаща не подходит!", nil, 2, 5, "g_g", "no", "yellow" )
+                    send_tip( "Для шкіряного плаща не підходить!", nil, 2, 5, "g_g", "no", "yellow" )
                     misc.spawn_to( obj:section().."_feik", actor )
                 else
                     if armor:condition() >= 0.87 and armor:condition() < 0.985 then
@@ -4458,21 +4458,21 @@ function repair_box_repair( obj )
                         snd_obj = xr_sound.get_safe_sound_object( sound )
                         snd_obj:play_no_feedback( db.actor, sound_object.s2d, 0, vector(), 1.0 )
                         send_tip(
-                            "Броня отремонтирована на %c[255,0,255,0]" .. tostring( math.ceil( rep_percent * 100 ) ) .. "%",
+                            "Броня відремонтована на %c[255,0,255,0]" .. tostring( math.ceil( rep_percent * 100 ) ) .. "%",
                             nil, 12, 5, "g_g", "no", "green"
                         )
                         xr_statistic.add_pts( "stalkerkills", game.translate_string( "st_pda_armor_repairs" ), 1, 0 )
                         schedule.add( "tm_rep", "sak.return_mask()", 12500 )
                     elseif armor:condition() < 0.87 then
-                        send_tip( "Слишком сильное повреждение брони!", nil, 2, 5, "g_g", "no", "red" )
+                        send_tip( "Занадто сильне пошкодження броні!", nil, 2, 5, "g_g", "no", "red" )
                         misc.spawn_to( obj:section() .. "_feik", actor )
                     else
-                        send_tip( "Броня не нуждается в починке!", nil, 2, 5, "g_g", "no", "green" )
+                        send_tip( "Броня не потребує ремонту!", nil, 2, 5, "g_g", "no", "green" )
                         misc.spawn_to( obj:section().."_feik", actor )
                     end
                 end
             else
-                send_tip( "А что же ремонтировать то? Нечего!", nil, 2, 5, "g_g", "no", "yellow" )
+                send_tip( "А що ж ремонтувати? Нема чого!", nil, 2, 5, "g_g", "no", "yellow" )
                 misc.spawn_to( obj:section().."_feik", actor )
             end
         end
@@ -4596,12 +4596,12 @@ function repair_on()
                 "sak.repair_tiski_do("..slot..","..slot_obj..","..r_box_id..","..repiout..","..repiweap..")", 12500
             )
         else
-            send_tip( "Нечего ремонтировать...", nil, 2, 5, "g_g", "no", "sky_blue" )
+            send_tip( "Нема чого ремонтувати...", nil, 2, 5, "g_g", "no", "sky_blue" )
             restore_weap()
         end
         tiski = nil
     else
-        send_tip( "Неудобно работать! Нужно немного отойти...", nil, 2, 5, "g_g", "no", "sky_blue" )
+        send_tip( "Незручно працювати! Потрібно трохи відійти...", nil, 2, 5, "g_g", "no", "sky_blue" )
         restore_weap()
     end
 end
@@ -4624,16 +4624,16 @@ function repair_tiski_do( slot, slot_obj_id, r_box_id, repiout, repiweap )
                     if rep_point > 1 then rep_point = 1 end
                     slot_obj:set_condition( rep_point )
                     send_tip(
-                        "Оружие отремонтировано на %c[255,0,255,0]".. tostring( math.ceil( rep_percent_tiski * 100 ) ) .. "%...",
+                        "Зброя відремонтована на %c[255,0,255,0]".. tostring( math.ceil( rep_percent_tiski * 100 ) ) .. "%...",
                         nil, 2, 5, "g_g", "no", "green"
                     )
                     xr_statistic.add_pts( "stalkerkills", game.translate_string( "st_pda_weapon_repairs" ), 1, 0 )
                     repiweap = repiweap - 1
                 else
-                    send_tip( "Оружие слишком повреждено", nil, 2, 5, "g_g", "no", "red" )
+                    send_tip( "Зброя занадто пошкоджена", nil, 2, 5, "g_g", "no", "red" )
                 end
             else
-                send_tip( "Нет комплекта для ремонта оружия", nil, 2, 5, "g_g", "no", "red" )
+                send_tip( "Немає комплекту для ремонту зброї", nil, 2, 5, "g_g", "no", "red" )
             end
         elseif slot == 2 then
             if repiweap ~= 0 then
@@ -4645,21 +4645,21 @@ function repair_tiski_do( slot, slot_obj_id, r_box_id, repiout, repiweap )
                     if rep_point > 1 then rep_point = 1 end
                     slot_obj:set_condition( rep_point )
                     send_tip(
-                        "Оружие отремонтировано на %c[255,0,255,0]".. tostring( math.ceil( rep_percent_tiski * 100 ) ) .. "%...",
+                        "Зброя відремонтована на %c[255,0,255,0]".. tostring( math.ceil( rep_percent_tiski * 100 ) ) .. "%...",
                         nil, 2, 5, "g_g", "no", "green"
                     )
                     xr_statistic.add_pts( "stalkerkills", game.translate_string( "st_pda_weapon_repairs" ), 1, 0 )
                     repiweap = repiweap - 1
                 else
-                    send_tip( "Оружие слишком повреждено", nil, 2, 5, "g_g", "no", "red" )
+                    send_tip( "Зброя занадто пошкоджена", nil, 2, 5, "g_g", "no", "red" )
                 end
             else
-                send_tip( "Нет комплекта для ремонта оружия", nil, 2, 5, "g_g", "no", "red" )
+                send_tip( "Немає комплекту для ремонту зброї", nil, 2, 5, "g_g", "no", "red" )
             end
         elseif slot == 6 then
             if repiout ~= 0 then
                 if str_in_tab( slot_obj:section(), { "bandit_veteran_", "bandit_master_" } ) then
-                    send_tip( "Для кожаного плаща не подходит!", nil, 2, 5, "g_g", "no", "yellow" )
+                    send_tip( "Для шкіряного плаща не підходить!", nil, 2, 5, "g_g", "no", "yellow" )
                 else
                     if slot_obj:condition() >= 0.75 then
                         local arm_sect    = slot_obj:section()
@@ -4675,22 +4675,22 @@ function repair_tiski_do( slot, slot_obj_id, r_box_id, repiout, repiweap )
                         if rep_point > 1 then rep_point = 1 end
                         amk_mod.repair_armor( rep_point )
                         send_tip(
-                            "Ну вот, подлатали на %c[255,0,255,0]".. tostring( math.ceil( rep_percent_tiski * 100 ) ) .. "%...",
+                            "Ну ось, підлатали на %c[255,0,255,0]".. tostring( math.ceil( rep_percent_tiski * 100 ) ) .. "%...",
                             nil, 2, 5, "g_g", "no", "green"
                         )
                         xr_statistic.add_pts( "stalkerkills", game.translate_string( "st_pda_armor_repairs" ), 1, 0 )
                         repiout = repiout - 1
                     else
-                        send_tip( "Слишком поврежден костюмчик-то", nil, 2, 5, "g_g", "no", "red" )
+                        send_tip( "Занадто пошкоджений костюмчик", nil, 2, 5, "g_g", "no", "red" )
                     end
                 end
             else
-                send_tip( "Нет комплекта для ремонта", nil, 2, 5, "g_g", "no", "red" )
+                send_tip( "Немає комплекту для ремонту", nil, 2, 5, "g_g", "no", "red" )
             end
             vergas_masks.set_flag_minimap( true )
         end
     else
-        send_tip( "Вроде все нормально...", nil, 2, 5, "g_g", "no", "sky_blue" )
+        send_tip( "Начебто все нормально...", nil, 2, 5, "g_g", "no", "sky_blue" )
     end
     local r_box       = alife():object( r_box_id )
     local pk          = get_netpk( r_box, 1 )
@@ -5161,8 +5161,8 @@ function set_community()
         end
         act:give_info_portion( "val_bandit_talk" )
         send_tip(
-            "Короче, если чё - подваливай. Пахан согласен.",
-            "Типку с корявой рожей", 11, 20, "death", "sak", "red"
+            "Коротше, якщо що - підвалюй. Пахан згоден.",
+            "Типку з кострубатою пикою", 11, 20, "death", "sak", "red"
         )
     end
 end
@@ -5367,8 +5367,8 @@ end
 
 function dead_prizrak_info()
     send_tip(
-        "Это Бармен. Меченный, есть для тебя важное дело. Заходи.",
-        "Сообщение для Меченного", 11, 20, "barman", "sak", "red"
+        "Це Бармен. Мічений, є для тебе важлива справа. Заходь.",
+        "Повідомлення для Міченого", 11, 20, "barman", "sak", "red"
     )
     db.actor:give_info_portion( "dead_prizrak_barmen_info" )
 end
@@ -6097,7 +6097,7 @@ function grabb_bar_seif ( obj_id, actor )
         actor:give_info_portion( "bar_seif_prot_out" )
         local name, sname = amk_names_lists.get_strings()
         send_tip(
-            "Слыхали? Сталкера в баре отключили! Спит сутки без просыпу!",
+            "Чули? Сталкера у барі відключили! Спить вже добу без просипу!",
             name.." "..sname, 20, 15, "uniq", "news", "gray"
         )
         for n = 1, cnt do
@@ -6240,8 +6240,8 @@ function add_rem_infos()
     local count = nlc_vars.rem_count or 0
     if count > 8 then return end
     send_tip(
-        "Что-то мелькнуло в голове... Вспомнилось или так, показалось...\\nНадо бы записать, а то вдруг опять забудется.",
-        "Воспоминание", 2, 20, "g_g", "rememb", "yellow"
+        "Щось промайнуло в голові... Здалося чи придав можливо щось...\\nЗапишу про всяк випадок, то раптом знову забудеться",
+        "Спогад", 2, 20, "g_g", "rememb", "yellow"
     )
     nlc_vars.rem_count = count + 1
     local character    = math.floor( ( ( amk_vars.r_task_reward or 1 ) + ( amk_vars.x18_iq_check or 1 ) ) / 2 )
@@ -7113,7 +7113,7 @@ end
 function first_rem()
     if not has_alife_info( "first_remember" ) then
         db.actor:give_info_portion( "first_remember" )
-        send_tip( "Кажется, я помню как туда попасть!", "Воспоминание", 2, 20, "g_g", "rememb", "yellow" )
+        send_tip( "Кажется, я помню как туда попасть!", "Спогад", 2, 20, "g_g", "rememb", "yellow" )
     end
     level.add_pp_effector( "blink.ppe", 234, false )
     level.add_pp_effector( "teleport.ppe", 2006, false )
@@ -7138,8 +7138,8 @@ function gar_stalker_info()
     if not has_alife_info( "gar_stalker_info2" ) then
         if db.actor:has_info( "gar_stalker_info" ) then
             send_tip(
-                "Знакомая личность и ствол! Кажется у Борова был умелец, который мог модифицировать оружие...",
-                "Воспоминание", 2, 20, "g_g", "rememb", "yellow"
+                "Знайома особистість і ствол! Здається у Кубана був умілець, який міг модифікувати зброю...",
+                "Спогад", 2, 20, "g_g", "rememb", "yellow"
             )
             db.actor:give_info_portion( "gar_stalker_info2" )
         end
@@ -7148,8 +7148,8 @@ end
 
 function lim_podval_news()
     send_tip(
-        "Эту дверь не открыть даже ломом. Взорвать что ли? У Михалыча наверно есть динамит...",
-        "Заклинило что-ли?", 5, 15, "g_g", "sak", "yellow"
+        "Ці двері не відчинити навіть ломом. Підірвати чи що? У Михалича напевно є динаміт...",
+        "Зоклинило щось?", 5, 15, "g_g", "sak", "yellow"
     )
 end
 
@@ -7193,7 +7193,7 @@ function gulag_freedom_enemy_actor()
     relation_registry.set_community_goodwill( "freedom", db.actor:id(), -5000 )
     xr_gulag.setGulagRelation( "mil_freedom", game_object.enemy, db.actor )
     db.actor:give_game_news(
-        "%c[255,160,160,160]\"Свобода\"\\n%c[default]Внимание всем нашим! Видели одного сталкера, который убил нашего! Его опознали - Меченный гад! Валите как увидите!",
+        "%c[255,160,160,160]\"Воля\"\\n%c[default]Увага всім нашим! Бачили одного сталкера, який убив нашого! Його впізнали - це Мічений гад! Валіть його як побачите!",
         "ui\\ui_iconsTotal", Frect():set( 498, 94, 83, 47 ), 3000, 15000
     )
 end
@@ -7255,7 +7255,7 @@ function set_val_gulag_enemy_actor()
 end
 
 function psevdowounded_help()
-    send_tip( "Помогите кто-нибудь, я ранен!", "Получен SOS", 2, 20, "stalker", "sak", "red" )
+    send_tip( "Допоможіть хтось, я поранений!", "Отримано SOS", 2, 20, "stalker", "sak", "red" )
 end
 
 function get_inv_name( section )
@@ -7287,30 +7287,30 @@ end
 function send_treasure( name )
     local level_name = {}
     level_name[ "esc"  ] = "Кордон"
-    level_name[ "gar"  ] = "Свалка"
-    level_name[ "agr"  ] = "НИИ Агропром"
-    level_name[ "agru" ] = "Подвалы Агропрома"
-    level_name[ "val"  ] = "Тёмная долина"
-    level_name[ "mil"  ] = "Армейские склады"
-    level_name[ "yan"  ] = "Янтарь"
-    level_name[ "x16"  ] = "Лаборатория Х-16"
+    level_name[ "gar"  ] = "Звалище"
+    level_name[ "agr"  ] = "НДІ Агропром"
+    level_name[ "agru" ] = "Підвали Агропрома"
+    level_name[ "val"  ] = "Темна долина"
+    level_name[ "mil"  ] = "Армійські Склади"
+    level_name[ "yan"  ] = "Янтар"
+    level_name[ "x16"  ] = "Лабораторія Х-16"
     level_name[ "rad"  ] = "Радар"
-    level_name[ "pri"  ] = "Припять"
-    level_name[ "x18"  ] = "Лаборатория Х-18"
-    level_name[ "bar"  ] = "Территория Долга"
-    level_name[ "ros"  ] = "Дикая территория"
+    level_name[ "pri"  ] = "Прип'ять"
+    level_name[ "x18"  ] = "Лабораторія Х-18"
+    level_name[ "bar"  ] = "Територія Обов'язку"
+    level_name[ "ros"  ] = "Дика територія"
     level_name[ "mar"  ] = "Болота"
-    level_name[ "lim"  ] = "Лиманск"
-    level_name[ "hos"  ] = "Санаторий"
-    level_name[ "aver" ] = "Туманная чаща"
-    level_name[ "avp"  ] = "Подземелье диггеров"
-    level_name[ "pes"  ] = "Катакомбы"
-    level_name[ "vil"  ] = "Забытый хутор"
-    level_name[ "red"  ] = "Рыжий лес"
+    level_name[ "lim"  ] = "Лиманськ"
+    level_name[ "hos"  ] = "Санаторій"
+    level_name[ "aver" ] = "Туманна хаща"
+    level_name[ "avp"  ] = "Підземелля дігерів"
+    level_name[ "pes"  ] = "Катакомби"
+    level_name[ "vil"  ] = "Забутий хутір"
+    level_name[ "red"  ] = "Рудий ліс"
     level_name[ "gen"  ] = "Зона Тесла"
     level_name[ "puz"  ] = "Тихая роща"
     level_name[ "dsc"  ] = "Кишка"
-    level_name[ "lost" ] = "Забытый хутор"
+    level_name[ "lost" ] = "Забутий хутір"
     amk.pda_news:play( db.actor, 0, sound_object.s2d )
     local task_texture, task_rect = get_texture_info( "ui_iconsTotal_found_thing" )
     local level_key = string.sub( name, 1, strpos( name, "_s", 1, plain ) - 1 )
@@ -7318,13 +7318,13 @@ function send_treasure( name )
     if level_name[ level_key ] ~= nil then
         tmp_str = level_name[ level_key ] .. ": "
     else
-        tmp_str = "Где-то там: "
+        tmp_str = "Десь там: "
     end
     local news_text = "%c[255,1,255,255]" .. game.translate_string( "st_found_new_treasure" )
         .. "\\n" .. "%c[120,255,120,160]" .. tmp_str 
         .. "%c[170,200,200,200]" .. game.translate_string( name )
     if name == "pda_secret" then
-        news_text = "%c[ 255, 230, 255, 1 ] Неужто наводка на схрон? Не мешало бы проверить..."
+        news_text = "%c[ 255, 230, 255, 1 ] Невже наведення на схованку? Не завадило б перевірити..."
     end
     if db.actor:is_talking() then
         db.actor:give_talk_message( news_text, task_texture, task_rect, "iconed_answer_item" )
@@ -7507,8 +7507,8 @@ end
 function timer_docs_sidor_end()
     if not db.actor:has_info( "escape_lager_volk_document_done" ) then
         send_tip(
-            "Меченный, зайди ко мне, есть дело для тебя!",
-            "Сообщение от Сидоровича", 11, 20, "trader", "sak", "red"
+            "Мічений, зайди до мене, є справа для тебе!",
+            "Повідомлення від Сидоровича", 11, 20, "trader", "sak", "red"
         )
         db.actor:give_info_portion( "escape_lager_volk_document_done" )
     end
@@ -7522,8 +7522,8 @@ end
 
 function timer_return_x18_end()
     send_tip(
-        "Сталкеры, если есть желание рискнуть, но получить достойную награду, заходите!\\nЕсли кто увидит Меченного, его это касается в первую очередь.",
-        "Сообщение от Бармена", 11, 20, "barman", "sak", "green"
+        "Сталкери, якщо є бажання ризикнути, але отримати гідну нагороду, заходьте!\\nЯкщо хто побачить Міченого, його це стосується в першу чергу.",
+        "Повідомлення від Бармена", 11, 20, "barman", "sak", "green"
     )
     db.actor:give_info_portion( "return_x18_info" )
 end
@@ -7534,8 +7534,8 @@ end
 
 function timer_barman_1_end()
     send_tip(
-        "Меченный, зайди ко мне, есть дело для тебя!",
-        "Сообщение от Бармена", 11, 20, "barman", "sak", "green"
+        "Мічений, зайди до мене, є справа для тебе!",
+        "Повідомлення від Бармена", 11, 20, "barman", "sak", "green"
     )
     db.actor:give_info_portion( "agroprom_military_case_know" )
 end
@@ -7596,7 +7596,7 @@ end
 function max_things_attantion()
     if not has_alife_info( "max_good_start" ) then
         send_tip(
-            "Мужики, если кто собирается на Кордон - подходите, дело есть...",
+            "Мужики, якщо хтось збирається на Кордон - підходьте, справа є...",
             "Макс", 11, 20, "freedom", "sak", "green"
         )
         db.actor:give_info_portion( "max_good_start" )
@@ -7604,7 +7604,7 @@ function max_things_attantion()
 end
 
 function ivancov_case_good()
-    send_tip( "Меченный, будешь в Баре - подойди, поговорим!", "Сообщение от Иванцова", 11, 20, "dolg", "sak", "green" )
+    send_tip( "Мічений, будеш у Барі - підійди, поговоримо!", "Повідомлення від Іванцова", 11, 20, "dolg", "sak", "green" )
     if not has_alife_info( "ivancov_good_start" ) then
         db.actor:give_info_portion( "ivancov_good_start" )
     else
@@ -7617,7 +7617,7 @@ function timer_barman_2()
 end
 
 function timer_barman_2_end()
-    send_tip( "Меченный, зайди ко мне, есть дело для тебя!", "Сообщение от Бармена", 11, 20, "barman", "sak", "green" )
+    send_tip( "Мічений, зайди до мене, є справа для тебе!", "Повідомлення від Бармена", 11, 20, "barman", "sak", "green" )
     db.actor:give_info_portion( "bar_x16_documents_know" )
 end
 
@@ -7626,15 +7626,15 @@ function timer_barman_3()
 end
 
 function timer_barman_3_end()
-    send_tip( "Меченный, зайди ко мне, есть дело для тебя!", "Сообщение от Бармена", 11, 20, "barman", "sak", "green" )
+    send_tip( "Мічений, зайди до мене, є справа для тебе!", "Повідомлення від Бармена", 11, 20, "barman", "sak", "green" )
     db.actor:give_info_portion( "bar_x18_documents_know" )
 end
 
 function info_borov_11()
     if not has_alife_info( "esc_bridge_pass_fire" ) then
     send_tip(
-        "Меченный, мне сообщили, что тебя видели в Тёмной долине. На меня Сахаров вышел - говорит, там какая-то их экспедиция пропала, а ему нужны результаты той экспедиции. Так что, если найдёшь там что, - тащи Сахарову!",
-        "Сообщение от Сидоровича", 11, 20, "trader", "sak", "red"
+        "Мічений, мені повідомили, що тебе бачили в Темній долині. На мене Сахаров вийшов - каже, там якась їхня експедиція пропала, а йому потрібні результати тієї експедиції. Так що, якщо знайдеш там що, - тягни Сахарову!",
+        "Повідомлення від Сидоровича", 11, 20, "trader", "sak", "red"
     )
     end
     db.actor:give_info_portion( "borov_11_saharov_start" )
@@ -7643,8 +7643,8 @@ end
 function add_sidor_info_kuzn()
     if not has_alife_info( "esc_kuzn_umer" ) then
     send_tip(
-        "Сталкеры! Вояки в Долине рейд проводят - не суйтесь туда. Одним из отрядов в оцеплении командует наш хороший знакомый из-под моста. Просил не нарываться в районе перехода с Долины на Свалку...",
-        "Сообщение от Сидоровича", 11, 20, "trader", "sak", "red"
+        "Сталкери! Вояки в Долині рейд проводять - не лізьте туди. Одним із загонів в оточенні командує наш добрий знайомий з-під моста. Просив не нариватися в районі переходу з Долини на Звалище...",
+        "Повідомлення від Сидоровича", 11, 20, "trader", "sak", "red"
     )
     db.actor:give_info_portion( "sidor_info_kuzn" )
     timers.start_timer( "timer_kuzn", 1, 5, 0, "sak.timer_timer_kuzn_end()" )
@@ -7658,32 +7658,32 @@ end
 
 function info_borov_entres()
     send_tip(
-        "Это Пахан. В общем, сделано всё, можешь двигать...",
-        "Сообщение для Меченного", 11, 20, "death", "sak", "red"
+        "Це Пахан. Загалом, зроблено все, можеш топати...",
+        "Повідомлення для Міченого", 11, 20, "death", "sak", "red"
     )
     val_beton_block_off()
 end
 
 function info_barman_entres()
     send_tip(
-        "Здесь Бармен. В общем, сделано всё, можешь двигать...",
-        "Сообщение для Меченного", 11, 20, "barman", "sak", "red"
+        "Це Бармен. Загалом, зроблено все, можеш топати...",
+        "Повідомлення для Міченого", 11, 20, "barman", "sak", "red"
     )
     val_beton_block_off()
 end
 
 function info_kulinar_entres()
     send_tip(
-        "Это Кулинар. В общем, сделано всё, можешь двигать...",
-        "Сообщение для Меченного", 11, 20, "stalker", "sak", "red"
+        "Це Кулінар. Загалом, зроблено все, можеш топати...",
+        "Повідомлення для Міченого", 11, 20, "stalker", "sak", "red"
     )
     val_beton_block_off()
 end
 
 function info_voron_entres()
     send_tip(
-        "Это Ворон. В общем, сделано всё, можешь двигать...",
-        "Сообщение для Меченного", 11, 20, "stalker", "sak", "red"
+        "Це Ворон. Загалом, зроблено все, можеш топати...",
+        "Повідомлення для Міченого", 11, 20, "stalker", "sak", "red"
     )
     val_beton_block_off()
 end
@@ -7732,8 +7732,8 @@ function esc_trader_start_quest()
         and has_alife_info( "helping_fox" )
     then
         send_tip(
-            "Меченный, есть одно дело... Забегай по возможности.",
-            "Сообщение от Сидоровича", 0, 20, "trader", "sak", "red"
+            "Мічений, є одна справа... Забігай по можливості.",
+            "Повідомлення від Сидоровича", 0, 20, "trader", "sak", "red"
         )
     end
     if not has_alife_info( "tutorial_wounded_give_info" ) then
@@ -7949,7 +7949,7 @@ function bar_korovan_3()
     local objt = g_sim:story_object( story_ids.agr_korovan_zone )
     if objt then
         amk.add_spot_on_map(
-            objt.id, "crlc_big_treasure" .. spot, "Место нападения на караван с оружием"
+            objt.id, "crlc_big_treasure" .. spot, "Місце нападу на караван зі зброєю"
         )
     end
 end
@@ -8012,13 +8012,13 @@ function add_gen_mil_items()
 end
 
 local repliks = {
-    "Кто будет лазить по моей нычке - получит в бубен!",
-    "А что за гадёныш в моём хабаре роется?",
-    "Что там за любопытный влез не в своё дело?",
-    "Народ, кто-то там залез в мою нычку, проверьте.",
-    "Что-то маячок сработал на моей нычке - залез что-ли кто?",
-    "Э! А ну харэ в моём схроне крысятничать! В репу засвечу - мало не покажется!",
-    "Вот кто-то сейчас огребёт! Не суй нос в чужой хабар!"
+    "Хто лазитиме в мою схованку - отримає в лоба!",
+    "А що за гаденя в моєму хабарі риється?",
+    "Що там за дуже цікавенький вліз не у свою справу?",
+    "Народе, хтось там заліз у мою ничку, перевірте.",
+    "Щось маячок спрацював на моїй ничці - риється хто?",
+    "А ну харе в моєму схроні колупатись! В ріпу засвічу - мало не здасться!",
+    "Ось хтось зараз огребе! Не суй ніс у чужий хабар!"
 }
 
 local trs_sound_flag, trs_sound_sid = false, nil
@@ -8051,7 +8051,7 @@ function on_use_obj( obj )
                 local grupp = game.translate_string( owner:community() )
                 local mtext = vname .. ". " .. grupp
                     .. ". " .. news_main.get_level_name( news_main.get_object_levelname( owner ) ) .."."
-                send_tip( "Владелец этой нычки " .. mtext, "Чужой тайник", 1, 10, "default", "task", "red" )
+                send_tip( "Власник цієї нички " .. mtext, "Чужа схованка", 1, 10, "default", "task", "red" )
                 local rnd_tip = lua_random( 1, #repliks )
                 amk.send_tip( repliks[ rnd_tip ], vname, 45, 13, "uniq" )
                 amk_offline_alife.set_box_owner( box_id, BAD_OBJ_ID )
@@ -8060,7 +8060,7 @@ function on_use_obj( obj )
                 )
             else
                 send_tip(
-                    "Владелец этого тайника умер...", vname, 1, 10, "default", "task", "green"
+                    "Власник цієї схованки помер...", vname, 1, 10, "default", "task", "green"
                 )
                 amk_offline_alife.set_box_owner( box_id, BAD_OBJ_ID )
             end
@@ -9163,8 +9163,8 @@ end
 
 function no_benzino_sms()
     send_tip(
-        "Видать закончился здесь бензиныч.",
-        "Да, недолго музыка играла...", 2, 15, "g_g", "sak", "yellow"
+        "Мабуть закінчився тут бензин.",
+        "Так, недовго музика грала...", 2, 15, "g_g", "sak", "yellow"
     )
 end
 
@@ -10058,7 +10058,7 @@ function add_anom_spot()
     local robjd   = amk.spawn_item( "dots_item",
         v3f( ( act_pos.x + xdelta ), ( act_pos.y - 1 ), ( act_pos.z + zdelta ) ), gvid, lvid
     )
-    amk.add_spot_on_map( robjd.id, "anomaly_zone_location", "%c[255,255,0,0] аномалия" )
+    amk.add_spot_on_map( robjd.id, "anomaly_zone_location", "%c[255,255,0,0] аномалія" )
 end
 
 function get_command( com ) get_console():execute( com ) end
@@ -10083,8 +10083,8 @@ function add_vil_ranger_treasure()
     if not has_alife_info( "petruha_info_treasure" ) then
         sak_dialog.added_vil_ranger_treasure()
         send_tip(
-            "Ну ищи, щенок, если такой настырный. Может где-то рядом, а может и нет... Главное - внимательнее под ноги смотри.",
-            "Из записки Волка", 5, 15, "g_g", "sak", "yellow"
+            "Ну шукай, щеня, якщо таке настирливе. Може десь поруч, а може і ні... Головне - уважніше під ноги дивися.",
+            "З записки Вовка", 5, 15, "g_g", "sak", "yellow"
         )
         db.actor:give_info_portion( "petruha_info_treasure" )
     end
@@ -10092,8 +10092,8 @@ end
 --при взятии содержимого тайника Волка получим смс
 function info_volk_pda()
     send_tip(
-        "Странный набор, может сборка... Надо обязательно поговорить с Волком",
-        "Надо запомнить", 5, 15, "g_g", "sak", "yellow"
+        "ивний набір, може збірка... Треба обов'язково поговорити з Вовком",
+        "Треба запам'ятати", 5, 15, "g_g", "sak", "yellow"
     )
 end
 --тайник Мюллера 2
@@ -10117,8 +10117,8 @@ end
 --slip_mayat
 function info_klyk_remember()
     send_tip(
-        "Кто-то кого-то выносил из опасного места... там был Клык?!",
-        "Воспоминание", 2, 20, "g_g", "rememb", "yellow"
+        "Хтось когось виносив з небезпечного місця... там був Клик?!",
+        "Спогад", 2, 20, "g_g", "rememb", "yellow"
     )
 end
 
@@ -10236,7 +10236,7 @@ function ivancov_x10_time_start()
 end
 
 function time_ivancov_x10()
-    send_tip( "Меченный, подходи в Бар, есть разговор.", "Сообщение от Иванцова", 11, 20, "dolg", "sak", "green" )
+    send_tip( "Мічений, підходь у Бар, є розмова.", "Повідомлення від Іванцова", 11, 20, "dolg", "sak", "green" )
 end
 
 function ivancov_x10harddisc_time_start()
@@ -10244,7 +10244,7 @@ function ivancov_x10harddisc_time_start()
 end
 
 function time_ivancov_x10harddisc()
-    send_tip( "Меченный, подходи, есть мысли.", "Сообщение от Иванцова", 11, 20, "dolg", "sak", "green" )
+    send_tip( "Мічений, підходь, є думки.", "Повідомлення від Іванцова", 11, 20, "dolg", "sak", "green" )
     db.actor:give_info_portion( "ivancov_mil_dialog_start" )
 end
 
@@ -10277,8 +10277,8 @@ end
 
 function timer_exo_charge_half_end()
     send_tip(
-        "Подваливай в гости, зарядилась твоя экза.",
-        "Долговязый беспокоит", 11, 20, "ecolog", "sak", "green"
+        "Підходь у гості, зарядилася твоя екза.",
+        "Довгань турбує", 11, 20, "ecolog", "sak", "green"
     )
     if db.actor:has_info( "exo_charge_half_start" ) then
         db.actor:give_info_portion( "exo_charge_half_done" )
@@ -10287,8 +10287,8 @@ end
 
 function timer_exo_charge_full_end()
     send_tip(
-        "Твой экзоскелет заряжен, подходи забирай.",
-        "Это Долговязый", 11, 20, "ecolog", "sak", "green"
+        "Твій екзоскелет заряджений, підходь забирай.",
+        "Це Довгань", 11, 20, "ecolog", "sak", "green"
     )
     if db.actor:has_info( "exo_charge_full_start" ) then
         db.actor:give_info_portion( "exo_charge_full_done" )

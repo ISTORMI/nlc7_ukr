@@ -496,7 +496,7 @@ function show_news()
     then
         return
     end
-    if lua_random() <= 0.001 then
+    if lua_random() > 0.5 then
         if lua_random() > 0.875 then
             if lua_random() > 0.5 then
                 local dolg_news = amk_dolg.get_strings()
@@ -511,7 +511,7 @@ function show_news()
             end
         end
     else
-        if lua_random() <= 0.001 then
+        if lua_random() > 0.5 then
             local info, who, uniq, who2, uniq2, info2 = amk_uniq_news_lists.get_strings()
             if
                     ( info  == "" or not has_alife_info( info ) )

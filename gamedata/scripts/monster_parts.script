@@ -64,11 +64,11 @@ function knife_break()
     snd = xr_sound.get_safe_sound_object( "rykzack\\trader_script1c_9" )
     if itm:condition() <= 0.4 then
         misc.release_obj( itm )
-        sak.send_tip( "Амба ножику, похоже...", "Да что ж такое!", 5, 20,   "uniq", "sak", "red" )
+        sak.send_tip( "Схоже що ножику торба...", "Дідько!", 5, 20,   "uniq", "sak", "red" )
     else
         snd = xr_sound.get_safe_sound_object( "device\\sleeping_bag\\sleep_cancel" )
         params.add_condition( itm, -0.4 )
-        sak.send_tip( "Чуть нож не сломал. Второй раз может и не выдержать...", "А чтоб тебя!", 5, 20,   "uniq", "sak", "yellow" )
+        sak.send_tip( "Ледве ніж не зламав. Вдруге може не витримати...", "А щоб тебе!", 5, 20,   "uniq", "sak", "yellow" )
     end
     snd:play_no_feedback( actor, sound_object.s2d, 0, vector(), 1.0)
 end

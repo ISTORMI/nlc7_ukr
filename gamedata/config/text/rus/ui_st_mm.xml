@@ -145,7 +145,7 @@
 		<text>Дистанція до мети</text>
 	</string>
 	<string id="ui_mm_delete">
-		<text>видалити</text>
+		<text>Видалити</text>
 	</string>
 	<string id="ui_mm_default_pool">
 		<text>Завантаження текстур у відеопам'ять</text>
@@ -187,7 +187,7 @@
 		<text>Налаштування клавіатури</text>
 	</string>
 	<string id="ui_mm_last_save">
-		<text>Останн. збереж.</text>
+		<text>Останнє збереж.</text>
 	</string>
 	<string id="ui_mm_light_distance">
 		<text>Дальність освітлення</text>
