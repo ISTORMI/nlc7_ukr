@@ -1006,7 +1006,7 @@
 </specific_character>
 
 <specific_character id="hohol" team_default = "1">
-	<name>Хохол</name>
+	<name>gross_merc_name</name>
 	<icon>ui_npc_u_trups</icon>
 	<map_icon x="0" y="0"></map_icon>
 	<bio>sim_dolg_veteran_bio</bio>
