@@ -9,7 +9,7 @@
 	
 
 <specific_character id="stalker_esc_bariga" team_default = "1">
-		<name>Сталкер "Барыга"</name>
+		<name>Сталкер "Барига"</name>
 		<icon x="24" y="2"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Просто барыга.</bio>
@@ -36,7 +36,7 @@
 
 <!---------------------------STALKER NOVICE----------------------->
 <specific_character id="stalker_novice_default1" team_default = "1">
-		<name>Неизвестный новичок</name>
+		<name>Невідомий новачок</name>
 		<icon x="20" y="2"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Новичок. Недавно в Зоне. Детальная информация отсутствует.</bio>
@@ -61,7 +61,7 @@
 </specific_character>
 
 <specific_character id="stalker_novice_default2" team_default = "1">
-		<name>Неизвестный новичок</name>
+		<name>Невідомий новачок</name>
 		<icon x="20" y="2"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Новичок. Недавно в Зоне. Детальная информация отсутствует.</bio>
@@ -86,7 +86,7 @@
 </specific_character>
 
 <specific_character id="stalker_novice_default3" team_default = "1">
-		<name>Неизвестный новичок</name>
+		<name>Невідомий новачок</name>
 		<icon x="20" y="2"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Новичок. Недавно в Зоне. Детальная информация отсутствует.</bio>
@@ -113,7 +113,7 @@
 </specific_character>
 
 <specific_character id="stalker_novice_default4" team_default = "1">
-		<name>Неизвестный новичок</name>
+		<name>Невідомий новачок</name>
 		<icon x="20" y="2"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Новичок. Недавно в Зоне. Детальная информация отсутствует.</bio>
@@ -138,7 +138,7 @@
 </specific_character>
 
 <specific_character id="stalker_novice_default5" team_default = "1">
-		<name>Неизвестный новичок</name>
+		<name>Невідомий новачок</name>
 		<icon x="20" y="2"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Новичок. Недавно в Зоне. Детальная информация отсутствует.</bio>
@@ -163,7 +163,7 @@
 </specific_character>
 
 <specific_character id="stalker_novice_default6" team_default = "1">
-		<name>Неизвестный новичок</name>
+		<name>Невідомий новачок</name>
 		<icon x="30" y="10"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Новичок. Недавно в Зоне. Детальная информация отсутствует.</bio>
@@ -190,7 +190,7 @@
 </specific_character>
 
 <specific_character id="stalker_novice_default9" team_default = "1">
-		<name>Неизвестный новичок</name>
+		<name>Невідомий новачок</name>
 		<icon x="0" y="2"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Новичок. Недавно в Зоне. Детальная информация отсутствует.</bio>
@@ -215,7 +215,7 @@
 </specific_character>
 
 <specific_character id="stalker_novice_default10" team_default = "1">
-		<name>Неизвестный новичок</name>
+		<name>Невідомий новачок</name>
 		<icon x="28" y="10"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Новичок. Недавно в Зоне. Детальная информация отсутствует.</bio>
@@ -241,7 +241,7 @@
 
 <!---------------------------STALKER GENERAL---------------------->
 <specific_character id="stalker_general_default1" team_default = "1">
-		<name>Неизвестный сталкер</name>
+		<name>Невідомий сталкер</name>
 		<icon x="2" y="2"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -274,7 +274,7 @@
 </specific_character>
 
 <specific_character id="stalker_general_default2" team_default = "1">
-		<name>Неизвестный сталкер</name>
+		<name>Невідомий сталкер</name>
 		<icon x="2" y="2"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -306,7 +306,7 @@
 </specific_character>
 
 <specific_character id="stalker_general_default3" team_default = "1">
-		<name>Неизвестный сталкер</name>
+		<name>Невідомий сталкер</name>
 		<icon x="2" y="2"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -338,7 +338,7 @@
 </specific_character>
 
 <specific_character id="stalker_general_default4" team_default = "1">
-		<name>Неизвестный сталкер</name>
+		<name>Невідомий сталкер</name>
 		<icon x="2" y="2"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -370,7 +370,7 @@
 </specific_character>
 	
 <specific_character id="stalker_general_default5" team_default = "1">
-		<name>Неизвестный сталкер</name>
+		<name>Невідомий сталкер</name>
 		<icon x="2" y="2"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
@@ -403,7 +403,7 @@
 	
 <!---------------------------STALKER VETERAN---------------------->
 <specific_character id="stalker_veteran_default1" team_default = "1">
-		<name>Неизвестный ветеран</name>
+		<name>Невідомий ветеран</name>
 		<icon x="2" y="2"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -434,7 +434,7 @@
 </specific_character>
 
 <specific_character id="stalker_veteran_default2" team_default = "1">
-		<name>Неизвестный ветеран</name>
+		<name>Невідомий ветеран</name>
 		<icon x="2" y="2"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -465,7 +465,7 @@
 </specific_character>
 
 <specific_character id="stalker_veteran_default3" team_default = "1">
-		<name>Неизвестный ветеран</name>
+		<name>Невідомий ветеран</name>
 		<icon x="20" y="8"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -496,7 +496,7 @@
 </specific_character>
 
 <specific_character id="stalker_veteran_default4" team_default = "1">
-		<name>Неизвестный ветеран</name>
+		<name>Невідомий ветеран</name>
 		<icon x="20" y="8"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -527,7 +527,7 @@
 </specific_character>
 
 <specific_character id="stalker_veteran_default5" team_default = "1">
-		<name>Неизвестный ветеран</name>
+		<name>Невідомий ветеран</name>
 		<icon x="20" y="8"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -559,7 +559,7 @@
 
 <!---------------------------STALKER MASTER----------------------->
 <specific_character id="stalker_master_default1" team_default = "1">
-		<name>Неизвестный мастер</name>
+		<name>Невідомий майстер</name>
 		<icon x="10" y="0"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Один из ветеранов Зоны. Этот сталкер знает Зону как своих пять пальцев.
@@ -591,7 +591,7 @@
 </specific_character>
 
 <specific_character id="stalker_master_default2" team_default = "1">
-		<name>Неизвестный мастер</name>
+		<name>Невідомий майстер</name>
 		<icon x="10" y="0"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Один из ветеранов Зоны. Этот сталкер знает Зону как своих пять пальцев.
@@ -623,7 +623,7 @@
 </specific_character>
 
 <specific_character id="stalker_master_default3" team_default = "1">
-		<name>Неизвестный мастер</name>
+		<name>Невідомий майстер</name>
 		<icon x="10" y="0"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Один из ветеранов Зоны. Этот сталкер знает Зону как своих пять пальцев.
@@ -655,7 +655,7 @@
 </specific_character>
 
 <specific_character id="stalker_master_default4" team_default = "1">
-		<name>Неизвестный мастер</name>
+		<name>Невідомий майстер</name>
 		<icon x="20" y="8"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Один из ветеранов Зоны. Этот сталкер знает Зону как своих пять пальцев.
@@ -687,7 +687,7 @@
 </specific_character>	
 
 <specific_character id="stalker_master_default5" team_default = "1">
-		<name>Неизвестный мастер</name>
+		<name>Невідомий майстер</name>
 		<icon x="20" y="8"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Один из ветеранов Зоны. Этот сталкер знает Зону как своих пять пальцев.
@@ -741,7 +741,7 @@
 </specific_character>
 
 <specific_character id="stalker_leshiy">
-		<name>Леший</name>
+		<name>Лісовик</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Леший, так его прозвал брат, пришел в зону юным
@@ -761,7 +761,7 @@
 </specific_character>
 
 <specific_character id="stalker_chuchelo">
-		<name>Чучело</name>
+		<name>Опудало</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Контрабандист со стажем. Долгое время промышлял в Африке и Южной Америке. 
@@ -783,7 +783,7 @@
 </specific_character>
 
 <specific_character id="stalker_upir">
-		<name>Упырь</name>
+		<name>Упир</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Невероятно везучий сталкер. Много раз его группа оказывалась на волосок от смерти, и всегда он был
@@ -802,7 +802,7 @@
 </specific_character>
 
 <specific_character id="stalker_diodor">
-		<name>Отец Диодор</name>
+		<name>Отець Діодор</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Бывший афганец. Во время одной из засад маджахедов
@@ -846,7 +846,7 @@
 </specific_character>
 
 <specific_character id="stalker_neumeha">
-		<name>Неумеха</name>
+		<name>Невміха</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Неумехе 20 лет. На большой земле ничего и никого у него не осталось, и он решил приехать
@@ -891,7 +891,7 @@
 </specific_character>
 
 <specific_character id="stalker_barin">
-		<name>Барин</name>
+		<name>Барін</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Хам, подхалим, лицемер, трус. Жизненным
@@ -912,7 +912,7 @@
 </specific_character>
 
 <specific_character id="stalker_vorobey">
-		<name>Воробей</name>
+		<name>Горобець</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Воробью 27 лет. Хитёр,
@@ -935,7 +935,7 @@
 
 <!---------------------------STALKER SNIPER----------------------->
 <specific_character id="stalker_sniper" team_default = "1">
-		<name>Неизвестный мастер</name>
+		<name>Невідомий майстер</name>
 		<icon x="10" y="0"></icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</bio>

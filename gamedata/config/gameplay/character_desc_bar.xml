@@ -2291,7 +2291,7 @@
 	</specific_character>
 
 	<specific_character id="bar_house_stalker" team_default = "1">
-		<name>Лёлик</name>
+		<name>Льолік</name>
 		<icon>ui_npc_u_stalker_bar_security</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>bar_lel_guard</bio>

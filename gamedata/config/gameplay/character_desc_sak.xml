@@ -1191,7 +1191,7 @@
 </specific_character>
 
 <specific_character id="val_soldier_commander" team_default = "1">
-	<name>Капитан Лемешко</name>
+	<name>Капітан Лемешко</name>
 	<icon>ui_npc_lemesh</icon>
 	<bio>sim_soldier_commander_bio</bio>
 	<class>val_soldier_commander</class>
@@ -1355,7 +1355,7 @@
 </specific_character>
 
 <specific_character id="Sak" team_default = "1">
-	<name>Ивар</name>
+	<name>Івар</name>
 	<icon>ui_npc_u_ivar</icon>
 	<bio>Sak_bio</bio>
 	<class>Sak</class>
@@ -1383,7 +1383,7 @@
 </specific_character>
 
 <specific_character id="doktor" team_default = "1">
-	<name>Лебедев</name>
+	<name>Лебедєв</name>
 	<icon>ui_npc_u_lebedev</icon>
 	<bio>doktor_bio</bio>
 	<class>doktor</class>
@@ -1719,7 +1719,7 @@
 </specific_character>
 
 <specific_character id="esc_green_respawn_2" team_default = "1">
-	<name>Ник И Тин</name>
+	<name>Нік І Тін</name>
 	<icon>ui_npc_u_nik_i_tin</icon>
 	<map_icon x="0" y="0"></map_icon>
 	<bio>sim_stalker_novice_bio</bio>
@@ -1809,7 +1809,7 @@
 </specific_character>
 
 <specific_character id="green_dan" team_default = "1">
-	<name>Дэн-охотник</name>
+	<name>Ден-мисливець</name>
 	<icon>ui_npc_u_hunter_dan</icon>
 	<map_icon x="0" y="0"></map_icon>
 	<bio>sim_stalker_novice_bio</bio>
@@ -1839,7 +1839,7 @@
 </specific_character>
 
 <specific_character id="green_glavn" team_default = "1">
-	<name>Игнат</name>
+	<name>Ігнат</name>
 	<icon>ui_npc_u_hunter_ignat</icon>
 	<map_icon x="0" y="0"></map_icon>
 	<bio>sim_stalker_novice_bio</bio>
@@ -1891,7 +1891,7 @@
 </specific_character>
 
 <specific_character id="dsc_part_exchanger" team_default = "1">
-	<name>Мясник Проша</name>
+	<name>М'ясник Проша</name>
 	<icon>ui_npc_u_hunter_prosha</icon>
 	<map_icon x="0" y="0"></map_icon>
 	<bio>sim_stalker_novice_bio</bio>
@@ -2783,7 +2783,7 @@
 </specific_character>
 
 <specific_character id="marsh_ecolog_sev_khutor" team_default = "1">
-	<name>Аспирант Глузов</name>
+	<name>Аспірант Глузов</name>
 	<icon>ui_npc_u_gluzov</icon>
 	<map_icon x="0" y="6"></map_icon>
 	<bio>ros_ecolog_guard_bio</bio>
@@ -2811,7 +2811,7 @@
 </specific_character>
 
 <specific_character id="marsh_ecolog2_sev_khutor" team_default = "1">
-	<name>Аспирант Вронский</name>
+	<name>Аспірант Вронський</name>
 	<icon>ui_npc_u_stalker_ecolog_military</icon>
 	<map_icon x="0" y="6"></map_icon>
 	<bio>ros_ecolog_guard_bio</bio>
@@ -2835,7 +2835,7 @@
 </specific_character>
 
 <specific_character id="marsh_provodnik_sev_khutor" team_default = "2">
-	<name>Фрол Ловкач</name>
+	<name>Фрол Спритник</name>
 	<icon>ui_npc_u_frol</icon>
 	<map_icon x="1" y="0"></map_icon>
 	<bio>marsh_provodnik_sev_bio</bio>
@@ -3315,7 +3315,7 @@
 </specific_character>
 
 <specific_character id="sanek" team_default = "1">
-	<name>Санёк</name>
+	<name>Саньок</name>
 	<icon>ui_npc_u_soldier_bandana_5</icon>
 	<map_icon x="3" y="2"></map_icon>
 	<bio>agr_shersh_bio</bio>
@@ -3465,7 +3465,7 @@
 </specific_character>
 
 <specific_character id="bar_lisaped" team_default = "1">
-	<name>Юрко Лисапед</name>
+	<name>Юрко Лісапед</name>
 	<icon>ui_npc_u_lisaped</icon>
 	<bio>lisaped_bio</bio>
 	<class>bar_lisaped</class>
@@ -3526,7 +3526,7 @@
 </specific_character>
 
 <specific_character id="pesh_botan" team_default="1">
-	<name>Ботан Леонид</name>
+	<name>Ботан Леонід</name>
 	<icon>ui_npc_u_stalker_neytral_nauchniy</icon>
 	<map_icon x="0" y="0"></map_icon>
 	<bio>val_stalker_novice_bio</bio>
@@ -3609,7 +3609,7 @@
 </specific_character>
 
 <specific_character id="mar_military_glavn" team_default = "1">
-	<name>Капитан Калинин</name>
+	<name>Капітан Калінін</name>
 	<icon>ui_npc_u_loki</icon>
 	<bio>esc_captain_bio</bio>
 	<class>mar_military_glavn</class>
@@ -3657,7 +3657,7 @@
 </specific_character>
 
 <specific_character id="stepanych" team_default = "1">
-	<name>Степаныч</name>
+	<name>Степанич</name>
 	<icon>ui_npc_u_stalker_stepanych</icon>
 	<bio>Старик</bio>
 	<class>stepanych</class>
@@ -3688,7 +3688,7 @@
 </specific_character>
 
 <specific_character id="hos_junkman" team_default = "1">
-	<name>Лёха-старьёвщик</name>
+	<name>Льоха-сміттяр</name>
 	<icon>ui_npc_u_junkman</icon>
 	<bio>Старик</bio>
 	<class>hos_junkman</class>
@@ -4014,7 +4014,7 @@
 </specific_character>
 
 <specific_character id="aver_monolit_glavn" team_default = "1">
-	<name>Лазурит Достигающий</name>
+	<name>Лазурит Досягаючий</name>
 	<icon>ui_npc_u_stalker_mo_head_1</icon>
 	<map_icon x="3" y="0"></map_icon>
 	<bio>rad_monolith_general_bio</bio>
@@ -4193,7 +4193,7 @@
 </specific_character>
 
 <specific_character id="mar_eco" team_default = "1">
-	<name>Сергей Оганесян</name>
+	<name>Сергій Оганесян</name>
 	<icon>ui_npc_u_ozerskiy</icon>
 	<map_icon x="0" y="6"></map_icon>
 	<bio>Охрана мобильного научного лагеря. Детальная информация отсутствует.</bio>
@@ -4219,7 +4219,7 @@
 </specific_character>
 
 <specific_character id="atp_glavn" team_default = "1">
-	<name>Васька Штырь</name>
+	<name>Васька Штир</name>
 	<icon>ui_npc_u_stalker_bandit_veteran</icon>
 	<map_icon x="3" y="2"></map_icon>
 	<bio>esc_bandit_novice_bio</bio>
@@ -4276,7 +4276,7 @@
 </specific_character>
 
 <specific_character id="stalker_psih" team_default = "1">
-	<name>Сбрендивший</name>
+	<name>Збреднілий</name>
 	<icon>ui_npc_u_green_stalker_2</icon>
 	<bio>esc_stalker_novice_bio</bio>
 	<class>stalker_psih</class>
@@ -4300,7 +4300,7 @@
 </specific_character>
 
 <specific_character id="stalker_ohrana" team_default = "1">
-	<name>Саня Андреев</name>
+	<name>Саня Андрєєв</name>
 	<icon>ui_npc_u_ohr</icon>
 	<map_icon x="1" y="0"></map_icon>
 	<bio>sim_green_general_bio</bio>
@@ -4358,7 +4358,7 @@
 </specific_character>
 
 <specific_character id="stalker_sultana_default1" team_default = "1">
-	<name>Калёный</name>
+	<name>Гартований</name>
 	<icon>ui_npc_u_sultana</icon>
 	<map_icon x="1" y="0"></map_icon>
 	<bio>sim_stalker_general_bio</bio>
@@ -4387,7 +4387,7 @@
 </specific_character>
 
 <specific_character id="dolg_dummy" team_default = "1">
-	<name>Счастливчик</name>
+	<name>Щасливчик</name>
 	<icon>ui_npc_u_stalker_do_antigas</icon>
 	<map_icon x="0" y="0"></map_icon>
 	<bio>sim_dolg_regular_bio</bio>

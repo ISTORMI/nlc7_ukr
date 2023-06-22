@@ -2,10 +2,10 @@
 
 <xml>
 <specific_character id="monolit_leader">
-		<name>Лидер группировки "Монолит"</name>
+		<name>Лідер угруповання "Моноліт"</name>
 		<icon x="30" y="8"></icon>
 		<map_icon x="3" y="0"></map_icon>
-		<bio>Лидер группировки "Монолит".</bio>
+		<bio>Лідер угруповання "Моноліт".</bio>
 
 		<class>Monolit_leader</class>
 		<community>monolith</community>
@@ -29,7 +29,7 @@
 </specific_character>
 
 <specific_character id="monolit_left_hand">
-		<name>Левая рука лидера группировки "Монолит"</name>
+		<name>Ліва рука лідера угруповання "Моноліт"</name>
 		<icon x="24" y="10"></icon>
 		<map_icon x="3" y="0"></map_icon>
 		<bio>Из группировки "Монолит".</bio>
@@ -57,7 +57,7 @@
 </specific_character>
 
 <specific_character id="monolit_right_hand">
-		<name>Правая рука лидера группировки "Монолит"</name>
+		<name>Права рука лідера угруповання "Моноліт"</name>
 		<icon x="26" y="10"></icon>
 		<map_icon x="3" y="0"></map_icon>
 		<bio>Из группировки "Монолит".</bio>
@@ -86,10 +86,10 @@
 
 <!---------------------------MONOLIT REGULAR----------------------->
 <specific_character id="monolit_regular_default1" team_default = "3">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="3" y="0"></map_icon>
-		<bio>Сталкер группировки "Монолит". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Моноліт". Детальная информация отсутствует.</bio>
 
 		<class>Monolit_regular</class>
 		<community>monolith</community>
@@ -113,10 +113,10 @@
 </specific_character>
 
 <specific_character id="monolit_regular_default2" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="3" y="0"></map_icon>
-		<bio>Сталкер группировки "Монолит". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Моноліт". Детальная информация отсутствует.</bio>
 
 		<class>Monolit_regular</class>
 		<community>monolith</community>
@@ -141,10 +141,10 @@
 
 <!---------------------------MONOLIT SNIPER---------------------->
 <specific_character id="monolit_sniper_default1" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="3" y="0"></map_icon>
-		<bio>Сталкер группировки "Монолит". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Моноліт". Детальная информация отсутствует.</bio>
 
 		<class>Monolit_sniper</class>
 		<community>monolith</community>
@@ -168,10 +168,10 @@
 </specific_character>
 
 <specific_character id="monolit_sniper_default2" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="3" y="0"></map_icon>
-		<bio>Сталкер группировки "Монолит". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Моноліт". Детальная информация отсутствует.</bio>
 
 		<class>Monolit_sniper</class>
 		<community>monolith</community>
@@ -196,10 +196,10 @@
 
 <!---------------------------MONOLIT SNIPER GAUSS---------------------->
 <specific_character id="monolit_sniper_gauss" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="3" y="0"></map_icon>
-		<bio>Сталкер группировки "Монолит". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Моноліт". Детальная информация отсутствует.</bio>
 
 		<class>Monolit_sniper_gauss</class>
 		<community>monolith</community>
@@ -224,7 +224,7 @@
 
 <!---------------------------MONOLIT SPECNAZ---------------------->
 <specific_character id="monolit_specnaz_default1" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="3" y="0"></map_icon>
 		<bio>Боевик группировки "Монолит". Хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -251,7 +251,7 @@
 </specific_character>
 
 <specific_character id="monolit_specnaz_default2" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="22" y="10"></icon>
 		<map_icon x="3" y="0"></map_icon>
 		<bio>Боевик группировки "Монолит". Хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -279,7 +279,7 @@
 </specific_character>
 
 <specific_character id="monolit_specnaz_default3" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="22" y="10"></icon>
 		<map_icon x="3" y="0"></map_icon>
 		<bio>Боевик группировки "Монолит". Хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -306,7 +306,7 @@
 </specific_character>
 
 <specific_character id="monolit_specnaz_default4" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="28" y="8"></icon>
 		<map_icon x="3" y="0"></map_icon>
 		<bio>Боевик группировки "Монолит". Хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -334,7 +334,7 @@
 
 <!---------------------------MONOLIT MASTER----------------------->
 <specific_character id="monolit_master_default1" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="28" y="8"></icon>
 		<map_icon x="3" y="0"></map_icon>
 		<bio>Хранитель группировки "Монолит". Лучше держаться от него подальше. Детальная информация отсутствует.</bio>
@@ -361,7 +361,7 @@
 </specific_character>
 
 <specific_character id="monolit_master_default2" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="0" y="4"></icon>
 		<map_icon x="3" y="0"></map_icon>
 		<bio>Хранитель группировки "Монолит". Лучше держаться от него подальше. Детальная информация отсутствует.</bio>
@@ -390,10 +390,10 @@
 
 <!---------------------------MONOLIT REGULAR with RPG----------------------->
 <specific_character id="monolit_rpg_default1" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="3" y="0"></map_icon>
-		<bio>Сталкер группировки "Монолит". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Моноліт". Детальная информация отсутствует.</bio>
 
 		<team>Monolit_rpg</team>
 
@@ -419,10 +419,10 @@
 </specific_character>
 
 <specific_character id="monolit_rpg_default2" team_default = "1">
-		<name>Сталкер группировки "Монолит"</name>
+		<name>Сталкер угруповання "Моноліт"</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="3" y="0"></map_icon>
-		<bio>Сталкер группировки "Монолит". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Моноліт". Детальная информация отсутствует.</bio>
 
 		<team>Monolit_rpg</team>
 

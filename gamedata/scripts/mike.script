@@ -504,7 +504,7 @@ end
 
 function add_1_pda_npc()
     add_device_pda_npc( 2 )
-    sak.send_tip( "1 шт.", "Получен ПДА", 0, 5, "g_g", "", "green" )
+    sak.send_tip( "1 шт.", "Получен КПК", 0, 5, "g_g", "", "green" )
 end
 
 function add_12_pda_npc()
@@ -515,7 +515,7 @@ function add_12_pda_npc()
             add_device_pda_npc( 2 )
         end
     end
-    sak.send_tip( "12 шт.", "Получены ПДА", 0, 5, "g_g", "", "green" )
+    sak.send_tip( "12 шт.", "Получены КПК", 0, 5, "g_g", "", "green" )
 end
 
 function add_n_pda_broken_discharged( amount, threshold )
@@ -526,7 +526,7 @@ function add_n_pda_broken_discharged( amount, threshold )
             add_device_pda_npc( 2 )
         end
     end
-    sak.send_tip( tostring( amount ) .. " шт.", "Получены ПДА", 0, 5, "g_g", "", "green" )
+    sak.send_tip( tostring( amount ) .. " шт.", "Получены КПК", 0, 5, "g_g", "", "green" )
 end
 
 function add_device_pda_npc( status )

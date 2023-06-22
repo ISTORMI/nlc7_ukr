@@ -1822,7 +1822,7 @@
 
 <!---------------------------снайпер-Косой----------------------->
 <specific_character id="sniper_kosoi" team_default = "1">
-		<name>Косой</name>
+		<name>Косий</name>
 		<icon>ui_npc_u_stalker_bandit_master</icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>mil_Stalker_master_bio</bio>

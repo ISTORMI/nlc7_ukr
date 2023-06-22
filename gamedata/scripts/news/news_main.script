@@ -238,19 +238,19 @@ function on_stalker_death( victim_, killer_ )
 			if m_o_weapon then
 				m_s_weapon = get_weapon_type( m_o_weapon )
 				if m_s_weapon < 5 then
-					m_killer_str = "пристрелили как собаку..."
+					m_killer_str = "пристрелили як собаку..."
 				end
 				if m_s_weapon == 6 then
-					m_killer_str = "ножом по горлу..."
+					m_killer_str = "ножем по горлу..."
 				end
 				if m_s_weapon == 8 then
-					m_killer_str = "сожгли мужика заживо!"
+					m_killer_str = "спалили мужика живцем!"
 				end
 				if
 					    m_s_weapon == 7
 					or m_s_weapon2 == 5
 				then
-					m_killer_str = "гранатой его..."
+					m_killer_str = "гранатою його..."
 				end
 			end
 			if IsNpcActor( killer ) then
@@ -263,36 +263,36 @@ function on_stalker_death( victim_, killer_ )
 			if m_o_weapon2 then
 				m_s_weapon2 = get_weapon_type( m_o_weapon2 )
 				if m_s_weapon2 < 5 then
-					m_killer_str = "пуля догнала..."
+					m_killer_str = "куля наздогнала..."
 				end
 				if m_s_weapon2 == 6 then
-					m_killer_str = "ножом зарезали..."
+					m_killer_str = "ножем зарізали..."
 				end
 				if m_s_weapon2 == 8 then
-					m_killer_str = "сожгли мужика заживо!"
+					m_killer_str = "спалили мужика живцем!"
 				end
 				if
 					m_s_weapon2 == 7
 					or m_s_weapon2 == 5
 				then
-					m_killer_str = "осколоками гранаты всего посекло..."
+					m_killer_str = "уламками гранати всього посікло..."
 				end
 			end
 			m_killer = format_death_by_stalker( killer )
 		elseif string.find( killer:name(), "grenade_", 1, true ) then
-			m_killer_str = "от гранаты не уберегся..."
+			m_killer_str = "від гранати не вберігся..."
 			m_killer     = format_death_by_stalker( killer )
 		else
-			m_killer_str = "причина смерти - неизвестна"
+			m_killer_str = "причина смерті - невідома"
 			m_killer     = ""
 		end
 	end
 	if m_killer_str == nil or m_killer_str == "" then 
-		m_killer_str = "причина смерти - неизвестна"
+		m_killer_str = "причина смерті - невідома"
 	end
 	local m_string = m_name .. ". " .. m_level .. ", " .. m_killer_str .. "."
 	do_news(
-		m_string, "Погиб сталкер:",
+		m_string, "Загинув сталкер:",
 		lua_random( timer_stalker_death, timer_stalker_death * 3 ),
 		10, "death", nil, 1
 	) 
@@ -976,15 +976,15 @@ function format_death_hear_sounds( victim_, killer_, weapon_ )
 			and _g.IsMonster( victim_ ) ~= true
 			and ( IsAnomaly( killer_ ) or _g.IsMonster( killer_ ) )
 		then 
-			m_hear_a = "Слышал ужасные крики"
-			m_hear_z = "слышал ужасные крики"
+			m_hear_a = "Чув жахливі крики"
+			m_hear_z = "Чув жахливі крики"
 			m_s      = format_template_hear( victim_, m_hear_a, m_hear_z )
 		elseif
 			   ( ( killer_ and _g.IsMonster( killer_ ) )
 			or ( victim_   and _g.IsMonster( victim_ ) ) )
 		then
-			m_hear_a = "Слышал страшный рык"
-			m_hear_z = "слышал страшный рык"
+			m_hear_a = "Чув страшний рик"
+			m_hear_z = "чув страшний рик"
 			m_s      = format_template_hear( victim_, m_hear_a, m_hear_z )
 		end
 	end
@@ -1138,7 +1138,7 @@ function format_template_corpse_npc( obj )
 	if obj ~= nil then
 		local m_name = get_npc_name( obj )
 		if m_name == "" then
-			m_name          = "недавно в Зоне"
+			m_name          = "недавно в Зоні"
 			local m_rank	= get_npc_rank( obj )
 			local m_rank_s  = ""
 			if m_rank and news_data.rate_name[ m_rank ] then
@@ -1298,12 +1298,12 @@ function format_template_spawn_group( level_, position, class, count )
 		local s_count = ""
 		if      count == 1 then s_count = "одного"
 		elseif	count == 2 then	s_count = "парочку"
-		elseif	count == 3 then	s_count = "несколько"
+		elseif	count == 3 then	s_count = "декілька"
 		elseif	count >= 4 and count  < 6 then
-			                    s_count = "группу"
+			                    s_count = "групу"
 		elseif	count >= 6 and count <  8 then
-								s_count = "большую группу"
-		else					s_count = "кучу"
+								s_count = "велику групу"
+		else					s_count = "купу"
 		end
 		local t = {
 			[ "level" 	   ] = m_level, 
@@ -1370,10 +1370,10 @@ function format_template_actor_seen_group( level_, position, class, count )
 		local s_count = ""
 		if     count == 1 then s_count = ""
 		elseif count == 2 then s_count = "парочку"
-		elseif count == 3 then s_count = "несколько"
+		elseif count == 3 then s_count = "декілька"
 		elseif count >= 4
-		   and count <  6 then s_count = "группу"
-		else	  			   s_count = "большую группу"
+		   and count <  6 then s_count = "групу"
+		else	  			   s_count = "велику групу"
 		end
 		local t = {
 			[ "level" 		] = m_level, 
@@ -1454,27 +1454,27 @@ function get_point_description( level, point )
 			end
 		end
 		if     dist <= 20 then m_s = m_tmp_str .. " " .. m_str0
-		elseif dist <  50 then m_s = m_tmp_str .. " возле " .. m_str
-		elseif dist < 100 then m_s = m_tmp_str .. " около " .. m_str
+		elseif dist <  50 then m_s = m_tmp_str .. " біля " .. m_str
+		elseif dist < 100 then m_s = m_tmp_str .. " близько " .. m_str
 		else
 			if     angle >= 330 or angle <= 30 then
-				m_s = m_tmp_str .. " к востоку от " .. m_str
+				m_s = m_tmp_str .. " на схід від " .. m_str
 			elseif angle > 30  and angle <= 60 then
-				m_s = m_tmp_str .. " к северо-востоку от " .. m_str
+				m_s = m_tmp_str .. " на північний схід від " .. m_str
 			elseif angle > 60  and angle <= 120 then
-				m_s = m_tmp_str .. " к северу от " .. m_str
+				m_s = m_tmp_str .. " на північ від " .. m_str
 			elseif angle > 120 and angle <= 150 then
-				m_s = m_tmp_str .. " к северо-западу от " .. m_str
+				m_s = m_tmp_str .. " на північний захід від " .. m_str
 			elseif angle > 150 and angle <= 210 then
-				m_s = m_tmp_str .. " к западу от " .. m_str
+				m_s = m_tmp_str .. " на захід від " .. m_str
 			elseif angle > 210 and angle <= 240 then
-				m_s = m_tmp_str .. " к юго-западу от " .. m_str
+				m_s = m_tmp_str .. " на північний захід від " .. m_str
 			elseif angle > 240 and angle <= 300 then
-				m_s = m_tmp_str .. " к югу от " .. m_str
+				m_s = m_tmp_str .. " на південь від " .. m_str
 			elseif angle > 300 and angle <= 330 then
-				m_s = m_tmp_str .. " к юго-востоку от " .. m_str
+				m_s = m_tmp_str .. " на південний схід від " .. m_str
 			else
-				m_s = m_tmp_str.." недалеко от "..m_str
+				m_s = m_tmp_str.." недалеко від "..m_str
 			end
 		end
 	else
@@ -1784,7 +1784,7 @@ function on_daytime()
 				local probl     = tonumber( tbl.prob )
 				local base_wait = lua_random( timer_weather, timer_weather * 3 )
 				if texts then
-					local name = "[источник неизвестен]"
+					local name = "[джерело не вказано]"
 					local i = 0
 					for k, v in pairs( texts ) do
 						if comments == nil then
@@ -2323,7 +2323,7 @@ function do_eternal_stalker()
 	then
 		 m_level = news_data.level_name[ m_level ][ 2 ]
 	end
-	local m_name, m_killer_str = "Юрий Семецкий", ""
+	local m_name, m_killer_str = "Юрій Семецький", ""
 	if lua_random() < 0.4 then
 		if b_indoor == 0 then
 			m_killer_str = news_data.anomalies[ lua_random( table.getn( news_data.anomalies ) ) ]
@@ -2339,7 +2339,7 @@ function do_eternal_stalker()
 	end
 	local m_string    = m_name .. ", " .. m_level .. ", " .. m_killer_str .. "."
 	local time_delay  = lua_random( timer_stalker_death, timer_stalker_death * 5 )
-	show_news( m_string, "Погиб сталкер:", time_delay, 10, "death" )
+	show_news( m_string, "Загинув сталкер:", time_delay, 10, "death" )
 	local spwn_chance = 0.66
 	local bino        = db.actor:item_in_slot( 4 )
 	if bino ~= nil then 
@@ -2393,31 +2393,31 @@ function do_blow_news()
 		if
 			diff < 2
 		then
-			when = "через час-другой"
+			when = "через годину-другу"
 		elseif
 			diff >= 2
 			and diff <= 4
 		then	
-			when = "через пару часов"
+			when = "через пару годин"
 		elseif
 			diff > 4
 			and diff <= 8
 		then	
-			when = "часов через 6-7"
+			when = "годин через 6-7"
 		elseif
 			diff > 8
 		then
 			local m_h = level:get_time_hours()
 			local n_h = m_h + diff
-			if n_h >=  9 and n_h < 11 then when = "утром" end
-			if n_h >= 11 and n_h < 14 then when = "днем" end
-			if n_h >= 14 and n_h < 18 then when = "после обеда" end
-			if n_h >= 18 and n_h < 22 then when = "вечером" end
-			if n_h >= 22 and n_h < 30 then when = "ночью" end
-			if n_h >= 30 and n_h < 34 then when = "завтра утром" end
-			if n_h >= 34 and n_h < 38 then when = "завтра днем" end
-			if n_h >= 38 and n_h < 42 then when = "завтра после обеда" end
-			if n_h >= 42 and n_h < 50 then when = "завтра ночью" end
+			if n_h >=  9 and n_h < 11 then when = "вранці" end
+			if n_h >= 11 and n_h < 14 then when = "вдень" end
+			if n_h >= 14 and n_h < 18 then when = "після обіду" end
+			if n_h >= 18 and n_h < 22 then when = "ввечері" end
+			if n_h >= 22 and n_h < 30 then when = "вночі" end
+			if n_h >= 30 and n_h < 34 then when = "завтра вранці" end
+			if n_h >= 34 and n_h < 38 then when = "завтра вдень" end
+			if n_h >= 38 and n_h < 42 then when = "завтра після обіду" end
+			if n_h >= 42 and n_h < 50 then when = "завтра вночі" end
 		end
 		if when == "" then return end
 		local t   = { [ "when" ] = when }
@@ -2553,19 +2553,19 @@ end
 
 function on_offline_item_found( who, object )
 	if who and object then
-		mylog( get_npc_name( who ) .. " нашел " .. get_object_name( object ) )
+		mylog( get_npc_name( who ) .. " знайшов " .. get_object_name( object ) )
 	end
 end
 
 function on_offline_artifact_found( who, object )
 	if who and object then
-		mylog( get_npc_name( who ) .. " нашел " .. get_object_name( object ) )
+		mylog( get_npc_name( who ) .. " знайшов " .. get_object_name( object ) )
 	end	
 end
 
 function on_offline_weapon_found( who, object )
 	if who and object then
-		mylog( get_npc_name( who ) .. " нашел " .. get_object_name( object ) )
+		mylog( get_npc_name( who ) .. " знайшов " .. get_object_name( object ) )
 	end
 end
 
@@ -2575,7 +2575,7 @@ function on_offline_monster_found( who, object )
 		if _g.IsMonster( object ) then
 			s_enemy = get_monster_name( object, 2 )
 		end
-		--mylog(get_npc_name(who).." воюет с "..s_enemy)
+		--mylog(get_npc_name(who).." воює з "..s_enemy)
 	end	
 end
 
@@ -2585,7 +2585,7 @@ function on_offline_enemy_found( who, object )
 		if _g.IsStalker( object ) then
 			s_enemy = get_npc_community( object )
 		end
-		--mylog(get_npc_name(who).." воюет с "..s_enemy)
+		--mylog(get_npc_name(who).." воює з "..s_enemy)
 	end
 end
 
@@ -2623,10 +2623,10 @@ function on_offline_stalker_death( victim_, killer_, weapon_ )
 			if m_o_weapon then
 				m_s_weapon = get_weapon_type( m_o_weapon )
 				if m_s_weapon <  5 then m_killer_str = "пристрелили..." end
-				if m_s_weapon == 6 then m_killer_str = "зарезали" end
-				if m_s_weapon == 8 then m_killer_str = "сожгли заживо..." end
+				if m_s_weapon == 6 then m_killer_str = "зарізали" end
+				if m_s_weapon == 8 then m_killer_str = "спалили живцем..." end
 				if m_s_weapon == 7
-				or m_s_weapon == 5 then m_killer_str = "гранатой подорвали!" end
+				or m_s_weapon == 5 then m_killer_str = "гранатою підірвали!" end
 			end
 			m_killer = format_death_by_weapon( weapon_ )
 		elseif IsNpcOther( killer_ ) then
@@ -2635,14 +2635,14 @@ function on_offline_stalker_death( victim_, killer_, weapon_ )
 			if m_o_weapon2 then
 				m_s_weapon2 = get_weapon_type( m_o_weapon2 )
 				if m_s_weapon2  < 5 then m_killer_str = "застрелили мужика..." end
-				if m_s_weapon2 == 6 then m_killer_str = "ножом всего порезали..." end
-				if m_s_weapon  == 8 then m_killer_str = "сгорел..." end
+				if m_s_weapon2 == 6 then m_killer_str = "ножом всього порізали..." end
+				if m_s_weapon  == 8 then m_killer_str = "згорів..." end
 				if m_s_weapon2 == 7
-				or m_s_weapon2 == 5 then m_killer_str = "подорвался..." end
+				or m_s_weapon2 == 5 then m_killer_str = "підірвався..." end
 			end
 			m_killer = format_death_by_weapon( weapon_ )
 		else
-			m_killer_str = "причина смерти - неустановлена"
+			m_killer_str = "причина смерті - невідома"
 			m_killer = ""
 		end
 	end
@@ -2650,11 +2650,11 @@ function on_offline_stalker_death( victim_, killer_, weapon_ )
 		   m_killer_str == nil
 		or m_killer_str == ""
 	then
-		m_killer_str = "а почему умер? Да кто ж его знает... ЗОНА брат!"
+		m_killer_str = "а чому помер? Хто ж його знає... ЗОНА, брате!"
 	end
 	local m_string = m_name .. ", " .. m_level .. ", " .. m_killer_str .. "."
 	do_news(
-		m_string, "Погиб сталкер:",
+		m_string, "Загинув сталкер:",
 		lua_random( timer_stalker_death, timer_stalker_death * 5 ),
 		10, "death"
 	) 
@@ -3071,14 +3071,14 @@ end
 function on_connect()
 	local text = news_data.connect_templates[ lua_random( table.getn( news_data.connect_templates ) ) ]
 	if text then
-		sak.send_tip( text, "Статус соединения:", 10, 15, "pribor", "pda_news", "green" )
+		sak.send_tip( text, "Статус з'єднання:", 10, 15, "pribor", "pda_news", "green" )
 	end
 end
 
 function on_disconnect()
 	local text = news_data.disconnect_templates[ lua_random( table.getn( news_data.disconnect_templates ) ) ]
 	if text then
-		sak.send_tip( text, "Статус соединения:", 10, 15, "pribor", "pda_news", "red" )
+		sak.send_tip( text, "Статус з'єднання:", 10, 15, "pribor", "pda_news", "red" )
 	end
 end
 

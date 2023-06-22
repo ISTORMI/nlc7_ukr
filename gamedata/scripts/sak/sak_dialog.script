@@ -616,7 +616,7 @@ function nps_take_gungauss( first_speaker, second_speaker )
         sak.relocate_item( second_speaker, "in", "wpn_gungauss", 1 )
     end
 end
--- за вскрыте ПДА Крысюка у Доцента наводка на тайник в РЛ у танка
+-- за вскрыте КПК Крысюка у Доцента наводка на тайник в РЛ у танка
 -- сейчас вроде выключено
 function add_gift_docent()end
 
@@ -3254,7 +3254,7 @@ function text_money_esc_water_dialog()
     local day_money = math.ceil( sak.day_money / 8 )
     local cost1     = ( 400 + day_money * 100 )
     db.actor:give_talk_message(
-        "%c[255,216,186,140]Рубликов " .. cost1 .. "?", "ui\\ui_iconsTotal",
+        "%c[255,216,186,140]Гривень " .. cost1 .. "?", "ui\\ui_iconsTotal",
         Frect():set( 0, 0, 0, 0 ), "simple_answer_item"
     )
 end
@@ -3361,7 +3361,7 @@ function text_money_voronin_seif_dialog()
     local cost1     = ( 3000 + day_money * 800 )
     local cost2     = ( 10000 + day_money * 2000 )
     db.actor:give_talk_message(
-        "%c[255,216,186,140]За разовый доступ - " .. cost1 .. " рублей. Или же перечисли " .. cost2 .. " и два дня в любой момент можешь рыться в своём хабаре...",
+        "%c[255,216,186,140]За одноразовий доступ - " .. cost1 .. " гривень. Або ж перелічуй " .. cost2 .. " і два дні будь-якої миті можеш ритися у своєму хабарі...",
         "ui\\ui_iconsTotal", Frect():set( 0, 0, 0, 0 ), "simple_answer_item"
     )
 end
@@ -5068,14 +5068,14 @@ end
 
 
 sidor_blowout_dialog = {
-    "потрясёт нас.",
-    "снова ударит.",
-    "будем все, как тараканы разбегаться.",
-    "мало не покажется..."
+    "потрясе нас.",
+    "знов ударить.",
+    "будемо всі, як таргани розбігатися.",
+    "мало не здасться..."
 }
 
-docent_blowout_dialog  = { "как жахнет!", "мало не покажется..." }
-saharov_blowout_dialog = { "думаю начнётся...", "может начаться новый цикл." }
+docent_blowout_dialog  = { "як вдаре!", "мало не здасться..." }
+saharov_blowout_dialog = { "думаю почнеться...", "може розпочатися новий цикл." }
 
 blowout_when = ""
 
@@ -5085,26 +5085,26 @@ function do_blow_time()
     local name, delay = timers.check_timer( "blow_shift", "amk_mod.Run_Blowout_pp()" )
     local diff = delay / 60
     if diff < 1 then
-        when = "вот-вот наверно, минут через десять, может двадцать"
+        when = "ось-ось напевно, хвилин через десять, може двадцять"
     elseif diff < 2 then
-        when = "через час-другой"
+        when = "через годину-другу"
     elseif ( diff >= 2 and diff <= 4 ) then
-        when = "через пару часов"
+        when = "через пару годин"
     elseif ( diff > 4 and diff <= 8 ) then
-        when = "часов через 6-7"
+        when = "годин через 6-7"
     elseif diff > 8 then
         local m_h = level:get_time_hours()
         local n_h = m_h + diff
-        if ( n_h >= 9  and n_h < 11 ) then when = "утром" end
-        if ( n_h >= 11 and n_h < 14 ) then when = "днем" end
-        if ( n_h >= 14 and n_h < 18 ) then when = "после обеда" end
-        if ( n_h >= 18 and n_h < 22 ) then when = "вечером" end
-        if ( n_h >= 22 and n_h < 30 ) then when = "ночью" end
-        if ( n_h >= 30 and n_h < 34 ) then when = "завтра утром" end
-        if ( n_h >= 34 and n_h < 38 ) then when = "завтра днем" end
-        if ( n_h >= 38 and n_h < 42 ) then when = "завтра после обеда" end
-        if ( n_h >= 42 and n_h < 50 ) then when = "завтра ночью" end
-        if ( n_h >= 50              ) then when = "через день, может больше" end
+        if ( n_h >= 9  and n_h < 11 ) then when = "вранці" end
+        if ( n_h >= 11 and n_h < 14 ) then when = "вдень" end
+        if ( n_h >= 14 and n_h < 18 ) then when = "після обіду" end
+        if ( n_h >= 18 and n_h < 22 ) then when = "увечері" end
+        if ( n_h >= 22 and n_h < 30 ) then when = "вночі" end
+        if ( n_h >= 30 and n_h < 34 ) then when = "завтра вранці" end
+        if ( n_h >= 34 and n_h < 38 ) then when = "завтра вдень" end
+        if ( n_h >= 38 and n_h < 42 ) then when = "завтра після обіду" end
+        if ( n_h >= 42 and n_h < 50 ) then when = "завтра вночі" end
+        if ( n_h >= 50              ) then when = "через день, може більше" end
     end
     blowout_when = when
 end
@@ -5640,7 +5640,7 @@ function have_mutant_opt()
         and sak.have_items_count( "mutant_zombie_hand", 10 ) ~= false
         and sak.have_items_count( "mutant_flesh_eye", 10   ) ~= false
 end
--- спавним ПДА в труп учёного в х6
+-- спавним КПК в труп учёного в х6
 function warlab_ecolog_body()
     local obj = g_sim:story_object( story_ids.war_ecolog_body_1 )
     misc.spawn_to( "war_ecolog_pda", obj )

@@ -10,13 +10,13 @@
 		<text>Закрити кришку</text>
 	</string>
 	<string id="switch_off">
-		<text>Вимкнути</text>
+		<text>вимкнути</text>
 	</string>
 	<string id="switch_on">
 		<text>увімкнути</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
-		<text>Бонус за ПДА</text>
+		<text>Бонус за КПК</text>
 	</string>
 	<string id="st_drink">
 		<text>випити</text>
@@ -25,16 +25,16 @@
 		<text>Прямий IP</text>
 	</string>
 	<string id="ui_mm_default">
-		<text>За замовчуванням</text>
+		<text>За замовч.</text>
 	</string>
 	<string id="ui_mm_detail_density">
 		<text>Щільність трави</text>
 	</string>
 	<string id="ui_mm_r2_sun">
-		<text>Тінь від сонця</text>
+		<text>Тіні від сонця</text>
 	</string>
 	<string id="ui_mm_r2_sun_details">
-		<text>Тінь трави</text>
+		<text>Тіні від трави</text>
 	</string>
 	<string id="ui_mm_r2_tonemap_middlegray">
 		<text>Інтенсивність HDR</text>
@@ -49,13 +49,13 @@
 		<text>Сонячне освітлення</text>
 	</string>
 	<string id="ui_mm_render_2">
-		<text>Тип освітлення-2</text>
+		<text>Рендер-2</text>
 	</string>
 	<string id="ui_pda_details">
 		<text># /деталі</text>
 	</string>
 	<string id="ui_st_btn_cancel">
-		<text>Відміна</text>
+		<text>Відмінити</text>
 	</string>
 	<string id="ui_st_btn_no">
 		<text>Ні</text>
@@ -67,10 +67,10 @@
 		<text>Так</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Ви не можете запустити другий тип освітлення на Вашому комп&apos;ютері</text>
+		<text>Ви не можете запустити другий рендер на цьому комп'ютері</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
-		<text>Ё</text>
+		<text>ИО</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
 		<text>Помилка з&apos;єднання: неправильний пароль</text>
@@ -94,10 +94,10 @@
 		<text>Ім&apos;я файлу порожнє</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>година.</text>
+		<text>год.</text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Будь...</text>
+		<text>Піти</text>
 	</string>
 	<string id="ui_st_mins">
 		<text>хв.</text>
@@ -127,7 +127,7 @@
 		<text>Голосування вимкнено</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Ви дійсно хочете залишити гру?</text>
+		<text>Ви справді хочете залишити Зону?</text>
 	</string>
 	<string id="ui_st_your_items">
 		<text>Речі Міченого</text>
@@ -139,61 +139,61 @@
 		<text>Рівень</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>..........</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_cform">
-		<text>............</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Кешування об&apos;єктів</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_creating_new_game">
-		<text>......</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>....</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>........</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_saved_game">
-		<text>...завантажується</text>
+		<text>...Завантажується</text>
 	</string>
 	<string id="st_validating_cdkey">
 		<text>9</text>
 	</string>
 	<string id="st_loading_ai_objects">
-		<text>........................</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_client_connecting_to">
-		<text>..........</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_client_spawning">
-		<text>..........................</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_textures">
-		<text>............................</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_client_synchronising">
-		<text>..............................</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_server_starting">
-		<text>..</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>..............</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_geometry">
-		<text>................</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>..................</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_details">
-		<text>....................</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="st_loading_sectors_portals">
-		<text>......................</text>
+		<text>Завантаження</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
 		<text>Помилка з&apos;єднання: Відрізняються версії</text>
@@ -214,10 +214,10 @@
 		<text>Немає нових патчів</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Ви хочете видалити файл?</text>
+		<text>Ви справді хочете видалити файл?</text>
 	</string>
 	<string id="st_game_paused">
-		<text>| |</text>
+		<text>II</text>
 	</string>
 	<string id="st_bolt">
 		<text>Болт</text>
@@ -253,7 +253,7 @@
 		<text>Завантаження гри призведе до втрати незбережених даних. Бажаєте продовжити?</text>
 	</string>
 	<string id="ui_st_invalid_saved_game">
-		<text>Не збігається версія збереженої гри, або збережена гра зіпсована.</text>
+		<text>Не співпадає версія збереженої гри або збережена гра пошкоджена.</text>
 	</string>
 	<string id="st_temporary_disabled">
 		<text>Чорт... Замурували, демони! Був же вихід... Може, зачекати?</text>
@@ -262,7 +262,7 @@
 		<text>Султан пропонує сьогодні:</text>
 	</string>
 	<string id="st_barter_price_capt">
-		<text>Ціна запитання:</text>
+		<text>Ціна питання:</text>
 	</string>
 	<string id="ui_st_confirm_sultan">
 		<text>Хоч пам&apos;ятаєш порядок? Несеш арт моїм хлопцям на Забутому хуторі, а далі вони розкажуть, де товар приймати.\nНу що, оформляємо замовлення?</text>

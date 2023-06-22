@@ -612,7 +612,7 @@
 	
 	
 <specific_character id="gar_wounded_bandit" team_default = "1">
-		<name>Филька Лапоть</name>
+		<name>Філька Лапоть</name>
 		<icon>ui_npc_u_lapot</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>gar_lapot_bio</bio>
@@ -935,7 +935,7 @@
 </specific_character>
 	
 <specific_character id="gar_bandit_dm" team_default = "1">
-		<name>Гришка Костыль</name>
+		<name>Гришка Костиль</name>
 		<icon>ui_npc_u_stalker_neytral_balon_8</icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>esc_bandit_novice_bio</bio>
@@ -968,7 +968,7 @@
 </specific_character>
 	
 <specific_character id="gar_bandit_dm_2" team_default = "1">
-		<name>Диман Орех</name>
+		<name>Діман Горіх</name>
 		<icon>ui_npc_u_stalker_bandit_master</icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>gar_oreh_bio</bio>
@@ -1011,7 +1011,7 @@
 </specific_character>
 	
 <specific_character id="gar_bandit_dm_3" team_default = "1">
-		<name>Кривой</name>
+		<name>Кривий</name>
 		<icon>ui_npc_u_krivoy</icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>esc_bandit_novice_bio</bio>
@@ -1043,7 +1043,7 @@
 </specific_character>
 	
 <specific_character id="gar_stalker_flame_quest" team_default = "1">
-		<name>Лёха Тамбовский</name>
+		<name>Льоха Тамбовський</name>
 		<icon>ui_npc_u_holod</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>gar_tambovskiy_bio</bio>
@@ -1111,7 +1111,7 @@
 </specific_character>
 
 <specific_character id="gar_stalker_trupik" team_default = "1">
-		<name>Неизвестный</name>
+		<name>Невідомий</name>
 		<icon>ui_npc_u_trups</icon>
 		<map_icon x="1" y="0"></map_icon>
 		<bio>gar_trup_bio</bio>

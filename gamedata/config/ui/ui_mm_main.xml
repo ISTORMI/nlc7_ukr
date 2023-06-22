@@ -53,16 +53,16 @@
 	<menu_main btn_height="30" font="graffiti22" a="255" r="15" g="10" b="10">
 		<btn name="btn_new_game"	caption="ui_mm_newgame" />
 		<btn name="btn_load"		caption="ui_mm_load_game" />
-		<btn name="btn_multiplayer"	caption="ui_mm_multiplayer_n" />
+		<!-- <btn name="btn_multiplayer"	caption="ui_mm_multiplayer_n" /> -->
 		<btn name="btn_options"		caption="ui_mm_options_n" />
-		<btn name="btn_credits"		caption="ui_mm_credits" />
+		<!-- <btn name="btn_credits"		caption="ui_mm_credits" /> -->
 		<btn name="btn_quit"		caption="ui_mm_quit2windows" />
 	</menu_main>
 	
 	<menu_main_last_save btn_height="30" font="graffiti22" a="255" r="15" g="10" b="10">
 		<btn name="btn_new_game"	caption="ui_mm_newgame" />
 		<btn name="btn_load"		caption="ui_mm_load_game" />
-		<btn name="btn_multiplayer"	caption="ui_mm_multiplayer_n" />
+		<!-- <btn name="btn_multiplayer"	caption="ui_mm_multiplayer_n" /> -->
 		<btn name="btn_options"		caption="ui_mm_options_n" />
 		<btn name="btn_quit"		caption="ui_mm_quit2windows" />
 	</menu_main_last_save>

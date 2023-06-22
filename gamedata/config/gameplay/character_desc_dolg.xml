@@ -4,10 +4,10 @@
 	
 <!---------------------------DOLG REGULAR----------------------->
 <specific_character id="dolg_regular_default1" team_default = "1">
-		<name>Cталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Сталкер группировки "Долг". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Обов'язок". Детальна інформація відсутня.</bio>
 
 		<class>Dolg_regular</class>
 		<community>dolg</community>
@@ -35,10 +35,10 @@
 </specific_character>
 
 <specific_character id="dolg_regular_default2" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="28" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Сталкер группировки "Долг". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Обов'язок". Детальна інформація відсутня.</bio>
 
 		<class>Dolg_regular</class>
 		<community>dolg</community>
@@ -65,10 +65,10 @@
 </specific_character>
 
 <specific_character id="dolg_regular_default3" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="28" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Сталкер группировки "Долг". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Обов'язок". Детальна інформація відсутня.</bio>
 
 		<team>Dolg_regular</team>
 		
@@ -98,10 +98,10 @@
 
 <!---------------------------DOLG SNIPER---------------------->
 <specific_character id="dolg_sniper_default1" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="28" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Сталкер группировки "Долг". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Обов'язок". Детальна інформація відсутня.</bio>
 
 		<class>Dolg_sniper</class>
 		<community>dolg</community>
@@ -126,10 +126,10 @@
 </specific_character>
 
 <specific_character id="dolg_sniper_default2" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Сталкер группировки "Долг". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Обов'язок". Детальна інформація відсутня.</bio>
 
 		<class>Dolg_sniper</class>
 		<community>dolg</community>
@@ -154,10 +154,10 @@
 </specific_character>
 
 <specific_character id="dolg_sniper_default3" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="28" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Сталкер группировки "Долг". Детальная информация отсутствует.</bio>
+		<bio>Сталкер угруповання "Обов'язок". Детальна інформація відсутня.</bio>
 
 		<class>Dolg_sniper</class>
 		<community>dolg</community>
@@ -183,10 +183,10 @@
 
 <!---------------------------DOLG SPECNAZ---------------------->
 <specific_character id="dolg_veteran_default1" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</bio>
+		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальна інформація відсутня.</bio>
 
 		<class>Dolg_specnaz</class>
 		<community>dolg</community>
@@ -210,10 +210,10 @@
 </specific_character>
 
 <specific_character id="dolg_veteran_default2" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</bio>
+		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальна інформація відсутня.</bio>
 
 		<class>Dolg_specnaz</class>
 		<community>dolg</community>
@@ -239,10 +239,10 @@
 </specific_character>
 
 <specific_character id="dolg_veteran_default3" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="30" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</bio>
+		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальна інформація відсутня.</bio>
 
 		<team>Dolg_specnaz</team>
 
@@ -270,10 +270,10 @@
 </specific_character>
 
 <specific_character id="dolg_veteran_default4" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="30" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</bio>
+		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальна інформація відсутня.</bio>
 
 		<team>Dolg_specnaz</team>
 
@@ -300,7 +300,7 @@
 	
 <!---------------------------DOLG MASTER----------------------->
 <specific_character id="dolg_master_default1" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="30" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
 		<bio>Хранитель группировки "Долг". Если вы не их друг - вам лучше их избегать. Детальная информация недоступна.</bio>
@@ -329,7 +329,7 @@
 </specific_character>
 
 <specific_character id="dolg_master_default2" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="2" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
 		<bio>Хранитель группировки "Долг". Если вы не их друг - вам лучше их избегать. Детальная информация недоступна.</bio>
@@ -363,7 +363,7 @@
 		<name>"Череп"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</bio>
+		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальна інформація відсутня.</bio>
 
 		<team>Dolg_specnaz</team>
 
@@ -392,10 +392,10 @@
 
 <!---------------------------DOLG SPECNAZ SILENCE---------------------->
 <specific_character id="dolg_veteran_silence" team_default = "1">
-		<name>Сталкер группировки "Долг"</name>
+		<name>Сталкер угруповання "Обов'язок"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</bio>
+		<bio>Боевик группировки "Долг". Обычно хорошо экипирован. Детальна інформація відсутня.</bio>
 
 		<class>Dolg_specnaz_silence</class>
 		<community>dolg</community>

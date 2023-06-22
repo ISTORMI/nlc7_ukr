@@ -2,7 +2,7 @@
 		<text>Повернути мисливцеві фамільна рушниця</text>
 	</string>
 	<string id="bar_bring_PDA_lucky">
-		<text>Принести ПДА лідера Бармену</text>
+		<text>Принести КПК лідера Бармену</text>
 	</string>
 	<string id="bar_crazy_veterans_quest">
 		<text>Знищити божевільних ветеранів</text>
@@ -59,7 +59,7 @@
 		<text>Віддати нашивки генералу Вороніну</text>
 	</string>
 	<string id="bar_dolg_tiran_PDA">
-		<text>Взяти ПДА Тирана</text>
+		<text>Взяти КПК Тирана</text>
 	</string>
 	<string id="bar_hunter_find_rifle">
 		<text>Знайти фамільну рушницю</text>
@@ -74,7 +74,7 @@
 		<text>Вбити лідера ветеранів</text>
 	</string>
 	<string id="bar_kill_crazy_veterans_PDA">
-		<text>Взяти ПДА їхнього лідера</text>
+		<text>Взяти КПК їхнього лідера</text>
 	</string>
 	<string id="bar_kill_veterans">
 		<text>Знищити табір божевільних ветеранів</text>

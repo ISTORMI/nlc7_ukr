@@ -24,7 +24,7 @@
 <info_portion id="mercenary_items_start"></info_portion>                 <!-- для квеста на переход АС-РЛ от наёмников -->
 <info_portion id="mar_factory_leader_items_start"></info_portion>        <!-- квест по вещам для болотного вояки за РПК для Пличко -->
 <info_portion id="mar_factory_leader_items_done"></info_portion>         <!-- квест по вещам для болотного вояки за РПК для Пличко -->
-<info_portion id="scarman_pda_puzzle"><article>tex_scarman_pda_puzzle</article></info_portion>   <!-- для шифр в ПДА Шрама -->
+<info_portion id="scarman_pda_puzzle"><article>tex_scarman_pda_puzzle</article></info_portion>   <!-- для шифр в КПК Шрама -->
 <info_portion id="strelok_spots_info"><article>strelok_spots</article></info_portion>
 <!-- igor.doc - waylander добавлено для для 2.5.1 и 3.0 -->
 <info_portion id="info_stepanych_mosin_start"><article>tex_stepanych_mosin</article></info_portion>
@@ -67,7 +67,7 @@
 <info_portion id="tm_kill_stalker_1_yes"></info_portion>
 <info_portion id="tm_kill_stalker_hunter_info"></info_portion>
 <info_portion id="tm_kill_stalker_hunter_done"></info_portion>
-<!-- для диалога с Доцентом про ПДА из Варлаба -->
+<!-- для диалога с Доцентом про КПК из Варлаба -->
 <info_portion id="docent_pda_warlab_new"></info_portion>
 <info_portion id="docent_pda_warlab_new_done"></info_portion>
 <info_portion id="docent_message"></info_portion>

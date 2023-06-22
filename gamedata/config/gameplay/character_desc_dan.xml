@@ -3,7 +3,7 @@
 <xml>
 	<!---------------------------dan---------------------->
   <specific_character id="esc_dan" team_default = "1">
-	<name>Дэн</name>
+	<name>Ден</name>
 	<icon>ui_npc_u_hunter_5_novice</icon>
 	<map_icon x="0" y="0"></map_icon>
 	<bio>sim_stalker_novice_bio</bio>
@@ -387,7 +387,7 @@
 
 <!---------------------------sniper-killer3----------------------->
 <specific_character id="mill_sniper_nick" team_default = "1">
-		<name>Ник</name>
+		<name>Нік</name>
 		<icon>ui_npc_u_stalker_ki_nauchniy</icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>sim_stalker_general_bio</bio>
@@ -424,7 +424,7 @@
 
 <!---------------------------sniper-killer4----------------------->
 <specific_character id="mill_sniper_harris" team_default = "1">
-		<name>Херис</name>
+		<name>Херіс</name>
 		<icon>ui_npc_u_stalker_ki_nauchniy</icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>sim_stalker_general_bio</bio>
@@ -461,7 +461,7 @@
 
 <!---------------------------monolit-dead----------------------->
 <specific_character id="radar_monolit_dead" team_default = "1">
-		<name>Морфин</name>
+		<name>Морфін</name>
 		<icon>ui_npc_u_stalker_mo_hood_9</icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>aes_Monolit_specnaz_bio</bio>
@@ -569,7 +569,7 @@
 
 <!---------------------------bland-dark----------------------->
 <specific_character id="dark_bland" team_default = "1">
-		<name>Блэнд</name>
+		<name>Бленд</name>
 		<icon>ui_npc_u_stalker_ki_exoskeleton</icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>sim_stalker_general_bio</bio>
@@ -859,7 +859,7 @@
 
 <!---------------------------military-ecolog-agro1----------------------->
 <specific_character id="military_ecolog_agro1" team_default = "1">
-		<name>Иващенко</name>
+		<name>Іващенко</name>
 		<icon>ui_npc_u_ucheniy_2</icon>
 		<map_icon x="7" y="0"></map_icon>
 		<bio>yan_saharov_bio</bio>
@@ -1140,7 +1140,7 @@
 
 <!---------------------------Призрак----------------------->
 <specific_character id="new_prizrak" team_default = "1">
-		<name>Призрак</name>
+		<name>Привид</name>
 		<icon>ui_npc_u_stalker_prizrak</icon>
 		<map_icon x="0" y="6"></map_icon>
 		<bio>sim_stalker_veteran_bio</bio>
@@ -1262,7 +1262,7 @@
 
 <!---------------------------stalker-rost-Sysh----------------------->
 <specific_character id="stalker_rost_sysh" team_default = "1">
-			<name>Сыч</name>
+			<name>Сич</name>
 		<icon>ui_npc_u_stalker_neytral_nauchniy</icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>mil_Stalker_master_bio</bio>
@@ -1757,7 +1757,7 @@
 
 <!---------------------------military-dead----------------------->
 <specific_character id="dead_military_esc" team_default = "1">
-		<name>Андрей</name>
+		<name>Андрій</name>
 		<icon>ui_npc_u_soldier_spetsnaz</icon>
 		<map_icon x="2" y="2"></map_icon>
 		<bio>rad_specnaz_bio</bio>
@@ -1795,7 +1795,7 @@
 
 <!---------------------------rost-siv----------------------->
 <specific_character id="rost_siv" team_default = "1">
-		<name>Сивый</name>
+		<name>Сивий</name>
 		<icon>ui_npc_u_stalker_ki_head_5</icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>ros_tiran_bio</bio>
@@ -1956,7 +1956,7 @@
 
 <!---------------------------ecolog-wound-bunker---------------------->
 <specific_character id="ecolog_wound_bunker" team_default = "1">
-		<name>Ерофеев</name>
+		<name>Єрофєєв</name>
 		<icon>ui_npc_u_stalker_ecolog_military</icon>
 		<map_icon x="0" y="6"></map_icon>
 		<bio>yan_semenov_bio</bio>

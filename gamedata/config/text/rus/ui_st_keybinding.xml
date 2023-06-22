@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="kb_active_jobs">
-		<text>Активні завдання у ПДА</text>
+		<text>Активні завдання у КПК</text>
 	</string>
 	<string id="kb_always_run">
 		<text>Крок</text>
@@ -28,7 +28,7 @@
 		<text>Консоль</text>
 	</string>
 	<string id="kb_contacts">
-		<text>Контакти у ПДА</text>
+		<text>Контакти у КПК</text>
 	</string>
 	<string id="kb_crouch">
 		<text>Присісти</text>
@@ -91,7 +91,7 @@
 		<text>Крок вліво</text>
 	</string>
 	<string id="kb_map">
-		<text>Карта в ПДА</text>
+		<text>Карта в КПК</text>
 	</string>
 	<string id="kb_next_slot">
 		<text>Зброя з наступного слота</text>
@@ -103,7 +103,7 @@
 		<text>Пауза</text>
 	</string>
 	<string id="kb_pda">
-		<text>ПДА</text>
+		<text>КПК</text>
 	</string>
 	<string id="kb_prev_slot">
 		<text>Зброя з попереднього слота</text>

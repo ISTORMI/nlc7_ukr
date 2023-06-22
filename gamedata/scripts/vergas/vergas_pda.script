@@ -6,8 +6,8 @@ Vergas
 
 local tbl_spwn_pda = {}
 local tbl_info     = {}
-local tbl_sn       = {}   --таблица служебных номеров  ПДА
-local number_pda          --номер текущего ПДА
+local tbl_sn       = {}   --таблица служебных номеров  КПК
+local number_pda          --номер текущего КПК
 local steklo, number_record
 
 function set_pda_info()
@@ -38,7 +38,7 @@ function set_pda_info()
                         grup_s = set_community_str()
                     end
                     if grup_s == "bandit" then
-                        --у бандюгана может быть и чужой ПДА(но уже со своим логином и паролем)
+                        --у бандюгана может быть и чужой КПК(но уже со своим логином и паролем)
                         local k = lua_random( 1, 10 )
                         if k >= 8 then grup_s = set_community_str() end
                     end
@@ -59,7 +59,7 @@ function set_pda_info()
                     msg = set_msg( grup_s, shron )
                     info_string = login .. "|" .. pass .. "|" .. name  .. "|"
                                .. s_n   .. "|" ..  msg .. "|" .. shron .. "|0"
-                    --запись инфо-строки в ПДА
+                    --запись инфо-строки в КПК
                     set_pda( tbl_inf[ 2 ], info_string )
                 end
             end
@@ -80,7 +80,7 @@ function set_msg( grup, shron )
     local i
     local str = ""
     n = vergas_lib.set_pr_from_config( "list_quantity", grup .. "_quantity" )
-    --определяю количество записей в ПДА
+    --определяю количество записей в КПК
     local msg_min = 2
     local msg_max = 5
     --определяю номера записей
@@ -242,7 +242,7 @@ function set_s_n( grup_n, rang_s, npc, statuc )
     elseif string.len( rang_s ) == 3 then s_n = s_n .. "0" .. rang_s
     elseif string.len( rang_s ) == 4 then s_n = s_n .. rang_s
     end
-    --состояние ПДА
+    --состояние КПК
     s_n = s_n .. tostring( statuc )
     return s_n
 end
@@ -480,9 +480,9 @@ end
 
 function set_status_pda()
     local n = lua_random( 1, 10 )
-    if     n < 6   then return 1        --пда рабочий
-    elseif n < 9   then return 2        --пда разряженный
-    elseif n <= 10 then return 3        --пда битый
+    if     n < 6   then return 1        --кпк рабочий
+    elseif n < 9   then return 2        --кпк разряженный
+    elseif n <= 10 then return 3        --кпк битый
     end
 end
 
@@ -570,9 +570,9 @@ function set_tbl_sn_nil()
 end
 
 function start_search_pda( mode )
-    --mode = 1 - перебор ПДА
-    --mode = 2 - возврат из работающего ПДА в перебор
-    --запускаю перебор ПДА
+    --mode = 1 - перебор КПК
+    --mode = 2 - возврат из работающего КПК в перебор
+    --запускаю перебор КПК
     if number_pda == 0 or number_pda == nil then
         number_pda = 1
     else
@@ -592,7 +592,7 @@ function start_search_pda_after_drop()
     local i, j, k
     local obj_id  = 0
     local tbl_tmp = {}
-    --нахожу и выбрасываю ПДА
+    --нахожу и выбрасываю КПК
     for i, k in pairs( sak_inventory.eatable ) do
         if i == "device_pda_npc" then
             for j = 1,table.getn( k ) do
@@ -613,7 +613,7 @@ function start_search_pda_after_drop()
             end
         end
     end
-    --Обрабатываю таблицу данных ПДА
+    --Обрабатываю таблицу данных КПК
     for i = 1, #tbl_info do
         if tbl_info[ i ] ~= "0" then
             table.insert( tbl_tmp, tbl_info[ i ] )
@@ -625,7 +625,7 @@ function start_search_pda_after_drop()
         if tbl_sn[ i ] ~= "0" then table.insert( tbl_tmp, tbl_sn[ i ] ) end
     end
     tbl_sn = tbl_tmp
-    --Запускаю перебор ПДА
+    --Запускаю перебор КПК
     if #tbl_info ~= 0 then
         schedule.add( "stop_show_pda", "vergas_pda.start_search_pda(2)", 500 )
     else
@@ -646,10 +646,10 @@ function get_pda_sn_tbl()
 end
 
 function get_pda_sn()
-    --вывод служебного номера текущего ПДА
+    --вывод служебного номера текущего КПК
     local n
     if not tbl_sn[ number_pda ] or type( tbl_sn[ number_pda ] ) ~= "string" then
-        n = "0000000000003"     --битый ПДА
+        n = "0000000000003"     --битый КПК
     else
         n = tbl_sn[ number_pda ]
     end
@@ -805,7 +805,7 @@ function set_treasure_in_dialog( shron )
     treasure_manager.get_treasure_manager():give_treasure( shron, true )
 end
 ------------------------------------------------
---Функции обработки стекла ПДА
+--Функции обработки стекла КПК
 ------------------------------------------------
 function set_steklo()
     local i
@@ -828,7 +828,7 @@ end
 --------------------------------------------
 function set_ratio( mode )
     --mode = 1 расчет основного окна (подложка)
-    --mode = 2 вывод окна ПДА
+    --mode = 2 вывод окна КПК
     --mode = 3 вывод стекла
     --mode = 4 вывод сл. номера
     local x, y, dx, dy

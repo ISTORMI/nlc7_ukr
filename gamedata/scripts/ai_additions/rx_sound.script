@@ -183,7 +183,7 @@ function npc_sound_generic:play(npc_id)
 	end
 	-- play_sound (u32 internal_type, u32 max_start_time, u32 min_start_time, u32 max_stop_time, u32 min_stop_time, u32 id)
 	npc:play_sound(npc_data.id, self.max_delay+0.06, self.min_delay+0.05, 1, 0, self.played_id)
-	-- проверка на существование звука дублирующего основной по ПДА. Если он есть то играть и его.
+	-- проверка на существование звука дублирующего основной по КПК. Если он есть то играть и его.
 	if self.pda_snd then
 		local f = getFS()
 		local snd = npc_data.path[self.played_id+1]

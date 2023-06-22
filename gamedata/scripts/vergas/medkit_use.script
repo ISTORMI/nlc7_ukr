@@ -499,7 +499,7 @@ function _G.caption_use( num, id )
         if cd then
             local info   = SplitStr( cd, '|' )
             local serial = info[ 4 ] or '?' .. sn
-            return 'œƒ¿ π' .. serial
+            return ' œ  π' .. serial
         end
     end
     return game.translate_string( "st_use" ) .. sprintf( " %d", id )

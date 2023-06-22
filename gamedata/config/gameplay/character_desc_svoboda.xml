@@ -28,7 +28,7 @@
 
 <!---------------------------SVOBODA REGULAR----------------------->
 <specific_character id="svoboda_regular_default1" team_default = "1">
-		<name>Сталкер группировки "Свобода"</name>
+		<name>Сталкер угруповання "Воля"</name>
 		<icon x="22" y="8"></icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>Сталкер группировки "Свобода". Детальная информация отсутствует.</bio>
@@ -58,7 +58,7 @@
 </specific_character>
 
 <specific_character id="svoboda_regular_default2" team_default = "1">
-		<name>Сталкер группировки "Свобода"</name>
+		<name>Сталкер угруповання "Воля"</name>
 		<icon x="24" y="6"></icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>Сталкер группировки "Свобода". Детальная информация отсутствует.</bio>
@@ -177,7 +177,7 @@
 
 <!---------------------------SVOBODA SNIPER---------------------->
 <specific_character id="svoboda_sniper_default2" team_default = "1">
-		<name>Сталкер группировки "Свобода"</name>
+		<name>Сталкер угруповання "Воля"</name>
 		<icon x="10" y="2"></icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>Сталкер группировки "Свобода". Детальная информация отсутствует.</bio>
@@ -206,7 +206,7 @@
 </specific_character>
 
 <specific_character id="svoboda_sniper_default3" team_default = "1">
-		<name>Сталкер группировки "Свобода"</name>
+		<name>Сталкер угруповання "Воля"</name>
 		<icon x="10" y="2"></icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>Сталкер группировки "Свобода". Детальная информация отсутствует.</bio>
@@ -236,7 +236,7 @@
 	
 <!---------------------------SVOBODA SPECNAZ---------------------->
 <specific_character id="svoboda_veteran_default1" team_default = "1">
-		<name>Сталкер группировки "Свобода"</name>
+		<name>Сталкер угруповання "Воля"</name>
 		<icon x="24" y="8"></icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>Боевик группировки "Свобода". Обычно хорошо экипирован. Детальная информация отсутствует.</bio>
@@ -267,7 +267,7 @@
 				
 <!---------------------------SVOBODA MASTER----------------------->
 <specific_character id="svoboda_master_default1" team_default = "1">
-		<name>Сталкер группировки "Свобода"</name>
+		<name>Сталкер угруповання "Воля"</name>
 		<icon x="12" y="0"></icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>Мастер группировки "Свобода"
@@ -492,7 +492,7 @@
 
 <!---------------------------SVOBODA ZONEGUARD---------------------->
 <specific_character id="svoboda_zoneguard" team_default = "1">
-		<name>Сталкер группировки "Свобода"</name>
+		<name>Сталкер угруповання "Воля"</name>
 		<icon x="24" y="8"></icon>
 		<map_icon x="5" y="0"></map_icon>
 		<bio>Боевик группировки "Свобода". Обычно хорошо экипирован. Детальная информация отсутствует.</bio>

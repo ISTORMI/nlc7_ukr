@@ -84,7 +84,7 @@
 <article id="tm_mongol_2" name="Доложить Сидоровичу" article_type="journal" group="enc_task/tm_mongol_name"><text>tex_tm_mongol_2</text></article>
 
 <article id="tm_killer_0" name="Поговорить с наёмнком" article_type="journal" group="enc_task/tm_killer_name"><text>tex_tm_killer_0</text></article>
-<article id="tm_killer_1" name="Принести ПДА и батарейки" article_type="journal" group="enc_task/tm_killer_name"><text>tex_tm_killer_1</text></article>
+<article id="tm_killer_1" name="Принести КПК и батарейки" article_type="journal" group="enc_task/tm_killer_name"><text>tex_tm_killer_1</text></article>
 <article id="tm_killer_2" name="Доложить Сидоровичу" article_type="journal" group="enc_task/tm_killer_name"><text>tex_tm_killer_2</text></article>
 
 <article id="tm_stalker_0" name="Поговорить со сталкером" article_type="journal" group="enc_task/tm_stalker_name"><text>tex_tm_stalker_0</text></article>
@@ -173,7 +173,7 @@
 <article id="borov_help_entres" name="Принести Борову водки и закуски" article_type="journal" group="enc_task"><text>tex_borov_help_entres</text></article>
 <article id="val_dram_glavn_business" name="Передать записку Иванцову" article_type="journal" group="enc_task"><text>tex_val_dram_glavn_business</text></article>
 <article id="val_dram_glavn_spas" name="Принести Рашпилю SPAS-12" article_type="journal" group="enc_task"><text>tex_val_dram_glavn_spas</text></article>
-<article id="bandit_krisyk_start" name="Вернуть Борову ПДА Крысюка" article_type="journal" group="enc_task"><texture x="300" y="650" width="100" height="50">ui\ui_icon_equipment</texture><text>tex_bandit_krisyk_start</text></article>
+<article id="bandit_krisyk_start" name="Вернуть Борову КПК Крысюка" article_type="journal" group="enc_task"><texture x="300" y="650" width="100" height="50">ui\ui_icon_equipment</texture><text>tex_bandit_krisyk_start</text></article>
 <article id="sak_military_stalker" name="Шерстюк просит найти чёрный ящик" article_type="journal" group="enc_task"><text>tex_sak_military_stalker</text></article>
 <article id="petrenko_yantar_way" name="Принести Петренко продукты от охотников" article_type="journal" group="enc_task"><text>tex_petrenko_yantar_way</text></article>
 <article id="tex_sultan_weapon_order" name="Оплатить заказ ствола от Султана" article_type="journal" group="enc_task"><text>text_sultan_weapon_order</text></article>

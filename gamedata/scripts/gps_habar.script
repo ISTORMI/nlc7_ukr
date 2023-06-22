@@ -459,7 +459,7 @@ function get_color( secName )
 	elseif strposx( lsecName, "outfit" ) or
 		   strposx( lsecName, "exoskeleton" ) 	 then return "%c[230,250,230,0]"      -- бронька
 	elseif strposx( lsecName, "pda" ) or
-		   strposx( lsecName, "flash" )  		 then return "%c[230,180,150,250]"    -- ПДА и флешки
+		   strposx( lsecName, "flash" )  		 then return "%c[230,180,150,250]"    -- КПК и флешки
  	elseif strposx( lsecName, "medkit" ) or
 		   strposx( lsecName, "antirad" ) or
 		   strposx( lsecName, "bandage" ) 		 then return "%c[255,1,230,80]"       -- медицина

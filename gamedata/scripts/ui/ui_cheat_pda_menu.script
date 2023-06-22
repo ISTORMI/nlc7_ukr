@@ -6,13 +6,13 @@ Vergas
 
 class "cheat"(CUIScriptWnd)
 
-local sn				--служебный номер ПДА
+local sn				--служебный номер КПК
 local wnd_bg			--окно подложки
 local wnd_sn			--окно служебного номера
 local wnd_mask
 local wnd_steklo		--окно стекла
 local ratio_mode
-local mode_r			--1-режим перебора  2-режим разряженного ПДА
+local mode_r			--1-режим перебора  2-режим разряженного КПК
 
 function cheat:__init(owner) super()
 	self.owner = owner
@@ -41,7 +41,7 @@ function cheat:InitControls()
 	steklo_bad = vergas_pda.set_steklo()
 	--определяю служебный номер
 	sn = vergas_pda.get_pda_sn()
-	--вывожу ПДА
+	--вывожу КПК
 	mode_r = 1
 	self:set_wnd_bg(1)
 	
@@ -89,7 +89,7 @@ function cheat:OnKeyboard(dik, keyboard_action)
 				self:set_wnd_bg(1)
 			end
 		elseif 	dik == DIK_keys.DIK_G then
-			--выбрасываю ПДА
+			--выбрасываю КПК
 			self:drop_pda()
 			end
 			end
@@ -115,7 +115,7 @@ function cheat:btn_start()
 
 	if tonumber(string.sub (sn, 13 , 13)) == 2 then
 		mode_r = 2
-		self:set_wnd_bg(2)			--вывод разряженного ПДА
+		self:set_wnd_bg(2)			--вывод разряженного КПК
 		vergas_lib.s_play(vergas_lib.set_pr_from_config_str("list_sounds_pda","snd_start_pda"),1)
 	elseif tonumber(string.sub (sn, 13 , 13)) == 1 then
 		local n = vergas_pda.get_number_pda()
@@ -144,7 +144,7 @@ function cheat:drop_pda()
 end
 
 function cheat:set_wnd_bg(mode)
---mode=1-перебор  mode=2-разряженный ПДА
+--mode=1-перебор  mode=2-разряженный КПК
 	local textur
 
 	if wnd_bg ~= nil then
@@ -165,22 +165,22 @@ function cheat:set_wnd_bg(mode)
 	elseif ratio_mode == 1 then
 		wnd_bg:SetWndRect(0,0,624,543)		--1600x900
 	end
-	--определяю состояние ПДА
+	--определяю состояние КПК
 	local n = tonumber(string.sub (sn, 13 , 13))
 	
 	if mode == 1 then
 		if n == 1 or n == 2 then
-			--целый ПДА накладываю только целое стекло
+			--целый КПК накладываю только целое стекло
 			textur = true
 		else
-			--битый ПДА. Накладываю битое стекло
+			--битый КПК. Накладываю битое стекло
 			textur = false
 		end
 		wnd_bg:InitTexture("ui\\ui_pda_off")
 	else
 		--батарея разряжена. накладываю только целое стекло
 		textur = true
-		wnd_bg:InitTexture("ui\\ui_pda_bad_ok")	--сам ПДА
+		wnd_bg:InitTexture("ui\\ui_pda_bad_ok")	--сам КПК
 	end
 	
 	self:set_wnd_steklo(textur)

@@ -1215,7 +1215,7 @@
 </phrase_list>
 </dialog>
 	
-	 <!--23 и 24 ПДА и дело-->
+	 <!--23 и 24 КПК и дело-->
 	 
 	 <dialog id="artmod_23_make_dialog">
 <precondition>sak_artmods.have_info_artmod_23</precondition>
@@ -1933,7 +1933,7 @@
 </phrase_list>
 </dialog>
 	
-	<!--33 дело на кордоне   34 ПДА волкодава-->
+	<!--33 дело на кордоне   34 КПК волкодава-->
 	
 <dialog id="artmod_33_make_dialog">
 <precondition>sak_artmods.have_info_artmod_33</precondition>
@@ -2332,7 +2332,7 @@
 </phrase_list>
 </dialog>
 	
-	<!--36 ПДА на радаре-->
+	<!--36 КПК на радаре-->
 	
 <dialog id="artmod_36_make_dialog">
 <precondition>sak_artmods.have_info_artmod_36</precondition>

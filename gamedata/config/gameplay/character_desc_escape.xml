@@ -964,7 +964,7 @@
 </specific_character>
 
 <specific_character id="esc_soldier_blockpost_commander" team_default = "1">
-		<name>Подполковник Обухов</name>
+		<name>Підполковник Обухів</name>
 		<icon>ui_npc_u_obuhov</icon>
 		<bio>esc_captain_bio</bio>
 

@@ -43,13 +43,13 @@
 		<text>дощ</text>
 	</string>
 	<string id="renderer_r1">
-		<text>Статичне освітлення</text>
+		<text>статичне освітлення не працює</text>
 	</string>
 	<string id="renderer_r2">
-		<text>Повне динамічне освітлення</text>
+		<text>повне динамічне освітлення</text>
 	</string>
 	<string id="renderer_r2a">
-		<text>Динамічне освітлення об&apos;єктів</text>
+		<text>динамічне освітлення об'єктів</text>
 	</string>
 	<string id="st_artefacthunt">
 		<text>NLC7</text>
@@ -136,7 +136,7 @@
 		<text>Контраст</text>
 	</string>
 	<string id="ui_mm_controls">
-		<text>Управління</text>
+		<text>Керування</text>
 	</string>
 	<string id="ui_mm_credits">
 		<text>Титри</text>
@@ -151,7 +151,7 @@
 		<text>Завантаження текстур у відеопам&apos;ять</text>
 	</string>
 	<string id="ui_mm_difficulty">
-		<text>Усі налаштування працюють лише на рівні складності &quot;Новичок&quot;!</text>
+		<text>&#160;</text>
 	</string>
 	<string id="ui_mm_disconnect">
 		<text>Від&apos;єднатися</text>
@@ -229,10 +229,10 @@
 		<text>Світло ліхтариків NPC</text>
 	</string>
 	<string id="ui_mm_options">
-		<text>ОПЦІЇ</text>
+		<text>Налаштування</text>
 	</string>
 	<string id="ui_mm_options_n">
-		<text>Опції</text>
+		<text>Налаштування</text>
 	</string>
 	<string id="ui_mm_particles_distance">
 		<text>Дальність частинок</text>
@@ -253,10 +253,10 @@
 		<text>Залишити Зону</text>
 	</string>
 	<string id="ui_mm_renderer">
-		<text>Тип освітлення</text>
+		<text>Тип рендера</text>
 	</string>
 	<string id="ui_mm_resolution">
-		<text>Дозвіл</text>
+		<text>Роздільна здатність</text>
 	</string>
 	<string id="ui_mm_return_game">
 		<text>Повернутись до Зони</text>
@@ -289,7 +289,7 @@
 		<text>Якість тіней</text>
 	</string>
 	<string id="ui_mm_supersample">
-		<text>Згладжування MSAA</text>
+		<text>Згладжування - MSAA</text>
 	</string>
 	<string id="ui_mm_switch_torch">
 		<text>Використання ліхтариків NPC</text>
@@ -307,13 +307,13 @@
 		<text>Відео</text>
 	</string>
 	<string id="ui_mm_vis_distance">
-		<text>Дальність видимості</text>
+		<text>Дальність видимості (загальна)</text>
 	</string>
 	<string id="ui_mm_vsync">
-		<text>Синхронізація</text>
+		<text>Вертикальна синхронізація (V-Sync)</text>
 	</string>
 	<string id="ui_st_last_set">
-		<text>Ост. набір</text>
+		<text>Попер. набір</text>
 	</string>
 	<string id="ui_st_preset1">
 		<text>(DEL - видалити ім&apos;я файлу повністю)</text>
@@ -331,7 +331,7 @@
 		<text>Бекап</text>
 	</string>
 	<string id="ui_mm_detail_distance">
-		<text>Дальність трави</text>
+		<text>Дальність відмальовування трави</text>
 	</string>
 	<string id="ui_mm_r2_detail_bump">
 		<text>Детальний рельєф</text>
@@ -340,10 +340,10 @@
 		<text>Steep parallax</text>
 	</string>
 	<string id="ui_mm_r2_sun_quality">
-		<text>Якість сонця</text>
+		<text>М'якість тіней (Soft Shadows)</text>
 	</string>
 	<string id="ui_mm_soft_particles">
-		<text>М&apos;які частки</text>
+		<text>М'які партикли</text>
 	</string>
 	<string id="ui_mm_soft_water">
 		<text>М&apos;яка вода</text>
@@ -352,10 +352,10 @@
 		<text>Сонячні промені</text>
 	</string>
 	<string id="ui_mm_volumetric_light">
-		<text>Об&apos;ємне світло</text>
+		<text>Volumetric light</text>
 	</string>
 	<string id="st_opt_off">
-		<text>відключено</text>
+		<text>вимкнено</text>
 	</string>
 	<string id="st_opt_low">
 		<text>низько</text>
@@ -367,7 +367,7 @@
 		<text>високо</text>
 	</string>
 	<string id="st_opt_extreme">
-		<text>макс. високо</text>
+		<text>екстрім</text>
 	</string>
 	<string id="renderer_r2.5">
 		<text>Покращене повне освітлення</text>
@@ -388,22 +388,22 @@
 		<text>HBAO</text>
 	</string>
 	<string id="ui_mm_r__actor_shadow">
-		<text>Тінь персонажа</text>
+		<text>Тінь від головного героя</text>
 	</string>
 	<string id="ui_mm_r__bloodmarks">
-		<text>Відмітини куль на тілах</text>
+		<text>Сліди попадань куль</text>
 	</string>
 	<string id="ui_mm_dof">
-		<text>Глибина різкості</text>
+		<text>Depth of field</text>
 	</string>
 	<string id="ui_mm_wet_surfaces">
-		<text>Намокання поверхонь</text>
+		<text>Намокання площин</text>
 	</string>
 	<string id="ui_mm_reflections_mode">
-		<text>Режим відображення</text>
+		<text>Режим віддзеркалення</text>
 	</string>
 	<string id="ui_mm_reflections_quality">
-		<text>Якість відбитків</text>
+		<text>Якість віддзеркалення</text>
 	</string>
 	<string id="st_mm_qt_off">
 		<text>вимкнено</text>

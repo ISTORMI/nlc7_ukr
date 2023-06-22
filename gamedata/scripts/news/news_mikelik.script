@@ -6,7 +6,7 @@ function chat_content()
 	if lua_random()>=0.5 then
 		local lvl=level.name()
 		if lvl=="l01_escape" then
-			--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+			--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 			y=lua_random(10,50)
 			repeat
 				amk.send_tip(game.translate_string("stlk_"..y..j),"",8*x,5) 
@@ -17,7 +17,7 @@ function chat_content()
 		end
 		if lvl=="l02_garbage" then
 			if lua_random()<=0.5 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,25)
 				repeat
 					amk.send_tip(game.translate_string("dlg_"..y..j),"",8*x,5) 
@@ -26,7 +26,7 @@ function chat_content()
 				until game.translate_string("dlg_"..y..j)=="dlg_"..y..j
 			else
 				if lua_random()>=0.9 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,27)
 				repeat
 					amk.send_tip(game.translate_string("bndt_"..y..j),"",8*x,5) 
@@ -34,7 +34,7 @@ function chat_content()
 					j=j+1
 				until game.translate_string("bndt_"..y..j)=="bndt_"..y..j
 				else 
-					--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+					--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 					y=lua_random(10,50)
 					repeat
 						amk.send_tip(game.translate_string("stlk_"..y..j),"",8*x,5) 
@@ -47,7 +47,7 @@ function chat_content()
 		end
 		if lvl=="l04_darkvalley" then
 			if lua_random()<=0.6 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,50)
 				repeat
 					amk.send_tip(game.translate_string("stlk_"..y..j),"",8*x,5) 
@@ -56,7 +56,7 @@ function chat_content()
 				until game.translate_string("stlk_"..y..j)=="stlk_"..y..j
 			end
 			if lua_random()>=0.9 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,27)
 				repeat
 					amk.send_tip(game.translate_string("bndt_"..y..j),"",8*x,5) 
@@ -68,7 +68,7 @@ function chat_content()
 		end
 		if lvl=="l05_bar" then
 			if lua_random()<=0.7 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,25)
 				repeat
 					amk.send_tip(game.translate_string("dlg_"..y..j),"",8*x,5) 
@@ -76,7 +76,7 @@ function chat_content()
 					j=j+1
 				until game.translate_string("dlg_"..y..j)=="dlg_"..y..j
 			else
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,50)
 				repeat
 					amk.send_tip(game.translate_string("stlk_"..y..j),"",8*x,5) 
@@ -88,7 +88,7 @@ function chat_content()
 		end
 		if lvl=="l06_rostok" then
 			if lua_random()<=0.6 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,18)
 				repeat
 					amk.send_tip(game.translate_string("klr_"..y..j),"",8*x,5) 
@@ -97,7 +97,7 @@ function chat_content()
 				until game.translate_string("klr_"..y..j)=="klr_"..y..j
 			else
 				if lua_random()>=0.9 then
-					--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+					--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 					y=lua_random(10,27)
 					repeat
 						amk.send_tip(game.translate_string("bndt_"..y..j),"",8*x,5) 
@@ -105,7 +105,7 @@ function chat_content()
 						j=j+1
 					until game.translate_string("bndt_"..y..j)=="bndt_"..y..j
 					else
-					--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+					--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 					y=lua_random(10,50)
 					repeat
 						amk.send_tip(game.translate_string("stlk_"..y..j),"",8*x,5) 
@@ -118,7 +118,7 @@ function chat_content()
 		end
 		if lvl=="l07_military" then
 			if lua_random()<=0.6 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,26)
 				repeat
 					amk.send_tip(game.translate_string("frdm_"..y..j),"",8*x,5) 
@@ -127,7 +127,7 @@ function chat_content()
 				until game.translate_string("frdm_"..y..j)=="frdm_"..y..j
 			else
 				if lua_random()>=0.8 then
-					--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+					--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 					y=lua_random(10,18)
 					repeat
 						amk.send_tip(game.translate_string("klr_"..y..j),"",8*x,5) 
@@ -135,7 +135,7 @@ function chat_content()
 						j=j+1
 					until game.translate_string("klr_"..y..j)=="klr_"..y..j
 				else
-					--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+					--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 					y=lua_random(10,50)
 					repeat
 						amk.send_tip(game.translate_string("stlk_"..y..j),"",8*x,5) 
@@ -148,7 +148,7 @@ function chat_content()
 		end
 		if lvl=="l08_yantar" then
 			if lua_random()<=0.4 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,25)
 				repeat
 					amk.send_tip(game.translate_string("dlg_"..y..j),"",8*x,5) 
@@ -156,7 +156,7 @@ function chat_content()
 					j=j+1
 				until game.translate_string("dlg_"..y..j)=="dlg_"..y..j
 			else
-				--sak.send_tip("","Частный канал",5,5,"ecolog","news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,"ecolog","news","sky_blue")
 				y=lua_random(10,19)
 				repeat
 					amk.send_tip(game.translate_string("eclg_"..y..j),"",8*x,5,"ecolog") 
@@ -168,7 +168,7 @@ function chat_content()
 		end
 		if lvl=="limansk" then
 			if lua_random()<=0.6 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,26)
 				repeat
 					amk.send_tip(game.translate_string("frdm_"..y..j),"",8*x,5) 
@@ -177,7 +177,7 @@ function chat_content()
 				until game.translate_string("frdm_"..y..j)=="frdm_"..y..j
 			else
 				if lua_random()>=0.9 then
-					--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+					--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 					y=lua_random(10,27)
 					repeat
 						amk.send_tip(game.translate_string("bndt_"..y..j),"",8*x,5) 
@@ -185,7 +185,7 @@ function chat_content()
 						j=j+1
 					until game.translate_string("bndt_"..y..j)=="bndt_"..y..j
 				else
-					--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+					--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 					y=lua_random(10,50)
 					repeat
 						amk.send_tip(game.translate_string("stlk_"..y..j),"",8*x,5) 
@@ -198,7 +198,7 @@ function chat_content()
 		end
 		if lvl=="marsh" then
 			if lua_random()<=0.5 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,50)
 				repeat
 					amk.send_tip(game.translate_string("stlk_"..y..j),"",8*x,5) 
@@ -206,7 +206,7 @@ function chat_content()
 					j=j+1
 				until game.translate_string("stlk_"..y..j)=="stlk_"..y..j
 			else
-				--sak.send_tip("","Частный канал",5,5,"ecolog","news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,"ecolog","news","sky_blue")
 				y=lua_random(10,19)
 				repeat
 					amk.send_tip(game.translate_string("eclg_"..y..j),"",8*x,5,"ecolog") 
@@ -217,7 +217,7 @@ function chat_content()
 			return
 		end
 		if lvl=="deadcity" then
-			--sak.send_tip("","Частный канал",5,5,"ecolog","news","sky_blue")
+			--sak.send_tip("","Приватний канал",5,5,"ecolog","news","sky_blue")
 			y=lua_random(10,19)
 			repeat
 				amk.send_tip(game.translate_string("eclg_"..y..j),"",8*x,5,"ecolog") 
@@ -228,7 +228,7 @@ function chat_content()
 		end
 		if lvl=="k01_darkscape" then
 			if lua_random()<=0.6 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,19)
 				repeat
 					amk.send_tip(game.translate_string("grn_"..y..j),"",8*x,5) 
@@ -240,7 +240,7 @@ function chat_content()
 		end 
 		if lvl=="red_forest" then
 			if lua_random()<=0.4 then
-				--sak.send_tip("","Частный канал",5,5,nil,"news","sky_blue")
+				--sak.send_tip("","Приватний канал",5,5,nil,"news","sky_blue")
 				y=lua_random(10,26)
 				repeat
 					amk.send_tip(game.translate_string("frdm_"..y..j),"",8*x,5) 

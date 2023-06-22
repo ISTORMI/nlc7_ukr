@@ -603,20 +603,20 @@
 		</objective>
 	</game_task>
 	<game_task id="saharov_pda">
-				<title>Принести пда призрака Сахарову</title>
+				<title>Принести кпк призрака Сахарову</title>
 		<objective>
-				<text>Найти пда призрака</text>
+				<text>Найти кпк призрака</text>
 				<icon>ui_iconsTotal_artefact</icon>
 				<infoportion_complete>saharov_pda_done</infoportion_complete>
 		</objective>
 		<objective>
-				<text>Найти пда призрака</text>
+				<text>Найти кпк призрака</text>
 				<icon height="50" width="50" x="100" y="50">ui\ui_icons_task</icon>
 				<function_complete>new_dialog.saharov_pda_have</function_complete>
 				<infoportion_set_complete>saharov_pda_have</infoportion_set_complete>
 		</objective>
 		<objective>
-				<text>Принести пда призрака Сахарову</text>
+				<text>Принести кпк призрака Сахарову</text>
 				<map_location_type hint="Сахаров">blue_location</map_location_type>
 				<object_story_id>yan_general_ecolog</object_story_id>
 				<infoportion_complete>saharov_pda_done</infoportion_complete>
@@ -687,21 +687,21 @@
 	</game_task>
 
 	<game_task id="bandit_krisyk">
-		<title>Забрать у Крысюка ПДА</title>
+		<title>Забрать у Крысюка КПК</title>
 		<objective>
-			<text>Забрать ПДА Крысюка</text>
+			<text>Забрать КПК Крысюка</text>
 			<icon>ui_iconsTotal_found_thing</icon>
 			<infoportion_complete>bandit_krisyk_done</infoportion_complete>
 			<infoportion_fail>bandit_krisyk_umer</infoportion_fail>
 			<article>tex_bandit_krisyk</article>
 		</objective>
 		<objective>
-			<text>Забрать ПДА с записями</text>
+			<text>Забрать КПК с записями</text>
 			<function_complete>sak_dialog.have_pda_krysyka</function_complete>
 			<infoportion_set_complete>bandit_krisyk_have</infoportion_set_complete>
 		</objective>
 		<objective>
-			<text>Отдать ПДА Борову</text>
+			<text>Отдать КПК Борову</text>
 			<map_location_type hint="Боров">blue_location</map_location_type>
 			<object_story_id>val_borov</object_story_id>
 			<infoportion_complete>bandit_krisyk_done</infoportion_complete>		
@@ -718,12 +718,12 @@
 			<article>tex_docent_detector1</article>
 		</objective>
 		<objective>
-			<text>Собрать щупальца и ПДА</text>
+			<text>Собрать щупальца и КПК</text>
 			<function_complete>sak_dialog.docent_krovosos_jaw_have</function_complete>
 			<infoportion_set_complete>docent_detector1_have</infoportion_set_complete>
 		</objective>
 		<objective>
-			<text>Передать щупальца и ПДА</text>
+			<text>Передать щупальца и КПК</text>
 			<infoportion_complete>docent_detector1_done</infoportion_complete>		
 		</objective>
 	</game_task>
@@ -738,12 +738,12 @@
 			<article>tex_docent_detector2</article>
 		</objective>
 		<objective>
-			<text>Собрать щупальца и ПДА</text>
+			<text>Собрать щупальца и КПК</text>
 			<function_complete>sak_dialog.docent_psevdogigant_hand_have</function_complete>
 			<infoportion_set_complete>docent_detector2_have</infoportion_set_complete>
 		</objective>
 		<objective>
-			<text>Передать щупальца и ПДА</text>
+			<text>Передать щупальца и КПК</text>
 			<infoportion_complete>docent_detector2_done</infoportion_complete>		
 		</objective>
 	</game_task>
@@ -758,12 +758,12 @@
 			<article>tex_docent_detector3</article>
 		</objective>
 		<objective>
-			<text>Собрать ПДА и руку контроллера</text>
+			<text>Собрать КПК и руку контроллера</text>
 			<function_complete>sak_dialog.docent_hand_kontroler_have</function_complete>
 			<infoportion_set_complete>docent_detector3_have</infoportion_set_complete>
 		</objective>
 		<objective>
-			<text>Передать руку и ПДА</text>
+			<text>Передать руку и КПК</text>
 			<infoportion_complete>docent_detector3_done</infoportion_complete>		
 		</objective>
 	</game_task>
@@ -778,12 +778,12 @@
 			<article>tex_docent_detector4</article>
 		</objective>
 		<objective>
-			<text>Собрать ПДА и когти химер</text>
+			<text>Собрать КПК и когти химер</text>
 			<function_complete>sak_dialog.docent_chimera_kogot_have</function_complete>
 			<infoportion_set_complete>docent_detector4_have</infoportion_set_complete>
 		</objective>
 		<objective>
-			<text>Отдать собранные ПДА и когти</text>
+			<text>Отдать собранные КПК и когти</text>
 			<infoportion_complete>docent_detector4_done</infoportion_complete>		
 		</objective>
 	</game_task>
@@ -889,15 +889,15 @@
 	</game_task>
 	
 	<game_task id="strelok_pda">
-		<title>Найти ПДА Стрелка</title>
+		<title>Найти КПК Стрелка</title>
 		<objective>
-			<text>Найти ПДА Стрелка в Саркофаге</text>
+			<text>Найти КПК Стрелка в Саркофаге</text>
 			<icon>ui_iconsTotal_found_thing</icon>
 			<infoportion_complete>strelok_pda_done</infoportion_complete>
 			<article>tex_strelok_pda</article>
 		</objective>
 		<objective>
-			<text>Найти ПДА Стрелка</text>
+			<text>Найти КПК Стрелка</text>
 			<function_complete>sak_dialog.strelok_pda_have</function_complete>
 			<infoportion_set_complete>strelok_pda_have</infoportion_set_complete>			
 		</objective>
@@ -1542,21 +1542,21 @@
 	</game_task>
 	
 	<game_task id="agr_krot_PDA">
-		<title>Найти потерянный ПДА Крота</title>
+		<title>Найти потерянный КПК Крота</title>
 		<objective>
-			<text>Найти ПДА Крота</text>
+			<text>Найти КПК Крота</text>
 			<icon>ui_iconsTotal_found_thing</icon>
 			<infoportion_complete>agr_krot_PDA_done</infoportion_complete>
 			<infoportion_fail>agr_krot_umer</infoportion_fail>
 			<article>tex_agr_krot_PDA</article>
 		</objective>
 		<objective>
-			<text>Найти ПДА</text>
+			<text>Найти КПК</text>
 			<function_complete>sak.have_items_count("agroprom_pda",1)</function_complete>
 			<infoportion_set_complete>agr_krot_PDA_have</infoportion_set_complete>
 		</objective>
 		<objective>
-			<text>Принести ПДА Кроту</text>
+			<text>Принести КПК Кроту</text>
 			<map_location_type hint="Крот">blue_location</map_location_type>
 			<object_story_id>agr_krot</object_story_id>
 			<infoportion_complete>agr_krot_PDA_done</infoportion_complete>		
@@ -1695,21 +1695,21 @@
 	</game_task>
 	
 	<game_task id="val_escort_PDA">
-		<title>Вернуть ПДА</title>
+		<title>Вернуть КПК</title>
 		<objective>
-			<text>Найти ПДА</text>
+			<text>Найти КПК</text>
 			<icon>ui_iconsTotal_found_thing</icon>
 			<infoportion_complete>val_escort_PDA_done</infoportion_complete>
 			<infoportion_fail>val_escort_captive_umer</infoportion_fail>
 			<article>tex_val_escort_PDA</article>
 		</objective>
 		<objective>
-			<text>Найти отобранный ПДА</text>
+			<text>Найти отобранный КПК</text>
 			<function_complete>sak.have_items_count("und_pda",1)</function_complete>
 			<infoportion_set_complete>val_escort_PDA_have</infoportion_set_complete>
 		</objective>
 		<objective>
-			<text>Вернуть ПДА Максу Люберу</text>
+			<text>Вернуть КПК Максу Люберу</text>
 			<map_location_type hint="Макс Любер">blue_location</map_location_type>
 			<object_story_id>val_escort_captive</object_story_id>
 			<infoportion_complete>val_escort_PDA_done</infoportion_complete>		

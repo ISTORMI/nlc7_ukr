@@ -2266,12 +2266,12 @@ function show_all_reward( task_details )
         task_texture, task_rect = get_texture_info( "ui_iconsTotal_found_money" )
         if task_details.need_return and reward_text == "" then
             db.actor:give_talk_message(
-                "Ну, или " .. reward_money .. " рублей (" .. game.translate_string("return_for_reward") .. ")",
+                "Ну, або " .. reward_money .. " гривень (" .. game.translate_string("return_for_reward") .. ")",
                 task_texture, task_rect, "iconed_trade_info"
             )
         else
             db.actor:give_talk_message(
-                "Ну, или " .. reward_money .. " рублей",
+                "Ну, або " .. reward_money .. " гривень",
                 task_texture, task_rect, "iconed_trade_info"
             )
         end

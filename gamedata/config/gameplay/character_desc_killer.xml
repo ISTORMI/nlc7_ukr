@@ -2,7 +2,7 @@
 
 <xml>
 <specific_character id="killer_leader">
-		<name>Лидер наемников</name>
+		<name>Лідер найманців</name>
 		<icon x="14" y="0"></icon>
 		<map_icon x="2" y="0"></map_icon>
 		<bio>Злой и страшный серый волк.</bio>
@@ -31,10 +31,10 @@
 	
 <!---------------------------KILLER REGULAR----------------------->
 <specific_character id="killer_regular_default1" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="18" y="4"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Судя по всему в Зоне недавно. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Судя по всему в Зоне недавно. Детальная информация отсутствует.</bio>
 
 		<team>Killer_regular</team>
 		
@@ -61,10 +61,10 @@
 </specific_character>
 
 <specific_character id="killer_regular_default2" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="18" y="6"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Судя по всему в Зоне недавно. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Судя по всему в Зоне недавно. Детальная информация отсутствует.</bio>
 
 		<team>Killer_regular</team>
 		
@@ -91,10 +91,10 @@
 </specific_character>
 
 <specific_character id="killer_regular_default3" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="18" y="2"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Судя по всему в Зоне недавно. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Судя по всему в Зоне недавно. Детальная информация отсутствует.</bio>
 
 		<team>Killer_regular</team>
 		
@@ -122,10 +122,10 @@
 		
 <!---------------------------KILLER SNIPER---------------------->
 <specific_character id="killer_sniper_default1" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="28" y="6"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Судя по всему в Зоне недавно. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Судя по всему в Зоне недавно. Детальная информация отсутствует.</bio>
 
 		<team>Killer_sniper</team>
 		
@@ -153,10 +153,10 @@
 	
 <!---------------------------KILLER SPECNAZ---------------------->
 <specific_character id="killer_specnaz_default1" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Возможно хорошо вооружен. Детальная информация отсутствует.</bio>
 
 		<team>Killer_specnaz</team>
 		
@@ -182,10 +182,10 @@
 </specific_character>
 
 <specific_character id="killer_specnaz_default2" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="4" y="2"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Возможно хорошо вооружен. Детальная информация отсутствует.</bio>
 
 		<team>Killer_specnaz</team>
 		
@@ -211,10 +211,10 @@
 </specific_character>
 
 <specific_character id="killer_specnaz_default3" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="30" y="6"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Возможно хорошо вооружен. Детальная информация отсутствует.</bio>
 
 		<team>Killer_specnaz</team>
 		
@@ -241,10 +241,10 @@
 </specific_character>
 
 <specific_character id="killer_specnaz_default4" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="30" y="6"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Возможно хорошо вооружен. Детальная информация отсутствует.</bio>
 
 		<team>Killer_specnaz</team>
 		
@@ -272,10 +272,10 @@
 			
 <!---------------------------KILLER MASTER----------------------->
 <specific_character id="killer_master_default1" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="30" y="6"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</bio>
 
 		<team>Killer_master</team>
 		
@@ -304,10 +304,10 @@
 </specific_character>
 
 <specific_character id="killer_master_default2" team_default = "1">
-		<name>Неизвестный наемник</name>
+		<name>Невідомий найманець</name>
 		<icon x="14" y="0"></icon>
 		<map_icon x="2" y="0"></map_icon>
-		<bio>Неизвестный наемник. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</bio>
+		<bio>Невідомий найманець. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</bio>
 
 		<team>Killer_master</team>
 		

@@ -257,27 +257,27 @@ end
 function send_treasure(name)
 	local 	level_name = {}
 		level_name["esc"]	= "Кордон"
-		level_name["gar"]	= "Свалка"
-		level_name["agr"]	= "НИИ Агропром"
-		level_name["agru"] = "Подвалы Агропрома"
-		level_name["val"]	= "Темная Долина"
-		level_name["mil"]	= "Армейские склады"
-		level_name["yan"]	= "Янтарь"
-		level_name["x16"]	= "Лаборатория x16"
+		level_name["gar"]	= "Звалище"
+		level_name["agr"]	= "НДІ Агропром"
+		level_name["agru"] = "Підвали Агропрома"
+		level_name["val"]	= "Темна долина"
+		level_name["mil"]	= "Армійські Склади"
+		level_name["yan"]	= "Янтар"
+		level_name["x16"]	= "Лабораторія X-16"
 		level_name["rad"]	= "Радар"
-		level_name["pri"]	= "Припять"
-		level_name["x18"]	= "Лаборатория x18"
-		level_name["bar"]	= "Территория Долга"
-		level_name["ros"]	= "Дикая территория"
+		level_name["pri"]	= "Прип'ять"
+		level_name["x18"]	= "Лабораторія X-18"
+		level_name["bar"]	= "Територія Обов'язку"
+		level_name["ros"]	= "Дика територія"
 		level_name["mar"]	= "Болото"
-		level_name["lim"]	= "Лиманск"
-		level_name["hos"]	= "Санаторий"
-		level_name["ave"]	= "Туманная чаща"
-		level_name["avp"]	= "Подземелье диггеров"
-		level_name["pes"]	= "Катакомбы"
-		level_name["vil"]	= "Забытый хутор"
-		level_name["red"]	= "Рыжий лес"
-		level_name["puz"]	= "Тихая роща"
+		level_name["lim"]	= "Лиманськ"
+		level_name["hos"]	= "Санаторій"
+		level_name["ave"]	= "Туманна хаща"
+		level_name["avp"]	= "Підземелля дігерів"
+		level_name["pes"]	= "Катакомби"
+		level_name["vil"]	= "Забутий хутір"
+		level_name["red"]	= "Рудий ліс"
+		level_name["puz"]	= "Тихий гай"
 	pda_news:play(db.actor, 0, sound_object.s2d)
 	local task_texture, task_rect = get_texture_info("ui_iconsTotal_found_thing")
 	local level_key = string.sub(name,1,string.find(name,"_s",1,plain)-1)
@@ -320,7 +320,7 @@ function relocate_money( actor, type, amount )
 	if type == "in" then
 		local task_texture, task_rect = get_texture_info( "ui_iconsTotal_found_money" )
 		local news_text = "%c[255,1,255,1]" .. game.translate_string( "general_in_money" )
-			.. "\\n" .. "%c[default]" .. game.translate_string( tostring( amount ) .. " рублей" )
+			.. "\\n" .. "%c[default]" .. game.translate_string( tostring( amount ) .. " гривень" )
 		if db.actor:is_talking() then
 			db.actor:give_talk_message( news_text, task_texture, task_rect, "iconed_answer_item" )
 		else
@@ -329,7 +329,7 @@ function relocate_money( actor, type, amount )
 	elseif type == "out" or type == 1 then
 		local task_texture, task_rect = get_texture_info( "ui_iconsTotal_lost_money" )
 		local news_text = "%c[255,255,1,1]" .. game.translate_string( "general_out_money" )
-			.. "\\n" .. "%c[default]" .. game.translate_string( tostring( amount ) .. " рублей")
+			.. "\\n" .. "%c[default]" .. game.translate_string( tostring( amount ) .. " гривень")
 		if db.actor:is_talking() then
 			db.actor:give_talk_message( news_text, task_texture, task_rect, "iconed_answer_item" )
 		else

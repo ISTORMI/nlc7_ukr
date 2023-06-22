@@ -886,7 +886,7 @@ function loadInfo(npc, char_ini)
 			local ii = tt[lua_random(size)]
 			give_npc_info(npc, ii)
 		end
-	end --]] -- отключу пока выдачи инфо таким образом. Введем в ПДА. 3/09/2011 Сяк
+	end --]] -- отключу пока выдачи инфо таким образом. Введем в КПК. 3/09/2011 Сяк
 end
 
 function give_npc_info(npc, info)

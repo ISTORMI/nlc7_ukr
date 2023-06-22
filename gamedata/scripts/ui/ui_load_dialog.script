@@ -173,19 +173,19 @@ function GetDaysByMonth( month )
 end
 
 function TimeOfDay( hour )
-    if      hour == 0                then return "Полночь"
-    elseif  hour >= 22 or hour <= 4  then return "Ночь"
-    elseif  hour >=5 and  hour <= 11 then return "Утро"
-    elseif  hour == 12               then return "Полдень"
+    if      hour == 0                then return "Полуніч"
+    elseif  hour >= 22 or hour <= 4  then return "Нічь"
+    elseif  hour >=5 and  hour <= 11 then return "Ранок"
+    elseif  hour == 12               then return "Полудень"
     elseif  hour >=13 and hour <=16  then return "День"
-    elseif  hour >= 17               then return "Вечер"
+    elseif  hour >= 17               then return "Вечір"
     end
 end
 
 function RussianEndOfNumber( digit )
-    local ends, last_num = "-е", tonumber( string.sub( digit, -1 ) )
+    local ends, last_num = "", tonumber( string.sub( digit, -1 ) )
     if last_num == 3 and not ( digit == 13 or digit == 113 or digit == 213 ) then
-        ends = "-и"
+        ends = ""
     end
     return digit .. ends
 end
@@ -213,7 +213,7 @@ function file_data( fname )
         date_time = AddTimeDigit( date_time, d )
         date_time = date_time .. "/"
         date_time = date_time .. y
-        return TimeOfDay( h ) .. "\\n" .. RussianEndOfNumber( days_in_game ) .. " сутки в Зоне\\n"
+        return TimeOfDay( h ) .. "\\n" .. RussianEndOfNumber( days_in_game ) .. " доба в Зоні\\n"
     else
         return "no file data"
     end

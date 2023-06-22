@@ -418,9 +418,9 @@ function add_new_lcitem()
     amk.spawn_item( "amk_kanistra",  v3f( -8.58,    3.34,   10.1   ), 3414, 135078 )
     amk.spawn_item( "amk_kanistra",  v3f( -8.18,    4.34,   10.8   ), 3414, 135078 )
     amk.spawn_item( "amk_zapiska",   v3f( -126.96, -28.41, -379.12 ), 27,   125181 )
-    --amk.spawn_item( "garbage_pda", v3f( -226, -7.37, -132.36 ), 252, 208345 ) -- ПДА в лагере бандитов на свалке
+    --amk.spawn_item( "garbage_pda", v3f( -226, -7.37, -132.36 ), 252, 208345 ) -- КПК в лагере бандитов на свалке
     --amk.spawn_item( "sak_document", v3f( 350, -51.74, -24.45 ), 2031, 93051 )
-    --amk.spawn_item( "rad_pda", v3f( 530.7, -49.41, -241.61 ), 2061, 180657 ) -- ПДА в вагончике на Радаре
+    --amk.spawn_item( "rad_pda", v3f( 530.7, -49.41, -241.61 ), 2061, 180657 ) -- КПК в вагончике на Радаре
     --amk.spawn_item( "yan_pda", v3f( -34.08, -12.5, -265.35 ), 1452, 27157 )
     --amk.spawn_item( "vasiljev_letter", v3f( -32.75, -12.5, -262.48 ), 1452, 26759 )
     --amk.spawn_item( "m_inventory_seif", v3f( 306.47, -39.39, -26.22 ), 1930, 69058 ) --seif_radar
@@ -1779,7 +1779,7 @@ end
 
 function info_strelok_pda()
     send_tip(
-        "В ПДА Стрелка предупреждение о фальшивости МОНОЛИТА", "Остановись",
+        "В КПК Стрелка предупреждение о фальшивости МОНОЛИТА", "Остановись",
         2, 20, "g_g", "pda_news", "red"
     )
 end
@@ -1889,7 +1889,7 @@ function info_klava()
         and not has_alife_info( "klava_feik_found1" )
     then
         send_tip(
-            "Странная вещица. Похожа на ПДА, только не работает, сзади на корпусе гравировка - {Вергас-08}",
+            "Странная вещица. Похожа на КПК, только не работает, сзади на корпусе гравировка - {Вергас-08}",
             "Сломанная клавиатура", 2, 10, "g_g", "pda_news", "sky_blue"
         )
         db.actor:give_info_portion( "klava_feik_found1" )
@@ -7006,7 +7006,7 @@ function off_testobj()
         db.actor:disable_info_portion( "pda_will_be_broken" )
         return
     end
-    ------ Смотрим, не сломать ли нам пда ----
+    ------ Смотрим, не сломать ли нам кпк ----
     local brock_flag = nlc_vars.brocked_flag or math.random( 10, 35 )   -- первая поломка случайна
     if
         db.actor:has_info( "agroprom_military_case_have" )
@@ -8780,11 +8780,11 @@ function marsh_radiation()
                         sound:play_at_pos( actor, pos_blast, 0 )
                         -------------------------------------------------------------------------------------------
                         local arm = actor:item_in_slot( 6 )
-                        local hit_reduct, pda_brk_chns = 1, 0.07    -- снижение хита, шанс поломки пда на 1 разряд
+                        local hit_reduct, pda_brk_chns = 1, 0.07    -- снижение хита, шанс поломки кпк на 1 разряд
                         if arm ~= nil then                          -- Если инвалид в экзе, то хит в 5 раз больше
                             if strposx ( arm:section(), "exo" ) then hit_reduct = 5 end
                         end
-                        if sak.arts_operate == true then            -- если носим "Изолятор", то меньше шанс поломки ПДА
+                        if sak.arts_operate == true then            -- если носим "Изолятор", то меньше шанс поломки КПК
                             if sak_inventory.belt_items[ "af_dummy_dummy_new" ] then
                                 pda_brk_chns = 0.02
                                 arc_arts.discharge_art_on_belt( "af_dummy_dummy_new", 0.004 )
@@ -8797,7 +8797,7 @@ function marsh_radiation()
                         h.impulse   = 0.0
                         h:bone( "bip01_spine" )
                         actor:hit( h )
-                        -- добавим небольшой шанс поломки ПДА при разряде на Тесла
+                        -- добавим небольшой шанс поломки КПК при разряде на Тесла
                         if lua_random() < pda_brk_chns then
                             if not actor:has_info( "pda_will_be_broken" ) then
                                 actor:give_info_portion( "pda_will_be_broken" )
