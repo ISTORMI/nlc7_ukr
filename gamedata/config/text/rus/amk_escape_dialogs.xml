@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="windows-1251" ?>
-<string_table>	
-
-<string id="amk_sidr_guard_0"><text>Приветствую, счастливчик. Надо же... Говорят, с грузовика смерти тебя притащили, а выглядишь не так уж плохо.</text></string>
-<string id="amk_sidr_guard_1"><text>Свистни в ЦЕНЗУРА!</text></string>
-
-
+<string_table>
+	<string id="amk_sidr_guard_0">
+		<text>Вітаю, щасливчику. Треба ж... Кажуть, з вантажівки смерті тебе притягли, а виглядаєш не так погано.</text>
+	</string>
+	<string id="amk_sidr_guard_1">
+		<text>Свистни у ЦЕНЗУРУ!</text>
+	</string>
 </string_table>

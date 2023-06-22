@@ -4,31 +4,31 @@
 		<text>БТР-70</text>
 	</string>
 	<string id="enc_vehicles_btr-70">
-		<text>Бронетранспортёр.</text>
+		<text>Бронетранспортер.</text>
 	</string>
 	<string id="enc_vehicles_kamaz">
-		<text>Распространённый советский грузовик.</text>
+		<text>Поширена радянська вантажівка.</text>
 	</string>
 	<string id="enc_vehicles_mi-24">
-		<text>Армейский штурмовой вертолёт.</text>
+		<text>Армійський штурмовий гелікоптер.</text>
 	</string>
 	<string id="enc_vehicles_niva">
-		<text>Легковой автомобиль повышенной проходимости.</text>
+		<text>Легковий автомобіль підвищеної прохідності.</text>
 	</string>
 	<string id="enc_vehicles_uaz">
-		<text>Советский аналог армейского джипа.</text>
+		<text>Радянський аналог армійського позашляховика.</text>
 	</string>
 	<string id="enc_vehicles_zaporozh">
-		<text>Небольшой советский автомобиль.</text>
+		<text>Невеликий радянський автомобіль.</text>
 	</string>
 	<string id="Kamaz">
-		<text>Грузовик КАМАЗ</text>
+		<text>Вантажівка КАМАЗ</text>
 	</string>
 	<string id="mi-24">
-		<text>Вертолёт МИ-24</text>
+		<text>Вертоліт МІ-24</text>
 	</string>
 	<string id="Niva">
-		<text>"Нива"</text>
+		<text>&quot;Нива&quot;</text>
 	</string>
 	<string id="Uaz">
 		<text>УАЗ</text>
@@ -37,6 +37,6 @@
 		<text>Транспорт</text>
 	</string>
 	<string id="Zaporozh">
-		<text>"Запорожец"</text>
+		<text>&quot;Запорожець&quot;</text>
 	</string>
 </string_table>

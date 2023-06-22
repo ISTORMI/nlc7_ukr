@@ -1,12 +1,36 @@
-<string id="mil_actor_blockpost"><text>Сталкер, ты подходишь к Барьеру, не вздумай баловать, но мы рады принять любую помощь.</text></string>
-<string id="mil_after_sniper_dead"><text>Меченный, подходи к нам за расчётом и дальнейшими указаниями.</text></string>
-<string id="mil_fblockpost_warning"><text>Меченный, вернись и займи позицию.</text></string>
-<string id="mil_info_freedom_radio"><text>Если целую ночь просидеть в деревне на башне, то ОБЯЗАТЕЛЬНО что-то произойдет...</text></string>
-<string id="mil_info_max_mines"><text>Помни о минах - сапёр ошибается дважды...</text></string>
-<string id="mil_info_max_village"><text>Меченный, будь осторожен. Говорят, в деревне появилась новая аномалия - движется очень быстро, к тому же её, падлу, не видно.</text></string>
-<string id="mil_info_to_all"><text>Внимание всем желающим разжижить мозги: проход на Радар охраняет отряд "Монолита", я думаю, вы в курсе, что они стреляют по всем. Удачи.</text></string>
-<string id="mil_max_attack_signal"><text>В атаку, братва. Замочим законников.</text></string>
-<string id="mil_mission_complete"><text>Наша задача выполнена. Возвращаемся на хутор и там рассчитаемся.</text></string>
-<string id="mil_scull_attack_signal"><text>Вперёд, ребята. Путь свободен.</text></string>
-<string id="mil_scull_info"><text>Меченный, займись снайперами!!!</text></string>
-<string id="mil_sniper_to_player_warning"><text>Меченный, будь осторожен, а то ещё по башке пулей схлопочешь...</text></string>
+	<string id="mil_actor_blockpost">
+		<text>Сталкере, ти підходиш до Бар&apos;єра, не надумай балувати, але ми раді прийняти будь-яку допомогу.</text>
+	</string>
+	<string id="mil_after_sniper_dead">
+		<text>Мічений, підходь до нас за розрахунком та подальшими вказівками.</text>
+	</string>
+	<string id="mil_fblockpost_warning">
+		<text>Мічений, повернися і займи позицію.</text>
+	</string>
+	<string id="mil_info_freedom_radio">
+		<text>Якщо цілу ніч просидіти в селі на вежі, то ОБОВ&apos;ЯЗКО щось станеться.</text>
+	</string>
+	<string id="mil_info_max_mines">
+		<text>Пам&apos;ятай про міни - сапер помиляється двічі...</text>
+	</string>
+	<string id="mil_info_max_village">
+		<text>Мічений, будь обережний. Кажуть, у селі з&apos;явилася нова аномалія – рухається дуже швидко, до того ж її, падлу, не видно.</text>
+	</string>
+	<string id="mil_info_to_all">
+		<text>Увага всім бажаючим розріджувати мізки: прохід на Радар охороняє загін &quot;Моноліта&quot;, я думаю, ви знаєте, що вони стріляють по всіх. Успіхів.</text>
+	</string>
+	<string id="mil_max_attack_signal">
+		<text>В атаку, братва. Замочимо законників.</text>
+	</string>
+	<string id="mil_mission_complete">
+		<text>Наше завдання виконане. Повертаємось на хутір і там розрахуємось.</text>
+	</string>
+	<string id="mil_scull_attack_signal">
+		<text>Вперед, хлопці. Шлях вільний.</text>
+	</string>
+	<string id="mil_scull_info">
+		<text>Мічений, займися снайперами!</text>
+	</string>
+	<string id="mil_sniper_to_player_warning">
+		<text>Мічений, будь обережний, а то ще по голові кулею зробиш...</text>
+	</string>

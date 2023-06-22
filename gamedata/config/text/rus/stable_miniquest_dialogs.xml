@@ -1,40 +1,81 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-<!--********************************-->
-<!-- Sidorovich miniquest dialog start -->
-<!--********************************-->
-<string id="escape_trader_miniquest_0"><text>Слушай, ты говорил, что для меня что-то оставляли, так?</text></string>
-<string id="escape_trader_miniquest_1"><text>А... Да, есть для тебя свёрточек.</text></string>
-<string id="escape_trader_miniquest_2"><text>Вот и замечательно. Давай его сюда.</text></string>
-<string id="escape_trader_miniquest_3"><text>Свёрточек твой, конечно. Я ни на что не претендую, не подумай. Только я его хранил у себя, верно? Надёжно, между прочим. А вдруг там гадость какая вредная? У меня, сам понимаешь, и так здоровья мало осталось...\nКороче, я считаю, что сотня рублей мне за хранение - справедливая цена. Согласен?</text></string>
-<string id="escape_trader_miniquest_5"><text>Ну и жадный же ты! Держи, жмот, "за хранение".</text></string>
-<string id="escape_trader_miniquest_6"><text>Всё справедливо. Держи.</text></string>
-<string id="escape_trader_miniquest_7"><text>Совсем обнаглел? Или отдаёшь мне свёрток, или я настучу кому надо.</text></string>
-<string id="escape_trader_miniquest_4"><text>Чёрт, с деньгами напряг. Заберу позже.</text></string>
-<string id="escape_trader_miniquest_8"><text>Вот, получи свой свёрток драгоценный.</text></string>
-<string id="escape_trader_miniquest_9"><text>Ой, напугал. И кому же ты настучишь?</text></string>
-<string id="escape_trader_miniquest_10"><text>Новичкам в лагере. Фиг они у тебя после такого что-то купят.</text></string>
-<string id="escape_trader_miniquest_11"><text>Военным. Думаешь, не заинтересуются торговцем на территории Зоны?</text></string>
-<string id="escape_trader_miniquest_12"><text>Тебе по лысине. Хочешь?</text></string>
-<string id="escape_trader_miniquest_13"><text>У меня друзья есть. Очень влиятельные сталкеры, между прочим...</text></string>
-<string id="escape_trader_miniquest_14"><text>Не купят эти - купят через пару дней другие. Это ж Зона.\nВыбратся назад они не смогут - на блокпосту солдаты, вглубь идти - снаряга нужна, оружие. А где ты это возьмёшь, как не у меня? \nТак что, угрожай кому-нибудь другому, понял?</text></string>
-<string id="escape_trader_miniquest_15"><text>Ой, не могу! Нельзя так смешить...\nКак ты думаешь, кто мне снарягу поставляет, патроны списывает на продажу? А артефакты заказчикам из Зоны переправляет? Военные наоборот заинтересованы в моём бизнесе. \nНо ты сходи к ним, сходи. Интересно, пристрелят тебя сразу или пожизненное впаяют? А за свёрток тогда не беспокойся. Ха-ха.</text></string>
-<string id="escape_trader_miniquest_16"><text>Блин, жалко сто рублей - так и скажи. А то все нервные такие - "по лысине" сразу...</text></string>
-<string id="escape_trader_miniquest_17"><text>Запомни: в Зоне любая дружба быстро заканчивается, если речь идёт о серьёзных деньгах. Да и что мне твои друзья? Сегодня есть, завтра уже и забыли, как их звали. В Зоне не особо долго живут, понял?</text></string>
-<string id="escape_trader_miniquest_18"><text>Короче, сотня рублей за хранение - и забирай свой свёрток.</text></string>
-<string id="escape_trader_miniquest_19"><text>Спасибо.</text></string>
-<string id="escape_trader_miniquest_20"><text>Понял.</text></string>
-
-<!--****************************-->
-<!-- Barist Repair dialog start -->
-<!--****************************-->
-<string id="bar_trader_miniquest_0"><text>У тебя для меня кое-что оставляли, правильно?</text></string>
-<string id="bar_trader_miniquest_1"><text>Да, небольшой свёрток. Лежит себе, много места не занимает... Я о нём почти забыл. А что, он тебе нужен?</text></string>
-<string id="bar_trader_miniquest_2"><text>Да, нужен.</text></string>
-<string id="bar_trader_miniquest_3"><text>Вот, держи.</text></string>
-<string id="bar_trader_miniquest_4"><text>Спасибо.</text></string>
-<!--********************-->
-<!-- miniquest dialogs end -->
-<!--********************-->
-
+	<string id="escape_trader_miniquest_0">
+		<text>Слухай, ти казав, що для мене щось лишали, так?</text>
+	</string>
+	<string id="escape_trader_miniquest_1">
+		<text>А... Так, є тобі згорток.</text>
+	</string>
+	<string id="escape_trader_miniquest_2">
+		<text>Ось і чудово. Давай його сюди.</text>
+	</string>
+	<string id="escape_trader_miniquest_3">
+		<text>Згорток твій, звичайно. Я ні на що не претендую, не подумай. Тільки я його зберігав у себе, правда? Надійно, між іншим. А раптом там гидота яка шкідлива? У мене, сам розумієш, і так здоров&apos;я мало лишилося...\nКоротше, я вважаю, що сотня карбованців мені за зберігання – справедлива ціна. Згоден?</text>
+	</string>
+	<string id="escape_trader_miniquest_5">
+		<text>Ну і жадібний же ти! Тримай, жмот, &quot;за зберігання&quot;.</text>
+	</string>
+	<string id="escape_trader_miniquest_6">
+		<text>Все слушно. Тримай.</text>
+	</string>
+	<string id="escape_trader_miniquest_7">
+		<text>Зовсім нахабнів? Або віддаєш мені скруток, або я настукаю кому треба.</text>
+	</string>
+	<string id="escape_trader_miniquest_4">
+		<text>Чорт, з грошима напруження. Заберу згодом.</text>
+	</string>
+	<string id="escape_trader_miniquest_8">
+		<text>Ось, отримай свій згорток дорогоцінний.</text>
+	</string>
+	<string id="escape_trader_miniquest_9">
+		<text>Ой, налякав. І кому ж ти настукаєш?</text>
+	</string>
+	<string id="escape_trader_miniquest_10">
+		<text>Новачкам у таборі. Фіг вони у тебе після такого щось куплять.</text>
+	</string>
+	<string id="escape_trader_miniquest_11">
+		<text>військовим. Думаєш, чи не зацікавляться торговцем на території Зони?</text>
+	</string>
+	<string id="escape_trader_miniquest_12">
+		<text>Тобі по лисині. Хочеш?</text>
+	</string>
+	<string id="escape_trader_miniquest_13">
+		<text>У мене є друзі. Дуже впливові сталкери, між іншим.</text>
+	</string>
+	<string id="escape_trader_miniquest_14">
+		<text>Не куплять ці – куплять за пару днів інші. Це ж Зона.\nВибратися назад вони не зможуть – на блокпосту солдати, углиб йти – спорядок потрібний, зброя. А де ти це візьмеш, як не в мене?\nТо що, погрожує комусь іншому, зрозумів?</text>
+	</string>
+	<string id="escape_trader_miniquest_15">
+		<text>Ой не можу! Не можна так смішити...\nЯк ти думаєш, хто мені спорядок постачає, патрони списує на продаж? А артефакти замовникам із Зони переправляє? Військові, навпаки, зацікавлені в моєму бізнесі.\nАле ти сходи до них, сходи. Цікаво, чи пристрелять тебе відразу чи довічне впаяють? А за згорток тоді не турбуйся. Ха-ха.</text>
+	</string>
+	<string id="escape_trader_miniquest_16">
+		<text>Блін, шкода сто карбованців - так і скажи. А то всі такі нервові - &quot;по лисині&quot; відразу...</text>
+	</string>
+	<string id="escape_trader_miniquest_17">
+		<text>Запам&apos;ятай: у Зоні будь-яка дружба швидко закінчується, якщо йдеться про серйозні гроші. Та й що мені твої друзі? Сьогодні є, завтра вже й забули, як їх звали. У Зоні не дуже довго живуть, зрозумів?</text>
+	</string>
+	<string id="escape_trader_miniquest_18">
+		<text>Коротше, сотня рублів за зберігання – і забирай свій пакунок.</text>
+	</string>
+	<string id="escape_trader_miniquest_19">
+		<text>Дякую.</text>
+	</string>
+	<string id="escape_trader_miniquest_20">
+		<text>Зрозумів.</text>
+	</string>
+	<string id="bar_trader_miniquest_0">
+		<text>У тебе для мене дещо лишали, правильно?</text>
+	</string>
+	<string id="bar_trader_miniquest_1">
+		<text>Так, невеликий згорток. Лежить собі, багато місця не займає... Я про нього майже забув. А що, він тобі потрібний?</text>
+	</string>
+	<string id="bar_trader_miniquest_2">
+		<text>Так, потрібний.</text>
+	</string>
+	<string id="bar_trader_miniquest_3">
+		<text>Ось тримай.</text>
+	</string>
+	<string id="bar_trader_miniquest_4">
+		<text>Дякую.</text>
+	</string>
 </string_table>

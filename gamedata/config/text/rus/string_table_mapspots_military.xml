@@ -1,21 +1,63 @@
-<string id="mil_cap_hint"><text>Поговорить с командиром Барьера</text></string>
-<string id="mil_courier_hint1"><text>Проследить за стукачом</text></string>
-<string id="mil_courier_hint2"><text>Дождаться вызова стукачом информатора</text></string>
-<string id="mil_courier_hint3"><text>Убить стукача</text></string>
-<string id="mil_courier_hint4"><text>Убить информатора</text></string>
-<string id="mil_crazy_hint"><text>Взять флешку у сумасшедшего сталкера</text></string>
-<string id="mil_dolg_khutor"><text>Хутор "Долга"</text></string>
-<string id="mil_freedom_sniper"><text>Убить снайпера</text></string>
-<string id="mil_hunters_hint1"><text>Поговорить с Угрюмым</text></string>
-<string id="mil_hunters_hint2"><text>Вернуться к Шинкарю</text></string>
-<string id="mil_kill_dolg_hint"><text>Уничтожить отряд "Долга"</text></string>
-<string id="mil_kill_lukash_hint"><text>Убить Лукаша</text></string>
-<string id="mil_miser_hint"><text>Шинкарь</text></string>
-<string id="mil_report_to_max_hint"><text>Доложить Максу</text></string>
-<string id="mil_return_to_lukash_hint"><text>Доложить Лукашу</text></string>
-<string id="mil_return_to_max_hint"><text>Отдать флешку Максу</text></string>
-<string id="mil_rg6_hint1"><text>Найти повара на базе "Свободы"</text></string>
-<string id="mil_rg6_hint2"><text>Поговорить с поваром</text></string>
-<string id="mil_rg6_hint3"><text>Забрать РГ-6 из схрона в деревне</text></string>
-<string id="mil_blockpost_job"><text>Защитить Барьер</text></string>
-<string id="mil_watertower_hint"><text>Водонапорная башня</text></string>
+	<string id="mil_cap_hint">
+		<text>Поговорити з командиром Бар&apos;єра</text>
+	</string>
+	<string id="mil_courier_hint1">
+		<text>Простежити за стукачем</text>
+	</string>
+	<string id="mil_courier_hint2">
+		<text>Дочекатися виклику стукачем інформатора</text>
+	</string>
+	<string id="mil_courier_hint3">
+		<text>Вбити стукача</text>
+	</string>
+	<string id="mil_courier_hint4">
+		<text>Вбити інформатора</text>
+	</string>
+	<string id="mil_crazy_hint">
+		<text>Взяти флешку у божевільного сталкера</text>
+	</string>
+	<string id="mil_dolg_khutor">
+		<text>Хутір &quot;Довга&quot;</text>
+	</string>
+	<string id="mil_freedom_sniper">
+		<text>Вбити снайпера</text>
+	</string>
+	<string id="mil_hunters_hint1">
+		<text>Поговорити з Похмурим</text>
+	</string>
+	<string id="mil_hunters_hint2">
+		<text>Повернутися до Шинкаря</text>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<text>Знищити загін &quot;Борга&quot;</text>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<text>Вбити Лукаша</text>
+	</string>
+	<string id="mil_miser_hint">
+		<text>Шинкар</text>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<text>Доповісти Максу</text>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<text>Доповісти Лукашу</text>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<text>Віддати флешку Максу</text>
+	</string>
+	<string id="mil_rg6_hint1">
+		<text>Знайти кухаря на базі &quot;Свободи&quot;</text>
+	</string>
+	<string id="mil_rg6_hint2">
+		<text>Поговорити з кухарем</text>
+	</string>
+	<string id="mil_rg6_hint3">
+		<text>Забрати РГ-6 зі схова в селі</text>
+	</string>
+	<string id="mil_blockpost_job">
+		<text>Захистити Бар&apos;єр</text>
+	</string>
+	<string id="mil_watertower_hint">
+		<text>Водонапірна башта</text>
+	</string>

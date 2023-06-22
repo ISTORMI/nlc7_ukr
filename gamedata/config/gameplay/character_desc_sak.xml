@@ -32,7 +32,7 @@
 
 <!-- mike Новый наёмник на АС -->
 <specific_character id="gross_merc" team_default = "1">
-	<name>Неизвестный</name>
+	<name>Невідомий</name>
 	<icon>ui_npc_u_unkown</icon>
 	<map_icon x="5" y="0"></map_icon>
 	<bio>gross_merc_bio</bio>
@@ -492,7 +492,7 @@
 
 <!-- mike Подставной Призрак на Янтаре -->
 <specific_character id="my_prizrak" team_default = "1">
-	<name>Призрак</name>
+	<name>Привид</name>
 	<icon>ui_npc_u_stalker_prizrak</icon>
 	<map_icon x="0" y="6"></map_icon>
 	<bio>my_prizrak_bio</bio>
@@ -544,7 +544,7 @@
 </specific_character>
 
 <specific_character id="soldier_repair" team_default = "1">
-	<name>Ефрейтор Барабаш</name>
+	<name>Єфрейтор Барабаш</name>
 	<icon>ui_npc_u_soldier_bandana_6</icon>
 	<bio>sim_stalker_general_bio</bio>
 	<class>soldier_repair</class>
@@ -609,7 +609,7 @@
 </specific_character>
 
 <specific_character id="marsh_provodnik" team_default = "1">
-	<name>Санька Шатун</name>
+	<name>Санько Шатун</name>
 	<icon>ui_npc_u_stalker_clear_sky_1</icon>
 	<bio>sim_stalker_general_bio</bio>
 	<class>marsh_provodnik</class>
@@ -637,7 +637,7 @@
 </specific_character>
 
 <specific_character id="gen_hermit" team_default = "1">
-	<name>Мозгун Илья</name>
+	<name>Мозгун Ілля</name>
 	<icon>ui_npc_u_mozgun</icon>
 	<bio>sim_stalker_general_bio</bio>
 	<class>gen_hermit</class>
@@ -701,7 +701,7 @@
 </specific_character>
 
 <specific_character id="dead_fedotov" team_default = "1">
-	<name>Федотов Сергей</name>
+	<name>Федотов Сергій</name>
 	<icon>ui_npc_u_stalker_ecolog_military</icon>
 	<map_icon x="0" y="6"></map_icon>
 	<bio>Охрана мобильного научного лагеря. Детальная информация отсутствует.</bio>
@@ -729,7 +729,7 @@
 </specific_character>
 
 <specific_character id="dead_ecolog_glavn" team_default = "1">
-	<name>Профессор Шатунов</name>
+	<name>Професор Шатунов</name>
 	<icon>ui_npc_u_white</icon>
 	<map_icon x="0" y="6"></map_icon>
 	<bio>Охрана мобильного научного лагеря. Детальная информация отсутствует.</bio>
@@ -758,7 +758,7 @@
 </specific_character>
 
 <specific_character id="rad_halfdead_botan" team_default = "1">
-	<name>Аспирант Приходько</name>
+	<name>Аспірант Приходько</name>
 	<icon>ui_npc_u_stalker_ecolog_military</icon>
 	<map_icon x="0" y="6"></map_icon>
 	<bio>Охрана мобильного научного лагеря. Детальная информация отсутствует.</bio>
@@ -1413,7 +1413,7 @@
 </specific_character>
 
 <specific_character id="doktor1" team_default = "1">
-	<name>Болотный доктор</name>
+	<name>Болотний доктор</name>
 	<icon>ui_npc_u_doktor</icon>
 	<bio>doktor_bio</bio>
 	<class>doktor1</class>
@@ -1443,7 +1443,7 @@
 </specific_character>
 
 <specific_character id="doktor2" team_default = "1">
-	<name>Болотный доктор</name>
+	<name>Болотний доктор</name>
 	<icon>ui_npc_u_doktor</icon>
 	<bio>doktor_bio</bio>
 	<class>doktor2</class>

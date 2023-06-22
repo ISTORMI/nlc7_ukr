@@ -1,44 +1,132 @@
-<string id="bar_bring_hunter_rifle"><text>Вернуть охотнику фамильное ружьё</text></string>
-<string id="bar_bring_PDA_lucky"><text>Принести ПДА лидера Бармену</text></string>
-<string id="bar_crazy_veterans_quest"><text>Уничтожить безумных ветеранов</text></string>
-<string id="bar_dolg_base_rules"><text>Отметиться у начальника охраны "Долга"</text></string>
-<string id="bar_dolg_base_rules_fin"><text>Вернуться к Бармену</text></string>
-<string id="bar_dolg_base_rules_talk"><text>Найти начальника охраны "Долга" и отметиться у него</text></string>
-<string id="bar_dolg_bring_rg6"><text>Выполнить поручение для генерала Воронина</text></string>
-<string id="bar_dolg_community_quest"><text>Вступление в группировку "Долг"</text></string>
-<string id="bar_dolg_community_quest_prisyaga"><text>Принять присягу</text></string>
-<string id="bar_dolg_community_quest_recomendation"><text>Получить рекомендацию полковника Иванцова</text></string>
-<string id="bar_dolg_community_quest_vernost"><text>Доказать свою верность "Долгу"</text></string>
-<string id="bar_dolg_find_cook"><text>Втереться в доверие к Повару из "Свободы" и узнать, где хранится РГ-6</text></string>
-<string id="bar_dolg_find_rg6"><text>Проникнуть на территорию группировки "Свобода", найти и выкрасть РГ-6</text></string>
-<string id="bar_dolg_info_gain"><text>Найти перехваченную информацию о лаборатории X-18</text></string>
-<string id="bar_dolg_kill_tiran"><text>Убить Тирана, предводителя отряда</text></string>
-<string id="bar_dolg_return_info"><text>Вернуть информацию о лаборатории X-18 генералу Воронину</text></string>
-<string id="bar_dolg_return_rg6"><text>Принести РГ-6 генералу Воронину</text></string>
-<string id="bar_dolg_rg6_quest"><text>Задание для вступления в "Долг"</text></string>
-<string id="bar_dolg_svoboda_ambush_quest"><text>Уничтожить наёмников</text></string>
-<string id="bar_dolg_svoboda_ambush_return"><text>Отдать нашивки генералу Воронину</text></string>
-<string id="bar_dolg_tiran_PDA"><text>Взять ПДА Тирана</text></string>
-<string id="bar_hunter_find_rifle"><text>Найти фамильное ружьё</text></string>
-<string id="bar_hunter_return_rifle"><text>Вернуть ружьё охотнику в баре</text></string>
-<string id="bar_hunter_rifle"><text>Найти фамильное ружьё</text></string>
-<string id="bar_kill_crazy_veterans"><text>Убить лидера ветеранов</text></string>
-<string id="bar_kill_crazy_veterans_PDA"><text>Взять ПДА их лидера</text></string>
-<string id="bar_kill_veterans"><text>Уничтожить лагерь сумасшедших ветеранов</text></string>
-<string id="bar_radar_deactivate"><text>Отключить "Выжигатель мозгов"</text></string>
-<string id="bar_resque_information"><text>Встретиться с Кругловым</text></string>
-<string id="bar_resque_information_2"><text>Сопроводить Круглова на Янтарь</text></string>
-<string id="bar_resque_scientific_follow"><text>Вывести Круглова к выходу на Янтарь</text></string>
-<string id="bar_resque_scientific_information"><text>...</text></string>
-<string id="bar_resque_scientific_information_bring"><text>Поговорить с Кругловым</text></string>
-<string id="bar_resque_scientific_information_get"><text>Пробиться к Круглову</text></string>
-<string id="bar_resque_scientific_information_get_2"><text>Поговорить с профессором Кругловым</text></string>
-<string id="bar_x16_documents"><text>Найти документы в лаборатории X-16</text></string>
-<string id="bring_x16_documents"><text>Принести документы Бармену</text></string>
-<string id="deactivate_radar_now"><text>Отключить установку</text></string>
-<string id="find_and_deactivate_radar"><text>Найти вход в бункер управления</text></string>
-<string id="get_to_antennas"><text>Добраться до антенн</text></string>
-<string id="Kruglov_research"><text>Исследования Круглова</text></string>
-<string id="look_for_x16_lab"><text>Найти документы Х-16</text></string>
-<string id="wpn-winchester_m1"><text>Ружье "Винчестер 1300" Модернизированное</text></string>
-<string id="x16_yantar"><text>Поговорить с учёными</text></string>
+	<string id="bar_bring_hunter_rifle">
+		<text>Повернути мисливцеві фамільна рушниця</text>
+	</string>
+	<string id="bar_bring_PDA_lucky">
+		<text>Принести ПДА лідера Бармену</text>
+	</string>
+	<string id="bar_crazy_veterans_quest">
+		<text>Знищити божевільних ветеранів</text>
+	</string>
+	<string id="bar_dolg_base_rules">
+		<text>Відзначитись у начальника охорони &quot;Боргу&quot;</text>
+	</string>
+	<string id="bar_dolg_base_rules_fin">
+		<text>Повернутися до Бармена</text>
+	</string>
+	<string id="bar_dolg_base_rules_talk">
+		<text>Знайти начальника охорони &quot;боргу&quot; і відзначитись у нього</text>
+	</string>
+	<string id="bar_dolg_bring_rg6">
+		<text>Виконати доручення для генерала Вороніна</text>
+	</string>
+	<string id="bar_dolg_community_quest">
+		<text>Вступ до угруповання &quot;Борг&quot;</text>
+	</string>
+	<string id="bar_dolg_community_quest_prisyaga">
+		<text>Скласти присягу</text>
+	</string>
+	<string id="bar_dolg_community_quest_recomendation">
+		<text>Отримати рекомендацію полковника Іванцова</text>
+	</string>
+	<string id="bar_dolg_community_quest_vernost">
+		<text>Довести свою вірність &quot;Довгу&quot;</text>
+	</string>
+	<string id="bar_dolg_find_cook">
+		<text>Втертися в довіру до Кухаря зі &quot;Свободи&quot; та дізнатися, де зберігається РГ-6</text>
+	</string>
+	<string id="bar_dolg_find_rg6">
+		<text>Проникнути на територію угруповання &quot;Свобода&quot;, знайти та викрасти РГ-6</text>
+	</string>
+	<string id="bar_dolg_info_gain">
+		<text>Знайти перехоплену інформацію про лабораторію X-18</text>
+	</string>
+	<string id="bar_dolg_kill_tiran">
+		<text>Вбити Тирана, ватажка загону</text>
+	</string>
+	<string id="bar_dolg_return_info">
+		<text>Повернути інформацію про лабораторію X-18 генералу Вороніну</text>
+	</string>
+	<string id="bar_dolg_return_rg6">
+		<text>Принести РГ-6 генералу Вороніну</text>
+	</string>
+	<string id="bar_dolg_rg6_quest">
+		<text>Завдання для вступу до &quot;Боргу&quot;</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_quest">
+		<text>Знищити найманців</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_return">
+		<text>Віддати нашивки генералу Вороніну</text>
+	</string>
+	<string id="bar_dolg_tiran_PDA">
+		<text>Взяти ПДА Тирана</text>
+	</string>
+	<string id="bar_hunter_find_rifle">
+		<text>Знайти фамільну рушницю</text>
+	</string>
+	<string id="bar_hunter_return_rifle">
+		<text>Повернути рушницю мисливцеві у барі</text>
+	</string>
+	<string id="bar_hunter_rifle">
+		<text>Знайти фамільну рушницю</text>
+	</string>
+	<string id="bar_kill_crazy_veterans">
+		<text>Вбити лідера ветеранів</text>
+	</string>
+	<string id="bar_kill_crazy_veterans_PDA">
+		<text>Взяти ПДА їхнього лідера</text>
+	</string>
+	<string id="bar_kill_veterans">
+		<text>Знищити табір божевільних ветеранів</text>
+	</string>
+	<string id="bar_radar_deactivate">
+		<text>Вимкнути &quot;Випалювач мозку&quot;</text>
+	</string>
+	<string id="bar_resque_information">
+		<text>Зустрітися з Кругловим</text>
+	</string>
+	<string id="bar_resque_information_2">
+		<text>Супроводити Круглова на Янтар</text>
+	</string>
+	<string id="bar_resque_scientific_follow">
+		<text>Вивести Круглова до виходу на бурштин</text>
+	</string>
+	<string id="bar_resque_scientific_information">
+		<text>...</text>
+	</string>
+	<string id="bar_resque_scientific_information_bring">
+		<text>Поговорити з Кругловим</text>
+	</string>
+	<string id="bar_resque_scientific_information_get">
+		<text>Пробитися до Круглова</text>
+	</string>
+	<string id="bar_resque_scientific_information_get_2">
+		<text>Поговорити з професором Кругловим</text>
+	</string>
+	<string id="bar_x16_documents">
+		<text>Знайти документи в лабораторії X-16</text>
+	</string>
+	<string id="bring_x16_documents">
+		<text>Принести документи Бармену</text>
+	</string>
+	<string id="deactivate_radar_now">
+		<text>Вимкнути установку</text>
+	</string>
+	<string id="find_and_deactivate_radar">
+		<text>Знайти вхід у бункер управління</text>
+	</string>
+	<string id="get_to_antennas">
+		<text>Дістатися до антен</text>
+	</string>
+	<string id="Kruglov_research">
+		<text>Дослідження Круглова</text>
+	</string>
+	<string id="look_for_x16_lab">
+		<text>Знайти документи Х-16</text>
+	</string>
+	<string id="wpn-winchester_m1">
+		<text>Рушниця &quot;Вінчестер 1300&quot; Модернізована</text>
+	</string>
+	<string id="x16_yantar">
+		<text>Поговорити з вченими</text>
+	</string>

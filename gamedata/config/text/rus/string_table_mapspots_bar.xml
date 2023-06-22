@@ -1,7 +1,21 @@
-<string id="bar_arena_locator"><text>Арена</text></string>
-<string id="bar_bar_locator"><text>Бар "100 рентген"</text></string>
-<string id="bar_dolg_locator"><text>База группировки "Долг"</text></string>
-<string id="rostok_banda_volkodava"><text>Волкодав с головорезами возле вертолёта</text></string>
-<string id="rostok_kruglov"><text>Профессор Круглов</text></string>
-<string id="rostok_tainyi_hod"><text>Засада возле завода</text></string>
-<string id="rostok_volkodav"><text>Волкодав</text></string>
+	<string id="bar_arena_locator">
+		<text>Арена</text>
+	</string>
+	<string id="bar_bar_locator">
+		<text>Бар &quot;100 рентген&quot;</text>
+	</string>
+	<string id="bar_dolg_locator">
+		<text>База угруповання &quot;Борг&quot;</text>
+	</string>
+	<string id="rostok_banda_volkodava">
+		<text>Вовкодав з головорізами біля вертольота</text>
+	</string>
+	<string id="rostok_kruglov">
+		<text>Професор Круглов</text>
+	</string>
+	<string id="rostok_tainyi_hod">
+		<text>Засідка біля заводу</text>
+	</string>
+	<string id="rostok_volkodav">
+		<text>Вовкодав</text>
+	</string>

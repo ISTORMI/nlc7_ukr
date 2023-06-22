@@ -1,5 +1,15 @@
-<string id="cit_doctor_task"><text>Тайник в Припяти</text></string>
-<string id="cit_doctor_task_0"><text>Найти тайник Стрелка в Припяти</text></string>
-<string id="cit_doctor_task_1"><text>Добраться до гостиницы</text></string>
-<string id="cit_doctor_task_2"><text>Найти комнату с тайником</text></string>
-<string id="cit_doctor_task_3"><text>Обследовать тайник</text></string>
+	<string id="cit_doctor_task">
+		<text>Схованка в Прип&apos;яті</text>
+	</string>
+	<string id="cit_doctor_task_0">
+		<text>Знайти схованку Стрілка в Прип&apos;яті</text>
+	</string>
+	<string id="cit_doctor_task_1">
+		<text>Дістатися до готелю</text>
+	</string>
+	<string id="cit_doctor_task_2">
+		<text>Знайти кімнату з тайником</text>
+	</string>
+	<string id="cit_doctor_task_3">
+		<text>Обстежити схованку</text>
+	</string>
