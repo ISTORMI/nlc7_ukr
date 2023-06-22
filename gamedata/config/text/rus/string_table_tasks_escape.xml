@@ -56,7 +56,7 @@
 		<text>Поговорити з Вовком</text>
 	</string>
 	<string id="esc_help_wounded_from_raid">
-		<text>Дізнатись у Лиса про Стрілку</text>
+		<text>Дізнатись у Лиса про Стрільцю</text>
 	</string>
 	<string id="esc_help_wounded_from_raid_0">
 		<text>Надати допомогу пораненому сталкеру</text>
@@ -65,7 +65,7 @@
 		<text>Допомогти Лисі</text>
 	</string>
 	<string id="esc_help_wounded_from_raid_2">
-		<text>Отримати інформацію про Стрілку</text>
+		<text>Отримати інформацію про Стрільцю</text>
 	</string>
 	<string id="esc_wounded_to_trader_gift">
 		<text>Доставити пакет продавцю</text>
@@ -86,13 +86,13 @@
 		<text>Зустрітися з Лікарем</text>
 	</string>
 	<string id="meet_with_doctor_2">
-		<text>Зустрітися з Лікарем у схованці Стрілка</text>
+		<text>Зустрітися з Лікарем у схованці Стрільця</text>
 	</string>
 	<string id="storyline_escape_eliminate_gunslinger">
-		<text>Вбити Стрілка</text>
+		<text>Вбити Стрільця</text>
 	</string>
 	<string id="storyline_escape_find_gunslinger">
-		<text>Знайти Стрілка</text>
+		<text>Знайти Стрільця</text>
 	</string>
 	<string id="tutorial_find_artefact">
 		<text>Знайти артефакт</text>

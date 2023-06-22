@@ -115,7 +115,7 @@
 		<text>Макс. гравців</text>
 	</string>
 	<string id="mm_mp_network_connection">
-		<text>Мережеве з&apos;єднання</text>
+		<text>Мережеве з'єднання</text>
 	</string>
 	<string id="mm_mp_noanomalies">
 		<text>Без аномалій</text>
@@ -127,7 +127,7 @@
 		<text>Пароль</text>
 	</string>
 	<string id="mm_mp_player_name">
-		<text>Ім&apos;я гравця:</text>
+		<text>Ім'я гравця:</text>
 	</string>
 	<string id="mm_mp_players">
 		<text>Гравці</text>
@@ -169,7 +169,7 @@
 		<text>Сервер</text>
 	</string>
 	<string id="mm_mp_servername">
-		<text>Ім&apos;я сервера</text>
+		<text>Ім'я сервера</text>
 	</string>
 	<string id="mm_mp_serversettings">
 		<text>Налаштування сервера</text>
@@ -184,7 +184,7 @@
 		<text>Вільний політ</text>
 	</string>
 	<string id="mm_mp_spectator_freelook">
-		<text>Вільно-прив&apos;язаний</text>
+		<text>Вільно-прив'язаний</text>
 	</string>
 	<string id="mm_mp_spectator_lookat">
 		<text>Від третьої особи</text>
@@ -229,7 +229,7 @@
 		<text>ГРАВЦІ</text>
 	</string>
 	<string id="server name">
-		<text>ІМ&apos;Я СЕРВЕРУ</text>
+		<text>ІМ'Я СЕРВЕРУ</text>
 	</string>
 	<string id="version">
 		<text>Версія</text>

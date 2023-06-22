@@ -41,7 +41,7 @@
 <string id="lname_bandit_134"><text>Панадол</text></string>
 <string id="lname_bandit_135"><text>Перо</text></string>
 <string id="lname_bandit_136"><text>Пістон</text></string>
-<string id="lname_bandit_137"><text>П&apos;ятак</text></string>
+<string id="lname_bandit_137"><text>П'ятак</text></string>
 <string id="lname_bandit_138"><text>Решка</text></string>
 <string id="lname_bandit_139"><text>Смерть</text></string>
 <string id="lname_bandit_14"><text>Доходяга</text></string>
@@ -106,7 +106,7 @@
 <string id="lname_bandit_3"><text>Блатний</text></string>
 <string id="lname_bandit_30"><text>Місцевий</text></string>
 <string id="lname_bandit_31"><text>Мутний</text></string>
-<string id="lname_bandit_32"><text>М&apos;ятий</text></string>
+<string id="lname_bandit_32"><text>М'ятий</text></string>
 <string id="lname_bandit_33"><text>Одноокий</text></string>
 <string id="lname_bandit_34"><text>Падла</text></string>
 <string id="lname_bandit_35"><text>Паразит</text></string>
@@ -163,7 +163,7 @@
 <string id="lname_bandit_81"><text>Мажор</text></string>
 <string id="lname_bandit_82"><text>Маніяк</text></string>
 <string id="lname_bandit_83"><text>Могильник</text></string>
-<string id="lname_bandit_84"><text>М&apos;ясник</text></string>
+<string id="lname_bandit_84"><text>М'ясник</text></string>
 <string id="lname_bandit_85"><text>Ніндзя</text></string>
 <string id="lname_bandit_86"><text>Кат</text></string>
 <string id="lname_bandit_87"><text>Панк</text></string>
@@ -313,7 +313,7 @@
 <string id="lname_captain_36"><text>Волошин</text></string>
 <string id="lname_captain_37"><text>Воронцов</text></string>
 <string id="lname_captain_38"><text>Ворохаєв</text></string>
-<string id="lname_captain_39"><text>В&apos;юшинський</text></string>
+<string id="lname_captain_39"><text>В'юшинський</text></string>
 <string id="lname_captain_4"><text>Анісєв</text></string>
 <string id="lname_captain_40"><text>Галкін</text></string>
 <string id="lname_captain_41"><text>Ганзюк</text></string>
@@ -362,7 +362,7 @@
 <string id="lname_captain_80"><text>Зарубін</text></string>
 <string id="lname_captain_81"><text>Захарін</text></string>
 <string id="lname_captain_82"><text>Дзвінницький</text></string>
-<string id="lname_captain_83"><text>Зінов&apos;єв</text></string>
+<string id="lname_captain_83"><text>Зінов'єв</text></string>
 <string id="lname_captain_84"><text>Зозо</text></string>
 <string id="lname_captain_85"><text>Золотар</text></string>
 <string id="lname_captain_86"><text>Зубарєв</text></string>
@@ -513,7 +513,7 @@
 <string id="lname_lieutenant_36"><text>Волошин</text></string>
 <string id="lname_lieutenant_37"><text>Воронцов</text></string>
 <string id="lname_lieutenant_38"><text>Ворохаєв</text></string>
-<string id="lname_lieutenant_39"><text>В&apos;юшинський</text></string>
+<string id="lname_lieutenant_39"><text>В'юшинський</text></string>
 <string id="lname_lieutenant_4"><text>Анісєв</text></string>
 <string id="lname_lieutenant_40"><text>Галкін</text></string>
 <string id="lname_lieutenant_41"><text>Ганзюк</text></string>
@@ -562,7 +562,7 @@
 <string id="lname_lieutenant_80"><text>Зарубін</text></string>
 <string id="lname_lieutenant_81"><text>Захарін</text></string>
 <string id="lname_lieutenant_82"><text>Дзвінницький</text></string>
-<string id="lname_lieutenant_83"><text>Зінов&apos;єв</text></string>
+<string id="lname_lieutenant_83"><text>Зінов'єв</text></string>
 <string id="lname_lieutenant_84"><text>Зозо</text></string>
 <string id="lname_lieutenant_85"><text>Золотар</text></string>
 <string id="lname_lieutenant_86"><text>Зубарєв</text></string>
@@ -713,7 +713,7 @@
 <string id="lname_private_36"><text>Волошин</text></string>
 <string id="lname_private_37"><text>Воронцов</text></string>
 <string id="lname_private_38"><text>Ворохаєв</text></string>
-<string id="lname_private_39"><text>В&apos;юшинський</text></string>
+<string id="lname_private_39"><text>В'юшинський</text></string>
 <string id="lname_private_4"><text>Анісєв</text></string>
 <string id="lname_private_40"><text>Галкін</text></string>
 <string id="lname_private_41"><text>Ганзюк</text></string>
@@ -762,7 +762,7 @@
 <string id="lname_private_80"><text>Зарубін</text></string>
 <string id="lname_private_81"><text>Захарін</text></string>
 <string id="lname_private_82"><text>Дзвінницький</text></string>
-<string id="lname_private_83"><text>Зінов&apos;єв</text></string>
+<string id="lname_private_83"><text>Зінов'єв</text></string>
 <string id="lname_private_84"><text>Зозо</text></string>
 <string id="lname_private_85"><text>Золотар</text></string>
 <string id="lname_private_86"><text>Зубарєв</text></string>
@@ -942,7 +942,7 @@
 <string id="lname_sergeant_36"><text>Волошин</text></string>
 <string id="lname_sergeant_37"><text>Воронцов</text></string>
 <string id="lname_sergeant_38"><text>Ворохаєв</text></string>
-<string id="lname_sergeant_39"><text>В&apos;юшинський</text></string>
+<string id="lname_sergeant_39"><text>В'юшинський</text></string>
 <string id="lname_sergeant_4"><text>Анісєв</text></string>
 <string id="lname_sergeant_40"><text>Галкін</text></string>
 <string id="lname_sergeant_41"><text>Ганзюк</text></string>
@@ -991,7 +991,7 @@
 <string id="lname_sergeant_80"><text>Зарубін</text></string>
 <string id="lname_sergeant_81"><text>Захарін</text></string>
 <string id="lname_sergeant_82"><text>Дзвінницький</text></string>
-<string id="lname_sergeant_83"><text>Зінов&apos;єв</text></string>
+<string id="lname_sergeant_83"><text>Зінов'єв</text></string>
 <string id="lname_sergeant_84"><text>Зозо</text></string>
 <string id="lname_sergeant_85"><text>Золотар</text></string>
 <string id="lname_sergeant_86"><text>Зубарєв</text></string>
@@ -1131,7 +1131,7 @@
 <string id="lname_stalker_205"><text>Хресний</text></string>
 <string id="lname_stalker_206"><text>Купець</text></string>
 <string id="lname_stalker_207"><text>Курець</text></string>
-<string id="lname_stalker_208"><text>Кур&apos;єр</text></string>
+<string id="lname_stalker_208"><text>Кур'єр</text></string>
 <string id="lname_stalker_209"><text>Кучер</text></string>
 <string id="lname_stalker_21"><text>Досвідчений</text></string>
 <string id="lname_stalker_210"><text>Легіонер</text></string>
@@ -1148,7 +1148,7 @@
 <string id="lname_stalker_220"><text>Могильник</text></string>
 <string id="lname_stalker_221"><text>Модератор</text></string>
 <string id="lname_stalker_222"><text>Молочник</text></string>
-<string id="lname_stalker_223"><text>М&apos;ясник</text></string>
+<string id="lname_stalker_223"><text>М'ясник</text></string>
 <string id="lname_stalker_224"><text>Найманець</text></string>
 <string id="lname_stalker_225"><text>Налаштувач</text></string>
 <string id="lname_stalker_226"><text>Начальник</text></string>
@@ -1198,7 +1198,7 @@
 <string id="lname_stalker_266"><text>Рудокоп</text></string>
 <string id="lname_stalker_267"><text>Самурай</text></string>
 <string id="lname_stalker_268"><text>Сапер</text></string>
-<string id="lname_stalker_269"><text>Зв&apos;язковий</text></string>
+<string id="lname_stalker_269"><text>Зв'язковий</text></string>
 <string id="lname_stalker_27"><text>Очі</text></string>
 <string id="lname_stalker_270"><text>Священик</text></string>
 <string id="lname_stalker_271"><text>Секретар</text></string>
@@ -1319,7 +1319,7 @@
 <string id="lname_stalker_375"><text>Удав</text></string>
 <string id="lname_stalker_376"><text>Пугач</text></string>
 <string id="lname_stalker_377"><text>Хорек</text></string>
-<string id="lname_stalker_378"><text>Черв&apos;як</text></string>
+<string id="lname_stalker_378"><text>Черв'як</text></string>
 <string id="lname_stalker_379"><text>Шатун</text></string>
 <string id="lname_stalker_38"><text>Дохлий</text></string>
 <string id="lname_stalker_380"><text>Абсолют</text></string>
@@ -1400,7 +1400,7 @@
 <string id="lname_stalker_448"><text>Пластилін</text></string>
 <string id="lname_stalker_449"><text>Порох</text></string>
 <string id="lname_stalker_45"><text>Залізничник</text></string>
-<string id="lname_stalker_450"><text>П&apos;ятак</text></string>
+<string id="lname_stalker_450"><text>П'ятак</text></string>
 <string id="lname_stalker_451"><text>Ракета</text></string>
 <string id="lname_stalker_452"><text>Рама</text></string>
 <string id="lname_stalker_453"><text>Реактор</text></string>
@@ -1417,7 +1417,7 @@
 <string id="lname_stalker_463"><text>Смерть</text></string>
 <string id="lname_stalker_464"><text>Спирт</text></string>
 <string id="lname_stalker_465"><text>Стамеска</text></string>
-<string id="lname_stalker_466"><text>Стовбур</text></string>
+<string id="lname_stalker_466"><text>Ствол</text></string>
 <string id="lname_stalker_467"><text>Скриня</text></string>
 <string id="lname_stalker_468"><text>Сокира</text></string>
 <string id="lname_stalker_469"><text>Торець</text></string>
@@ -1483,7 +1483,7 @@
 <string id="lname_stalker_522"><text>Оскар</text></string>
 <string id="lname_stalker_523"><text>Прометей</text></string>
 <string id="lname_stalker_524"><text>Пушкін</text></string>
-<string id="lname_stalker_525"><text>П&apos;ятниця</text></string>
+<string id="lname_stalker_525"><text>П'ятниця</text></string>
 <string id="lname_stalker_526"><text>Рембо</text></string>
 <string id="lname_stalker_527"><text>Рокфор</text></string>
 <string id="lname_stalker_528"><text>Сусанін</text></string>
@@ -1585,7 +1585,7 @@
 <string id="lname_stalker_75"><text>Місцевий</text></string>
 <string id="lname_stalker_76"><text>Похмурий</text></string>
 <string id="lname_stalker_77"><text>Мутний</text></string>
-<string id="lname_stalker_78"><text>М&apos;ятий</text></string>
+<string id="lname_stalker_78"><text>М'ятий</text></string>
 <string id="lname_stalker_79"><text>Нарцис</text></string>
 <string id="lname_stalker_8"><text>чорний</text></string>
 <string id="lname_stalker_80"><text>Недбалий</text></string>
@@ -1609,7 +1609,7 @@
 <string id="lname_stalker_97"><text>Рваний</text></string>
 <string id="lname_stalker_98"><text>Рвач</text></string>
 <string id="lname_stalker_99"><text>Різкий</text></string>
-<string id="Osoznanie"><text>Представник &quot;О-Свідомості&quot;</text></string>
+<string id="Osoznanie"><text>Представник "О-Свідомості"</text></string>
 <string id="lname_monolit_0"><text>Заступник</text></string>
 <string id="lname_monolit_1"><text>Захисник</text></string>
 <string id="lname_monolit_2"><text>Смолоскип</text></string>

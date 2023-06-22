@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="dm_general_prizrak_info">
-		<text>Кажуть, що зі Стрілком Привид корінився, не чув?</text>
+		<text>Кажуть, що зі Стрільцем Привид дружив, не чув?</text>
 	</string>
 	<string id="dm_general_prizrak_info1">
-		<text>Я Примари хочу знайти, не знаєш, де він може бути?</text>
+		<text>Я Привида хочу знайти, не знаєш, де він може бути?</text>
 	</string>
 	<string id="dm_general_prizrak_info2">
 		<text>Ти про Привида не знаєш?</text>
 	</string>
 	<string id="dm_general_prizrak_info3">
-		<text>Мені Примари треба знайти, не підкажеш щось?</text>
+		<text>Мені Привида треба знайти, не підкажеш щось?</text>
 	</string>
 	<string id="dm_general_prizrak_info_no_more">
 		<text>Та я не знаю! Що причепився...</text>
@@ -28,10 +28,10 @@
 		<text>Ти про сталкера на прізвисько Стрілець не чув?</text>
 	</string>
 	<string id="dm_general_strelok_info1">
-		<text>Я шукаю сталкера на ім&apos;я Стрілець, не знаєш про таке?</text>
+		<text>Я шукаю сталкера на ім'я Стрілець, не знаєш про таке?</text>
 	</string>
 	<string id="dm_general_strelok_info2">
-		<text>Про Стрілка не знаєш щось?</text>
+		<text>Про Стрільця не знаєш щось?</text>
 	</string>
 	<string id="dm_general_strelok_info3">
 		<text>Кажуть, що був такий сталкер – Стрілець, не чув про таке?</text>
@@ -40,7 +40,7 @@
 		<text>Ні...</text>
 	</string>
 	<string id="dm_general_strelok_info_no_more1">
-		<text>Слухай! Задовбати зі своїм Стрілком!</text>
+		<text>Слухай! Задовбав зі своїм Стрільцем!</text>
 	</string>
 	<string id="dm_general_strelok_info_no_more2">
 		<text>Що знав, те сказав, і все...</text>
@@ -70,7 +70,7 @@
 		<text>Що знаю – то моя справа! А балакати про таке – лихо кликати!</text>
 	</string>
 	<string id="dm_general_cars_info_no_more3">
-		<text>З глузду з&apos;їхав? Про таке балакати!</text>
+		<text>З глузду з'їхав? Про таке балакати!</text>
 	</string>
 	<string id="dm_general_action_info">
 		<text>Привіт, що робити збираєшся?</text>
@@ -109,16 +109,16 @@
 		<text>А я сказав: Нема в мене!</text>
 	</string>
 	<string id="dm_general_chang_pda_info2">
-		<text>У мене є КПК робітники, що не хочеш помінятися?</text>
+		<text>У мене є КПК які працюють, що не хочеш помінятися?</text>
 	</string>
 	<string id="dm_general_chang_pda_info_no_more2">
-		<text>Відчепись га! Робити нічого мені...</text>
+		<text>Відчепись! Робити більше нічого мені...</text>
 	</string>
 	<string id="dm_general_chang_pda_info3">
-		<text>Нема зайвого КПК? Могли б змінитись...</text>
+		<text>Нема зайвого КПК? Могли б обмінятися...</text>
 	</string>
 	<string id="dm_general_chang_pda_info_no_more3">
-		<text>Ну що ти причепився? Не змінюватиму я...</text>
+		<text>Ну що ти причепився? Не буду я міняти...</text>
 	</string>
 	<string id="dm_general_action_info_no_more">
 		<text>Слухай, вали давай... Чого причепився?</text>
@@ -148,7 +148,7 @@
 		<text>Ні, свіжих нема... Старе одне...</text>
 	</string>
 	<string id="dm_general_jokes_info_no_more1">
-		<text>Нових немає, а старіє вже задовбало!</text>
+		<text>Нових немає, а старі вже задовбало!</text>
 	</string>
 	<string id="dm_general_jokes_info_no_more2">
 		<text>Ні, свіжих нема... Старе одне...</text>
@@ -172,7 +172,7 @@
 		<text>Більше нічого не знаю.</text>
 	</string>
 	<string id="dm_general_cool_info_no_more1">
-		<text>Не-а, нового немає нічого, все те саме...</text>
+		<text>Ні, нового немає нічого, все те саме...</text>
 	</string>
 	<string id="dm_general_cool_info_no_more2">
 		<text>Я більше не знаю нічого.</text>

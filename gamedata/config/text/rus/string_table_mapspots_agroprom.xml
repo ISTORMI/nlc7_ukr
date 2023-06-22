@@ -8,7 +8,7 @@
 		<text>Завод</text>
 	</string>
 	<string id="agr_find_gunslinger_cache_hint">
-		<text>Знайти в катакомбах тайник Стрілка</text>
+		<text>Знайти в катакомбах тайник Стрільця</text>
 	</string>
 	<string id="agr_give_case_to_barman_hint">
 		<text>Віддати Бармену документи</text>
@@ -23,7 +23,7 @@
 		<text>Зустрітися з Кротом</text>
 	</string>
 	<string id="agr_nii_hint">
-		<text>НДІ &quot;Агропром&quot;, база військових</text>
+		<text>НДІ "Агропром", база військових</text>
 	</string>
 	<string id="agr_swamp_hint">
 		<text>Безпечне місце</text>
@@ -35,5 +35,5 @@
 		<text>Взяти у Крота інформацію про схованку</text>
 	</string>
 	<string id="agr_zaz_hint">
-		<text>&quot;Запорожець&quot;</text>
+		<text>"Запорожець"</text>
 	</string>

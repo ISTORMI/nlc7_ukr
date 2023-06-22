@@ -146,13 +146,13 @@
 		<text>бандит, ветеран</text>
 	</string>
 	<string id="dolg_experienced">
-		<text>&quot;Борг&quot;, досвідчений</text>
+		<text>"Обов'язок", досвідчений</text>
 	</string>
 	<string id="dolg_master">
-		<text>&quot;Борг&quot;, майстер</text>
+		<text>"Обов'язок", майстер</text>
 	</string>
 	<string id="dolg_veteran">
-		<text>&quot;Борг&quot;, ветеран</text>
+		<text>"Обов'язок", ветеран</text>
 	</string>
 	<string id="ecolog_experienced">
 		<text>вчений, досвідчений</text>
@@ -161,13 +161,13 @@
 		<text>вчений, новачок</text>
 	</string>
 	<string id="freedom_experienced">
-		<text>&quot;Свобода&quot;, досвідчений</text>
+		<text>"Воля", досвідчений</text>
 	</string>
 	<string id="freedom_master">
-		<text>&quot;Свобода&quot;, майстер</text>
+		<text>"Воля", майстер</text>
 	</string>
 	<string id="freedom_veteran">
-		<text>&quot;Свобода&quot;, ветеран</text>
+		<text>"Воля", ветеран</text>
 	</string>
 	<string id="killer_experienced">
 		<text>найманець, досвідчений</text>
@@ -191,16 +191,16 @@
 		<text>військовий, лейтенант</text>
 	</string>
 	<string id="monolith_experienced">
-		<text>&quot;Моноліт&quot;, досвідчений</text>
+		<text>"Моноліт", досвідчений</text>
 	</string>
 	<string id="monolith_master">
-		<text>&quot;Моноліт&quot;, майстер</text>
+		<text>"Моноліт", майстер</text>
 	</string>
 	<string id="monolith_novice">
-		<text>&quot;Моноліт&quot;, новачок</text>
+		<text>"Моноліт", новачок</text>
 	</string>
 	<string id="monolith_veteran">
-		<text>&quot;Моноліт&quot;, ветеран</text>
+		<text>"Моноліт", ветеран</text>
 	</string>
 	<string id="neutral_experienced">
 		<text>сталкер, досвідчений</text>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="st_title">
-		<text>NLC-7 &quot;Я - Мічений&quot; - це модифікація гри &quot;STALKER - Shadow of Chernobyl&quot; від компанії GSC</text>
+		<text>NLC-7 "Я - Мічений" - це модифікація гри "STALKER - Shadow of Chernobyl" від компанії GSC</text>
 	</string>
 	<string id="st_author">
 		<text>Автор та розробник всього проекту NLC 6-7</text>
@@ -67,7 +67,7 @@
 		<text>Варто особливо подякувати колишній компанії GSC та колишній команді АМК.</text>
 	</string>
 	<string id="st_end_2">
-		<text>А також:\n \n \nAI-Pack від xStream\nSkyGRAPHICS-MOD v2.0 RC4.1 від Sky4CE\nФотозона від Argus\nФотоживність від Argus та Domestos\nStories revival mod v. 0.6 від Red75\nStalker`s sound remake v.4.0 від MulleR та Монгол\nКонтейнери для артефактів від ARC-team\nЛампочки, що б&apos;ються від macron1\nЗаміновані схованки від frag\nПогодний мод для АМК від NightVz\nАмбієнт з ААТ 1.8\nArsenal mod від Dester</text>
+		<text>А також:\n \n \nAI-Pack від xStream\nSkyGRAPHICS-MOD v2.0 RC4.1 від Sky4CE\nФотозона від Argus\nФотоживність від Argus та Domestos\nStories revival mod v. 0.6 від Red75\nStalker`s sound remake v.4.0 від MulleR та Монгол\nКонтейнери для артефактів від ARC-team\nЛампочки, що б'ються від macron1\nЗаміновані схованки від frag\nПогодний мод для АМК від NightVz\nАмбієнт з ААТ 1.8\nArsenal mod від Dester</text>
 	</string>
 	<string id="st_end_3">
 		<text>Окреме велике дякую тим, чиї напрацювання були використані, але не названі окремо.</text>

@@ -41,13 +41,13 @@
 		<text>¬≥дкрити двер≥ за допомогою коду</text>
 	</string>
 	<string id="val_captive_help">
-		<text>¬≥дбити борг≥вц€</text>
+		<text>¬≥дбити "ќбов'€зк≥вц€"</text>
 	</string>
 	<string id="val_captive_help_1">
 		<text>—л≥дувати за  улею до м≥сц€ зас≥дки</text>
 	</string>
 	<string id="val_captive_help_2">
-		<text>«нищити бандит≥в ≥ вр€тувати борг≥вц€</text>
+		<text>«нищити бандит≥в ≥ вр€тувати "ќбов'€зк≥вц€"</text>
 	</string>
 	<string id="val_come_to_trader">
 		<text>¬ибратис€ через п≥вденн≥ ворота</text>
@@ -62,11 +62,11 @@
 		<text>ѕоказати документи</text>
 	</string>
 	<string id="val_prisoner_help">
-		<text>¬р€тувати борг≥вц€</text>
+		<text>¬р€тувати "ќбов'€зк≥вц€"</text>
 	</string>
 	<string id="val_prisoner_help_0">
-		<text>¬ит€гнути борг≥вц€ з полону бандит≥в</text>
+		<text>¬ит€гнути "ќбов'€зк≥вц€" з полону бандит≥в</text>
 	</string>
 	<string id="val_prisoner_help_main">
-		<text>«в≥льнити боргу з в&apos;€зниц≥ бандит≥в</text>
+		<text>«в≥льнити "ќбов'€зк≥вц€" з в'€зниц≥ бандит≥в</text>
 	</string>

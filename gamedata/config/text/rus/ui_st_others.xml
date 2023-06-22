@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="ui_st_conn_version_differs">
-		<text>Помилка з&apos;єднання: Відмінні версії.</text>
+		<text>Помилка з'єднання: Відмінні версії.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Помилка з&apos;єднання: Неправильний CD-Key.</text>
+		<text>Помилка з'єднання: Неправильний CD-Key.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Помилка з&apos;єднання: Цей CD-key вже використовується.</text>
+		<text>Помилка з'єднання: Цей CD-key вже використовується.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Помилка з&apos;єднання: Ваш CD-Key заблоковано. Зверніться до служби підтримки.</text>
+		<text>Помилка з'єднання: Ваш CD-Key заблоковано. Зверніться до служби підтримки.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
 		<text>Доступний новий патч.\nВерсія:%s\n %s\nБажаєте завантажити його зараз?</text>

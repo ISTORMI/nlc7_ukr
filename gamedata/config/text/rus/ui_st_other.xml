@@ -73,13 +73,13 @@
 		<text>ИО</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
-		<text>Помилка з&apos;єднання: неправильний пароль</text>
+		<text>Помилка з'єднання: неправильний пароль</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Помилка з&apos;єднання: з&apos;єднання перервано сервером</text>
+		<text>Помилка з'єднання: з'єднання перервано сервером</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Помилка з&apos;єднання: сервер заповнений</text>
+		<text>Помилка з'єднання: сервер заповнений</text>
 	</string>
 	<string id="ui_st_days">
 		<text>дн.</text>
@@ -88,10 +88,10 @@
 		<text>Помилка</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>Файл із таким ім&apos;ям вже існує. Перезаписати?</text>
+		<text>Файл із таким ім'ям вже існує. Перезаписати?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
-		<text>Ім&apos;я файлу порожнє</text>
+		<text>Ім'я файлу порожнє</text>
 	</string>
 	<string id="ui_st_hours">
 		<text>год.</text>
@@ -196,16 +196,16 @@
 		<text>Завантаження</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
-		<text>Помилка з&apos;єднання: Відрізняються версії</text>
+		<text>Помилка з'єднання: Відрізняються версії</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Помилка з&apos;єднання: Неправильний CD-Key</text>
+		<text>Помилка з'єднання: Неправильний CD-Key</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Помилка з&apos;єднання: Такий CD-Key вже використовується</text>
+		<text>Помилка з'єднання: Такий CD-Key вже використовується</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Помилка з&apos;єднання: Ваш CD-Key заблоковано; зв&apos;яжіться зі службою підтримки</text>
+		<text>Помилка з'єднання: Ваш CD-Key заблоковано; зв'яжіться зі службою підтримки</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
 		<text>Доступний новий патч.\nВерсія:%s\n %s\nБажаєте завантажити його зараз?</text>
@@ -265,6 +265,6 @@
 		<text>Ціна питання:</text>
 	</string>
 	<string id="ui_st_confirm_sultan">
-		<text>Хоч пам&apos;ятаєш порядок? Несеш арт моїм хлопцям на Забутому хуторі, а далі вони розкажуть, де товар приймати.\nНу що, оформляємо замовлення?</text>
+		<text>Хоч пам'ятаєш порядок? Несеш арт моїм хлопцям на Забутому хуторі, а далі вони розкажуть, де товар приймати.\nНу що, оформляємо замовлення?</text>
 	</string>
 </string_table>

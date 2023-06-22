@@ -28,7 +28,7 @@
 		<text>Вертоліт МІ-24</text>
 	</string>
 	<string id="Niva">
-		<text>&quot;Нива&quot;</text>
+		<text>"Нива"</text>
 	</string>
 	<string id="Uaz">
 		<text>УАЗ</text>
@@ -37,6 +37,6 @@
 		<text>Транспорт</text>
 	</string>
 	<string id="Zaporozh">
-		<text>&quot;Запорожець&quot;</text>
+		<text>"Запорожець"</text>
 	</string>
 </string_table>

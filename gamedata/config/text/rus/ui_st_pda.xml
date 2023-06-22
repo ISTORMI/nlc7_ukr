@@ -19,7 +19,7 @@
 		<text>Йти далі?</text>
 	</string>
 	<string id="Name">
-		<text>Ім&apos;я</text>
+		<text>Ім'я</text>
 	</string>
 	<string id="pda_btn_accomplished">
 		<text>Виконані</text>
@@ -148,7 +148,7 @@
 		<text>Ігрова статистика проходження</text>
 	</string>
 	<string id="st_map_actor">
-		<text>Я походжу десь тут...</text>
+		<text>Я ніби десь тут...</text>
 	</string>
 	<string id="st_news">
 		<text>Новина</text>
@@ -181,7 +181,7 @@
 		<text>Детальна інформація про завдання</text>
 	</string>
 	<string id="st_pda_top20">
-		<text>Найкраща 20 сталкерів</text>
+		<text>Найкраща 20ка сталкерів</text>
 	</string>
 	<string id="st_pda_total">
 		<text>Усього</text>
@@ -217,7 +217,7 @@
 		<text>Артефакти 3 рівня</text>
 	</string>
 	<string id="enc_artmod/a_level_4">
-		<text>Пустушки</text>
+		<text>Порожнявки</text>
 	</string>
 	<string id="enc_artmod/a_level_5">
 		<text>Рідкісні артефакти</text>
@@ -271,10 +271,10 @@
 		<text>Антирадів використано:</text>
 	</string>
 	<string id="st_pda_minigames_played">
-		<text>Мініігр зіграно:</text>
+		<text>Міні-ігор зіграно:</text>
 	</string>
 	<string id="st_pda_minigames_won">
-		<text>Мініігра виграно:</text>
+		<text>Міні-ігор виграно:</text>
 	</string>
 	<string id="st_pda_lc_used">
 		<text>Переходів між локаціями:</text>
@@ -283,12 +283,12 @@
 		<text>Перезавантажень:</text>
 	</string>
 	<string id="st_pda_gg_deaths">
-		<text>Смерть ГГ:</text>
+		<text>Смертей ГГ:</text>
 	</string>
 	<string id="st_pda_weapon_repairs">
-		<text>Ремонт зброї:</text>
+		<text>Ремонтів зброї:</text>
 	</string>
 	<string id="st_pda_armor_repairs">
-		<text>Ремонт броні:</text>
+		<text>Ремонтів броні:</text>
 	</string>
 </string_table>

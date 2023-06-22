@@ -8,19 +8,19 @@
 		<text>Знищити божевільних ветеранів</text>
 	</string>
 	<string id="bar_dolg_base_rules">
-		<text>Відзначитись у начальника охорони &quot;Боргу&quot;</text>
+		<text>Відзначитись у начальника охорони "Обов'язку"</text>
 	</string>
 	<string id="bar_dolg_base_rules_fin">
 		<text>Повернутися до Бармена</text>
 	</string>
 	<string id="bar_dolg_base_rules_talk">
-		<text>Знайти начальника охорони &quot;боргу&quot; і відзначитись у нього</text>
+		<text>Знайти начальника охорони "Обов'язку" і відзначитись у нього</text>
 	</string>
 	<string id="bar_dolg_bring_rg6">
 		<text>Виконати доручення для генерала Вороніна</text>
 	</string>
 	<string id="bar_dolg_community_quest">
-		<text>Вступ до угруповання &quot;Борг&quot;</text>
+		<text>Вступ до угруповання "Обов'язок"</text>
 	</string>
 	<string id="bar_dolg_community_quest_prisyaga">
 		<text>Скласти присягу</text>
@@ -29,13 +29,13 @@
 		<text>Отримати рекомендацію полковника Іванцова</text>
 	</string>
 	<string id="bar_dolg_community_quest_vernost">
-		<text>Довести свою вірність &quot;Довгу&quot;</text>
+		<text>Довести свою вірність "Довгу"</text>
 	</string>
 	<string id="bar_dolg_find_cook">
-		<text>Втертися в довіру до Кухаря зі &quot;Свободи&quot; та дізнатися, де зберігається РГ-6</text>
+		<text>Втертися в довіру до Кухаря зі "Свободи" та дізнатися, де зберігається РГ-6</text>
 	</string>
 	<string id="bar_dolg_find_rg6">
-		<text>Проникнути на територію угруповання &quot;Свобода&quot;, знайти та викрасти РГ-6</text>
+		<text>Проникнути на територію угруповання "Свобода", знайти та викрасти РГ-6</text>
 	</string>
 	<string id="bar_dolg_info_gain">
 		<text>Знайти перехоплену інформацію про лабораторію X-18</text>
@@ -50,7 +50,7 @@
 		<text>Принести РГ-6 генералу Вороніну</text>
 	</string>
 	<string id="bar_dolg_rg6_quest">
-		<text>Завдання для вступу до &quot;Боргу&quot;</text>
+		<text>Завдання для вступу до "Обов'язку"</text>
 	</string>
 	<string id="bar_dolg_svoboda_ambush_quest">
 		<text>Знищити найманців</text>
@@ -80,7 +80,7 @@
 		<text>Знищити табір божевільних ветеранів</text>
 	</string>
 	<string id="bar_radar_deactivate">
-		<text>Вимкнути &quot;Випалювач мозку&quot;</text>
+		<text>Вимкнути "Випалювач мозку"</text>
 	</string>
 	<string id="bar_resque_information">
 		<text>Зустрітися з Кругловим</text>
@@ -125,7 +125,7 @@
 		<text>Знайти документи Х-16</text>
 	</string>
 	<string id="wpn-winchester_m1">
-		<text>Рушниця &quot;Вінчестер 1300&quot; Модернізована</text>
+		<text>Рушниця "Вінчестер 1300" Модернізована</text>
 	</string>
 	<string id="x16_yantar">
 		<text>Поговорити з вченими</text>

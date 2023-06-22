@@ -1,5 +1,5 @@
 	<string id="mil_blockpost_job">
-		<text>Надати допомогу на Бар&apos;єрі</text>
+		<text>Надати допомогу на Бар'єрі</text>
 	</string>
 	<string id="mil_courier">
 		<text>Стукач</text>
@@ -26,10 +26,10 @@
 		<text>Шалений сталкер</text>
 	</string>
 	<string id="mil_dolg">
-		<text>Група &quot;Борга&quot;</text>
+		<text>Група "Обов'язку"</text>
 	</string>
 	<string id="mil_dolg_assault_freedom">
-		<text>Допомогти загону &quot;боргу&quot; в усуненні Лукаша</text>
+		<text>Допомогти загону "Обов'язку" в усуненні Лукаша</text>
 	</string>
 	<string id="mil_kill_lukash">
 		<text>Вбити Лукаша</text>
@@ -38,7 +38,7 @@
 		<text>Знищити снайпера</text>
 	</string>
 	<string id="mil_dolg_return_to_khutor">
-		<text>Повернутись на хутір &quot;Борга&quot; та отримати гонорар</text>
+		<text>Повернутись на хутір "Обов'язку" та отримати гонорар</text>
 	</string>
 	<string id="mil_dolg_return_to_skull">
 		<text>Повернутись до Черепа</text>
@@ -47,22 +47,22 @@
 		<text>Командир блокпоста Кеп</text>
 	</string>
 	<string id="mil_fblockpost_phase2">
-		<text>Допомогти в знищенні загону &quot;Моноліта&quot;, що проривається.</text>
+		<text>Допомогти в знищенні загону "Моноліта", що проривається.</text>
 	</string>
 	<string id="mil_fblockpost_phase3">
-		<text>Поговорити з командиром Бар&apos;єра</text>
+		<text>Поговорити з командиром Бар'єра</text>
 	</string>
 	<string id="mil_find_cook">
-		<text>Знайти Кухаря на базі &quot;Свободи&quot;</text>
+		<text>Знайти Кухаря на базі "Свободи"</text>
 	</string>
 	<string id="mil_freedom_rg6_task">
-		<text>Поговорити з бійцями &quot;Свободи&quot;</text>
+		<text>Поговорити з бійцями "Свободи"</text>
 	</string>
 	<string id="mil_go_max">
 		<text>Доповісти Максу</text>
 	</string>
 	<string id="mil_go_to_miser_task">
-		<text>Сходити на базу &quot;Свободи&quot; до Шинкаря</text>
+		<text>Сходити на базу "Свободи" до Шинкаря</text>
 	</string>
 	<string id="mil_go_to_miser_task_main">
 		<text>Поговорити з Шинкарем</text>
@@ -101,7 +101,7 @@
 		<text>Вбити снайпера на вежі</text>
 	</string>
 	<string id="mil_quest_report_dolg">
-		<text>Повідомити про виконання групи &quot;Борга&quot;</text>
+		<text>Повідомити про виконання групі з "Обов'язку"</text>
 	</string>
 	<string id="mil_return_lukash">
 		<text>Повернутись до Лукаша</text>
@@ -113,7 +113,7 @@
 		<text>Доповісти генералу Вороніну</text>
 	</string>
 	<string id="mil_rg6">
-		<text>Знайти кур&apos;єра</text>
+		<text>Знайти кур'єра</text>
 	</string>
 	<string id="mil_secret">
 		<text>Сховище бандитів</text>
@@ -128,7 +128,7 @@
 		<text>Поговорити з Кухарем</text>
 	</string>
 	<string id="mil_talk_with_cap">
-		<text>Поговорити з командиром блокпоста &quot;Свободи&quot; Кепом</text>
+		<text>Поговорити з командиром блокпоста "Свободи" Кепом</text>
 	</string>
 	<string id="mil_test_task_phase1">
 		<text>Зайти до рестриктора 1</text>
@@ -146,5 +146,5 @@
 		<text>Похмурий</text>
 	</string>
 	<string id="mil_lukash_job">
-		<text>Знищити групу &quot;Борга&quot;</text>
+		<text>Знищити групу "Обов'язку"</text>
 	</string>

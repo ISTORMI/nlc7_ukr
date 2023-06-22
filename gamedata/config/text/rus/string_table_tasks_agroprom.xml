@@ -2,7 +2,7 @@
 		<text>Дізнатись про долю Привида</text>
 	</string>
 	<string id="agr_gunslinger_cache">
-		<text>Схованка Стрілка</text>
+		<text>Схованка Стрільця</text>
 	</string>
 	<string id="agr_help_krot">
 		<text>Врятувати Крота</text>
@@ -32,7 +32,7 @@
 		<text>Зустрітися зі сталкерами</text>
 	</string>
 	<string id="agr_meet_krot_band">
-		<text>Отримати інформацію про Стрілку</text>
+		<text>Отримати інформацію про Стрільцю</text>
 	</string>
 	<string id="agr_meet_krot_band_0">
 		<text>Отримати від Крота інформацію</text>
@@ -44,16 +44,16 @@
 		<text>Отримати інформацію від Крота</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache">
-		<text>Знайти схованку угруповання Стрілка</text>
+		<text>Знайти схованку угруповання Стрільця</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_0">
-		<text>Знайти схованку угруповання Стрілка</text>
+		<text>Знайти схованку угруповання Стрільця</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_1">
 		<text>Знайти схованку</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_2">
-		<text>Знайти у схованці інформацію про Стрілку</text>
+		<text>Знайти у схованці інформацію про Стрільцю</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_3">
 		<text>Вибратися з підземелля</text>
@@ -68,7 +68,7 @@
 		<text>Знайти документи військових</text>
 	</string>
 	<string id="agroprom_get_military_documents_0">
-		<text>НДІ &quot;Агропром&quot;</text>
+		<text>НДІ "Агропром"</text>
 	</string>
 	<string id="agroprom_get_military_documents_1">
 		<text>Викрасти військові документи</text>

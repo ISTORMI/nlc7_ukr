@@ -37,13 +37,13 @@
 		<text> </text>
 	</string>
 	<string id="st_detach_gl">
-		<text>від&apos;єднати гранатомет</text>
+		<text>від'єднати гранатомет</text>
 	</string>
 	<string id="st_detach_scope">
-		<text>від&apos;єднати приціл</text>
+		<text>від'єднати приціл</text>
 	</string>
 	<string id="st_detach_silencer">
-		<text>від&apos;єднати глушник</text>
+		<text>від'єднати глушник</text>
 	</string>
 	<string id="st_dress_outfit">
 		<text>одягнути костюм</text>
@@ -55,7 +55,7 @@
 		<text>викласти все</text>
 	</string>
 	<string id="st_eat">
-		<text>з&apos;їсти</text>
+		<text>з'їсти</text>
 	</string>
 	<string id="st_effective_strength">
 		<text>Ефективна міцність</text>

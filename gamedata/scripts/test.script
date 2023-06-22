@@ -289,8 +289,8 @@ function anim_use_med( sect )
         schedule.add( "delay_close", "test.delay_close_inv()", 200 )
         sak.actor_hide_weapon()
         level.add_cam_effector( "camera_effects\\item_use.anm", 9773, false, "" )
-        --sak.send_tip( sect, "Использовано:", 2, 20, "uniq", "sak", "green" )
-        --sak.send_tip( tostring( med_pause ) .. " милисекунд", "На:", 2, 20, "uniq", "sak", "green" )
+        --sak.send_tip( sect, "Використано:", 2, 20, "uniq", "sak", "green" )
+        --sak.send_tip( tostring( med_pause ) .. " мілісекунд", "На:", 2, 20, "uniq", "sak", "green" )
         schedule.add( "med_pause_time", "sak.restore_weap()", med_pause )
     end
 end
@@ -416,9 +416,9 @@ function sms_recipt_found( info )
         end
     end
     if db.actor:has_info( info ) then
-        sak.send_tip( rec_name, "Получен уже известный рецепт:", 2, 10, "artmod", "pda_news", "orange" )
+        sak.send_tip( rec_name, "Отримано вже відомий рецепт:", 2, 10, "artmod", "pda_news", "orange" )
     else
-        sak.send_tip( rec_name, "Получен новый рецепт:", 2, 10, "artmod", "pda_news", "orange" )
+        sak.send_tip( rec_name, "Отримано новий рецепт:", 2, 10, "artmod", "pda_news", "orange" )
     end
 end
 
@@ -531,7 +531,7 @@ end
 
 function show_pda_recharge_price( vendor )
     db.actor:give_talk_message(
-        "\n%c[255,216,186,140]На сегодня зарядка КПК будет стоить " .. calc_pda_recharge_price( vendor ) .. " рубликов.",
+        "\n%c[255,216,186,140]На сьогодні зарядка КПК буде коштувати " .. calc_pda_recharge_price( vendor ) .. " гривень.",
         "ui\\ui_iconsTotal",
         Frect():set( 0, 0, 0, 0),
         "simple_answer_item"
@@ -575,7 +575,7 @@ function fuckup_matches()
         if itm then
             if lua_random() < rain_factor * 0.23 then
                 sak.send_tip(
-                    "От дождя спички отсырели.", "Да ё-моё...",
+                    "Від дощу сірники відсиріли.", "Ух, йо-майо...",
                     5, 15, "g_g", "sak", "red"
                 )
                 misc.release_obj( itm )
@@ -593,11 +593,11 @@ function fuckup_matches()
         --         or active_sect == "wpn_knife_m1" )
         --         then
         --             local active_cond = params.get_condition( active_item, 0.99 )
-        --             sak.send_tip( "Старое состояние: ".. active_cond , "", 1, 20, "uniq", "sak", "green" )
+        --             sak.send_tip( "Старий стан: ".. active_cond , "", 1, 20, "uniq", "sak", "green" )
         --             if active_cond > 0.1 then
         --                 params.upd_condition( active_item:id(), active_cond - 0.01 ) -- на 1 процент дамажим пуху
         --                 active_cond = params.get_condition( active_item, 0.99 )
-        --                 sak.send_tip( "Новое состояние: ".. active_cond , "", 2, 20, "uniq", "sak", "green" )
+        --                 sak.send_tip( "Новий стан: ".. active_cond , "", 2, 20, "uniq", "sak", "green" )
         --             end
         --         end
         --     end
@@ -616,7 +616,7 @@ function fuckup_food()
                     if lua_random() < food_anim_time[ sect ][ 3 ] then
                         sak.send_tip(
                             game.translate_string( system_ini():r_string( sect, "inv_name" ) ) ..
-                            " теперь фонит, придётся выбросить...", "Вот чёрт...",
+                            " тепер фонить, доведеться викинути...", "От чорт...",
                             5, 15, "g_g", "sak", "red"
                         )
                         misc.release_obj( ids[ m ] )
@@ -948,8 +948,8 @@ end
 
 function march_monster_part_restore_end()
     sak.send_tip(
-        "Меченный, твоя запчасть готова, подваливай. Холодца банку не забудь.",
-        "Сообщение от Пахома:", 2, 20, "uniq", "sak", "green"
+        "Мічений, твоя запчастина готова, підвалюй. Холодця банку не забудь.",
+        "Повідомлення від Пахома:", 2, 20, "uniq", "sak", "green"
     )
     timers.start_timer(
         "march_monster_part_restore_end_timer", 1, 0, 0,
@@ -959,8 +959,8 @@ end
 
 function march_monster_part_restore_end_timer()
     sak.send_tip(
-        "Меченный, твоя запчасть ушла в фонд развития науки. Я предупреждал.",
-        "Сообщение от Пахома:", 2, 20, "uniq", "sak", "red"
+        "Мічений, твоя запчастина пішла у фонд розвитку науки. Я попереджував.",
+        "Повідомлення від Пахома:", 2, 20, "uniq", "sak", "red"
     )
     nlc_vars.monster_part_march_restore = nil
 end
@@ -1122,8 +1122,8 @@ end
 
 function scarman_sms()
     sak.send_tip(
-        "'Галиматья какая-то. Слова, снизу цифры, типа ключ. Цифр вроде в 2 раза больше, чем слов.'",
-        "В КПК добавлена статья:", 0, 10, "uniq", "sak", "orange"
+        "'Гівно якесь. Слова, знизу цифри, типу ключ. Цифр начебто в 2 рази більший, ніж слів'",
+        "У КПК додано статтю:", 0, 10, "uniq", "sak", "orange"
     )
 end
 
@@ -1500,7 +1500,7 @@ function fuckup_gg_batteries( flag_all )
                     if lua_random() > 0.83 then
                         misc.release_obj( ids[ m ] )
                         sak.send_tip(
-                            "Кое-каким батарейкам кирдык, придётся выбросить.", "Ее..понский городовой...",
+                            "Деяким батарейкам кирдик, доведеться викинути.", "Єє..понський городовий...",
                             5, 15, "g_g", "sak", "red"
                         )
                         return
@@ -1509,7 +1509,7 @@ function fuckup_gg_batteries( flag_all )
             end
             if flag_all then
                 sak.send_tip(
-                    "Батарейкам кирдык, придётся выбросить.", "Ее..понский городовой...",
+                    "Батарейкам кирдик, доведеться викинути.", "Єє..понський городовий...",
                     5, 15, "g_g", "sak", "red"
                 )
             end
@@ -1810,7 +1810,7 @@ function sidor_resuply()
     --     -- then
     --         trade_manager.update( sobj )
     --         sidor_force_updated = true
-    --         sak.send_tip( "Обновили ассортимент проклятому Сидору...", "", 2, 20, "uniq", "sak", "green" )
+    --         sak.send_tip( "Оновили асортимент проклятому Сидору...", "", 2, 20, "uniq", "sak", "green" )
     --     -- end
     -- end
 end
@@ -2019,8 +2019,8 @@ function try_rad_disease_heal()
     if not rad_disease_check() then return end
     rad_disease_boryan_heal()
     sak.send_tip(
-        "Неужто кашель этот непонятный отпустил наконец?",
-        "Вроде дышать полегче стало...", 2, 20, "g_g", "rememb", "yellow"
+        "Невже кашель цей незрозумілий відпустив нарешті?",
+        "Наче дихати легше стало...", 2, 20, "g_g", "rememb", "yellow"
     )
 end
 
@@ -2078,8 +2078,8 @@ function blowout_damage_equipment()
                         and p_obj == 0
                     then
                         sak.send_tip(
-                            "Защиту от радиации потерял %c[255,230,255,1]" .. sect,
-                            "Внимание:", 5, 15, "g_g", "sak", "red"
+                            "Захист від радіації втратив %c[255,230,255,1]" .. sect,
+                            "Увага:", 5, 15, "g_g", "sak", "red"
                         )
                     end
                     log2( "@-- [ test.blowout_damage_equipment() ]: ITEM %s NEW CONDITION: %s", nname, upd_cond )
@@ -2087,8 +2087,8 @@ function blowout_damage_equipment()
                     if strposx( nname, "detector_" ) then
                         if p_obj == 0 or strposx( g_sim:object( p_obj ):section_name(), "shadow_inventory" ) then
                             sak.send_tip(
-                                "От Выброса окончательно вышел из строя %c[255,230,255,1]" .. sect,
-                                "Внимание:", 5, 15, "g_g", "sak", "red"
+                                "Від Викиду остаточно вийшов з ладу %c[255,230,255,1]" .. sect,
+                                "Увага:", 5, 15, "g_g", "sak", "red"
                             )
                         end
                         misc.release_obj( obj, 'test.blowout_damage_equipment()' )

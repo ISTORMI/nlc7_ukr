@@ -32,7 +32,7 @@
 		<text>Борів</text>
 	</string>
 	<string id="captena">
-		<text>Кеп з Бар&apos;єра</text>
+		<text>Кеп з Бар'єра</text>
 	</string>
 	<string id="cherepa">
 		<text>Майор Черепанов</text>
@@ -74,7 +74,7 @@
 		<text>Кухар</text>
 	</string>
 	<string id="prapora">
-		<text>Прапорщик &quot;Борга&quot;</text>
+		<text>Прапорщик "Обов'язку"</text>
 	</string>
 	<string id="shustriya">
 		<text>Жвавий</text>
@@ -122,7 +122,7 @@
 		<text>Ну що ж, впорався із завданням – заслужив нагороду! Тобі як краще, грошима чи товаром? Вибирай...</text>
 	</string>
 	<string id="tm_barman_job_refuse">
-		<text>Мічений, у нас так не роблять! Запам&apos;ятай!</text>
+		<text>Мічений, у нас так не роблять! Запам'ятай!</text>
 	</string>
 	<string id="tm_barman_job_what">
 		<text>Що таке?</text>
@@ -185,7 +185,7 @@
 		<text>Загалом є справа, якщо не сильно зайнятий:</text>
 	</string>
 	<string id="tm_cherep_has_kozel">
-		<text>&quot;Борг&quot;, він на довірі тримається! А до таких, як ти, довіри нема.</text>
+		<text>"Обов'язок", він на довірі тримається! А до таких, як ти, довіри нема.</text>
 	</string>
 	<string id="tm_cherep_has_no_job">
 		<text>Ми самі впораємося!</text>
@@ -212,7 +212,7 @@
 		<text>Загалом є справа:</text>
 	</string>
 	<string id="tm_dolg_has_kozel">
-		<text>У нас у &quot;Борзі&quot; так - взявся виконати щось, виконуй! Не виконав - отже, немає тобі довіри!</text>
+		<text>У нас у "Борзі" так - взявся виконати щось, виконуй! Не виконав - отже, немає тобі довіри!</text>
 	</string>
 	<string id="tm_dolg_has_no_job">
 		<text>Наразі немає завдань.</text>
@@ -335,7 +335,7 @@
 		<text>Що ти хочеш обговорити?</text>
 	</string>
 	<string id="tm_freedom_job_complete">
-		<text>Красава! П&apos;ять балів тобі – тримай зароблене.</text>
+		<text>Красава! П'ять балів тобі – тримай зароблене.</text>
 	</string>
 	<string id="tm_freedom_job_items">
 		<text>Грошей не треба, давай майно...</text>
@@ -404,7 +404,7 @@
 		<text>Ну що ж, впорався із завданням – заслужив нагороду! Тобі як краще, грошима чи товаром? Вибирай...</text>
 	</string>
 	<string id="tm_lesnik_job_refuse">
-		<text>Мічений, у нас так не роблять! Запам&apos;ятай!</text>
+		<text>Мічений, у нас так не роблять! Запам'ятай!</text>
 	</string>
 	<string id="tm_lesnik_job_what">
 		<text>Що таке?</text>
@@ -434,7 +434,7 @@
 		<text>Ну що ж, впорався із завданням – заслужив нагороду! Тобі як краще, грошима чи товаром? Вибирай...</text>
 	</string>
 	<string id="tm_borzyi_job_refuse">
-		<text>Мічений, у нас так не роблять! Запам&apos;ятай!</text>
+		<text>Мічений, у нас так не роблять! Запам'ятай!</text>
 	</string>
 	<string id="tm_borzyi_job_what">
 		<text>Що таке?</text>
@@ -548,7 +548,7 @@
 		<text>Дякую, давно чекаю... Тобі як краще - грошей насипати чи якимось іншим майном?</text>
 	</string>
 	<string id="tm_petrenko_job_refuse">
-		<text>У нас у &quot;Борзі&quot; такі довго не живуть! Запам&apos;ятай...</text>
+		<text>У нас у "Борзі" такі довго не живуть! Запам'ятай...</text>
 	</string>
 	<string id="tm_petrenko_job_what">
 		<text>І що там із завданням?</text>
@@ -626,7 +626,7 @@
 		<text>Краще грошима, є деякі думки...</text>
 	</string>
 	<string id="tm_shustriy_job_money_or_items">
-		<text>Ну, ти молоток! У мене ось грошей трохи їсти... Чи здоров&apos;я поправити?</text>
+		<text>Ну, ти молоток! У мене ось грошей трохи їсти... Чи здоров'я поправити?</text>
 	</string>
 	<string id="tm_shustriy_job_refuse">
 		<text>Ось...</text>
@@ -797,7 +797,7 @@
 		<text>Гроші потрібні, тож...</text>
 	</string>
 	<string id="tm_zastava_commander_job_money_or_items">
-		<text>Можеш! Молоток! Нам такі в &quot;Борзі&quot; завжди знадобляться! Може, до нас? Ні? Ну, тоді вибирай нагороду:</text>
+		<text>Можеш! Молоток! Нам такі в "Борзі" завжди знадобляться! Може, до нас? Ні? Ну, тоді вибирай нагороду:</text>
 	</string>
 	<string id="tm_zastava_commander_job_refuse">
 		<text>Правильно наш комбат казав: сталкери – це покидьки!</text>
@@ -923,7 +923,7 @@
 		<text>Незабаром буде, не хвилюйся.</text>
 	</string>
 	<string id="tm_job_nothing_shustriy_2">
-		<text>&quot;Шустрий&quot; ти боляче...</text>
+		<text>"Шустрий" ти боляче...</text>
 	</string>
 	<string id="tm_job_nothing_drunk_dolg_2">
 		<text>Незабаром буде, не хвилюйся.</text>
@@ -3146,7 +3146,7 @@
 		<text>Чи обговоримо наше завдання?</text>
 	</string>
 	<string id="tm_reward_job_borov_2">
-		<text>Ну що, обговоримо &quot;справи наші грішні&quot;?</text>
+		<text>Ну що, обговоримо "справи наші грішні"?</text>
 	</string>
 	<string id="tm_reward_job_freedom_2">
 		<text>Чи обговоримо наше завдання?</text>
@@ -3899,7 +3899,7 @@
 		<text>Це нехай пацани зелені роблять.</text>
 	</string>
 	<string id="tm_seek_job_abandon_freedom_2">
-		<text>Це нехай &quot;шістки&quot; твої роблять.</text>
+		<text>Це нехай "шістки" твої роблять.</text>
 	</string>
 	<string id="tm_seek_job_abandon_prapor_2">
 		<text>Це нехай пацани зелені роблять.</text>
@@ -4340,7 +4340,7 @@
 		<text>Дурниці це все, мені не потрібно.</text>
 	</string>
 	<string id="tm_seek_job_abandon_ecolog_8">
-		<text>А &quot;воно мене треба&quot;, професоре?</text>
+		<text>А "воно мене треба", професоре?</text>
 	</string>
 	<string id="tm_seek_job_abandon_dolg_8">
 		<text>Дурниці це все, мені не потрібно.</text>
@@ -5996,7 +5996,7 @@
 		<text>Я готовий, давайте.</text>
 	</string>
 	<string id="tm_seek_job_yes_borov_10">
-		<text>Як там у вас кажуть: &quot;замазано&quot;.</text>
+		<text>Як там у вас кажуть: "замазано".</text>
 	</string>
 	<string id="tm_seek_job_yes_freedom_10">
 		<text>Я готовий, давай.</text>
@@ -6293,7 +6293,7 @@
 		<text>А що мені буде за мій неоціненний внесок у справу науки?</text>
 	</string>
 	<string id="tm_seek_job_reward_dolg_4">
-		<text>А мені з цього щось перепаде від &quot;боргу&quot;?</text>
+		<text>А мені з цього щось перепаде від "Обов'язку"?</text>
 	</string>
 	<string id="tm_seek_job_reward_borov_4">
 		<text>А мені з того що?</text>
@@ -6596,7 +6596,7 @@
 		<text>Ближче до справи – що я отримаю?</text>
 	</string>
 	<string id="tm_seek_job_reward_borov_8">
-		<text>&quot;Ближче до тіла&quot;, як говорив Мопасан, - моя доля?</text>
+		<text>"Ближче до тіла", як говорив Мопасан, - моя доля?</text>
 	</string>
 	<string id="tm_seek_job_reward_freedom_8">
 		<text>Ближче до справи – моя частка?</text>
@@ -6803,7 +6803,7 @@
 		<text>Давай до діла – що я отримаю?</text>
 	</string>
 	<string id="tm_seek_job_reward_volkodav_10">
-		<text>Ну, ви тут не за &quot;дякую&quot;, напевно. А мені який сенс ризикувати?</text>
+		<text>Ну, ви тут не за "дякую", напевно. А мені який сенс ризикувати?</text>
 	</string>
 	<string id="tm_seek_job_reward_mercenary_10">
 		<text>Давай до діла – що я отримаю?</text>
@@ -6890,7 +6890,7 @@
 		<text>Що можеш запропонувати?</text>
 	</string>
 	<string id="tm_seek_new_job_ecolog_2">
-		<text>Ну, що потрібно зробити для &quot;порятунку людства&quot;?</text>
+		<text>Ну, що потрібно зробити для "порятунку людства"?</text>
 	</string>
 	<string id="tm_seek_new_job_dolg_2">
 		<text>Що можете запропонувати?</text>

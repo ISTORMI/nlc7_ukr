@@ -85,7 +85,7 @@
 		<text>Темна долина</text>
 	</string>
 	<string id="testers_mp_factory">
-		<text>Фабрика &quot;Янтар&quot;</text>
+		<text>Фабрика "Янтар"</text>
 	</string>
 	<string id="testers_mp_lost_village">
 		<text>Покинуте село</text>
@@ -100,7 +100,7 @@
 		<text>Залізнична станція</text>
 	</string>
 	<string id="testers_mp_rostok">
-		<text>Завод &quot;Росток&quot;</text>
+		<text>Завод "Росток"</text>
 	</string>
 	<string id="testers_mp_workshop">
 		<text>Покинута фабрика</text>
@@ -148,16 +148,16 @@
 		<text>видалити</text>
 	</string>
 	<string id="ui_mm_default_pool">
-		<text>Завантаження текстур у відеопам&apos;ять</text>
+		<text>Завантаження текстур у відеопам'ять</text>
 	</string>
 	<string id="ui_mm_difficulty">
 		<text>&#160;</text>
 	</string>
 	<string id="ui_mm_disconnect">
-		<text>Від&apos;єднатися</text>
+		<text>Від'єднатися</text>
 	</string>
 	<string id="ui_mm_disconnect_message">
-		<text>Чи дійсно Ви бажаєте від&apos;єднатися?</text>
+		<text>Чи дійсно Ви бажаєте від'єднатися?</text>
 	</string>
 	<string id="ui_mm_dyn_crosshair">
 		<text>Динамічний приціл</text>
@@ -175,7 +175,7 @@
 		<text>Гамма</text>
 	</string>
 	<string id="ui_mm_geometry_lod">
-		<text>Деталізація об&apos;єктів</text>
+		<text>Деталізація об'єктів</text>
 	</string>
 	<string id="ui_mm_invert_mouse">
 		<text>Інвертувати мишу</text>
@@ -316,7 +316,7 @@
 		<text>Попер. набір</text>
 	</string>
 	<string id="ui_st_preset1">
-		<text>(DEL - видалити ім&apos;я файлу повністю)</text>
+		<text>(DEL - видалити ім'я файлу повністю)</text>
 	</string>
 	<string id="ui_st_preset2">
 		<text>Набір 2</text>
@@ -346,7 +346,7 @@
 		<text>М'які партикли</text>
 	</string>
 	<string id="ui_mm_soft_water">
-		<text>М&apos;яка вода</text>
+		<text>М'яка вода</text>
 	</string>
 	<string id="ui_mm_sun_shafts">
 		<text>Сонячні промені</text>

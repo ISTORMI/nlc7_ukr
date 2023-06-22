@@ -46,7 +46,7 @@
 		<text>Опис</text>
 	</string>
 	<string id="mp_disconnected">
-		<text>від&apos;єднався</text>
+		<text>від'єднався</text>
 	</string>
 	<string id="mp_enter_text">
 		<text>Введіть текст для голосування</text>
@@ -94,7 +94,7 @@
 		<text>Викинути</text>
 	</string>
 	<string id="mp_look_at">
-		<text>(вільно прив&apos;язаний)</text>
+		<text>(вільно прив'язаний)</text>
 	</string>
 	<string id="mp_map_desc">
 		<text>Опис карти</text>
@@ -106,7 +106,7 @@
 		<text>Режими</text>
 	</string>
 	<string id="mp_name">
-		<text>ім&apos;я</text>
+		<text>ім'я</text>
 	</string>
 	<string id="mp_next">
 		<text>Далі</text>
@@ -145,7 +145,7 @@
 		<text>Натисніть($$ACTION_BUY_MENU$$)для доступу до меню покупки</text>
 	</string>
 	<string id="mp_press_yes2pay">
-		<text>Ви маєте%d$. Ви можете купити народження за%d$. Натисніть &quot;Так&quot;, щоб заплатити.</text>
+		<text>Ви маєте%d$. Ви можете купити народження за%d$. Натисніть "Так", щоб заплатити.</text>
 	</string>
 	<string id="mp_ready">
 		<text>Увага...</text>
@@ -220,16 +220,16 @@
 		<text>проголосував</text>
 	</string>
 	<string id="mp_voted_no">
-		<text>&quot;Проти&quot;</text>
+		<text>"Проти"</text>
 	</string>
 	<string id="mp_voted_yes">
-		<text>&quot;За&quot;</text>
+		<text>"За"</text>
 	</string>
 	<string id="mp_voting_broken">
 		<text>Голосування анульоване сервером!</text>
 	</string>
 	<string id="mp_voting_started">
-		<text>Голосування &apos;%s&apos; було розпочато%s.</text>
+		<text>Голосування '%s' було розпочато%s.</text>
 	</string>
 	<string id="mp_voting_started_msg">
 		<text>Голосування розпочато!</text>
@@ -307,7 +307,7 @@
 		<text>Режими спостереження:</text>
 	</string>
 	<string id="mp_si_servername">
-		<text>Ім&apos;я сервера:</text>
+		<text>Ім'я сервера:</text>
 	</string>
 	<string id="mp_si_version">
 		<text>Версія:</text>

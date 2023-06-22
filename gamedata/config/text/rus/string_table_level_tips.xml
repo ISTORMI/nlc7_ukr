@@ -13,7 +13,7 @@
 		<text>Ел. живлення\nсекція віднім. центру</text>
 	</string>
 	<string id="tips_x8_switcher_press_05">
-		<text>Ел. живлення\nп&apos;ята секція</text>
+		<text>Ел. живлення\nп'ята секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_06">
 		<text>Ел. живлення\nшоста секція</text>
@@ -25,7 +25,7 @@
 		<text>Ел. живлення\nвосьма секція</text>
 	</string>
 	<string id="tips_x8_switcher_press_09">
-		<text>Ел. живлення\nдев&apos;ята секція</text>
+		<text>Ел. живлення\nдев'ята секція</text>
 	</string>
 	<string id="labx8_pribor1">
 		<text>Гармонізатор 1</text>
@@ -97,7 +97,7 @@
 		<text>Тунель затоплений</text>
 	</string>
 	<string id="bar_rostok">
-		<text>Дика територія - &quot;Росток&quot;</text>
+		<text>Дика територія - "Росток"</text>
 	</string>
 	<string id="car_character_use">
 		<text>Відкрити</text>
@@ -148,7 +148,7 @@
 		<text>Завдання оновлено:</text>
 	</string>
 	<string id="physic_shell_use">
-		<text>Рухати об&apos;єкт</text>
+		<text>Рухати об'єкт</text>
 	</string>
 	<string id="st_codelock">
 		<text>Набрати код</text>
@@ -217,10 +217,10 @@
 		<text>На склади</text>
 	</string>
 	<string id="to_pripyat">
-		<text>У Прип&apos;ять</text>
+		<text>У Прип'ять</text>
 	</string>
 	<string id="to_radar">
-		<text>До &quot;Випалювача мізків&quot;</text>
+		<text>До "Випалювача мізків"</text>
 	</string>
 	<string id="to_rostok">
 		<text>На Дику територію</text>
